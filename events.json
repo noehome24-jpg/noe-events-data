@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-23T06:26-07:00",
+ "generatedAt": "2026-08-23T06:27-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -362,7 +362,7 @@
    "title": "Noe Valley Wellness Festival",
    "location": "Noe Valley Town Square",
    "address": "3861 24th St",
-   "desc": "Merchant village plus a demo stage: Yoga Flow, EHS Pilates, Noe Music, Olive This Olive That, Rowena Mittal Yoga, Feldenkrais. Announced on the Noe Valley merchants Instagram (@noevalleymerchants); not listed on any website source in the registry as of Aug 22.",
+   "desc": "Merchant village plus a demo stage: Yoga Flow, EHS Pilates, Noe Music, Olive This Olive That, Rowena Mittal Yoga, Feldenkrais. Announced on the Noe Valley merchants Instagram (@noevalleymerchants); confirmed 8/23 on the NVMPA site at noemerchants.com/wellness-festival.",
    "endRaw": "15:00",
    "price": "Free",
    "free": true,
@@ -370,11 +370,11 @@
     "active",
     "social"
    ],
-   "url": "https://www.instagram.com/noevalleymerchants/",
-   "source": "instagram.com",
+   "url": "https://noemerchants.com/wellness-festival/",
+   "source": "noemerchants.com",
    "submittedBy": "",
-   "lastChecked": "2026-08-23 06:19 PT",
-   "checkedAt": "2026-08-23T06:19:00-07:00",
+   "lastChecked": "2026-08-23 06:27 PT",
+   "checkedAt": "2026-08-23T06:27:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
