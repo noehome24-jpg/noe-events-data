@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-23T06:28-07:00",
+ "generatedAt": "2026-08-23T06:32-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -1006,10 +1006,10 @@
    "day": "Monday",
    "cadence": "weekly",
    "when": "Monday-Friday",
-   "time": "Until 6:00pm (start time obscured in photo)",
+   "time": "Until 6:00pm",
    "desc": "Weekday happy hour",
-   "details": "Complimentary crispy noodle chips, cheap egg rolls, $8 wine; beer prices/start time obscured. 3991 24th St",
-   "location": "3991 24th St",
+   "details": "Complimentary crispy noodle chips, cheap egg rolls, $8 wine. 3991 24th St.",
+   "location": "3991 24th St.",
    "url": "",
    "tags": [
     "food"
