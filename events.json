@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-23T13:35-07:00",
+ "generatedAt": "2026-08-23T13:40-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -1270,7 +1270,6 @@
    "url": "",
    "sourceNote": "[in-venue sign]",
    "source": "",
-   "confidence": "Medium - detail read is partial",
    "lastChecked": "2026-08-23 13:30 PT",
    "checkedAt": "2026-08-23T13:30:00-07:00"
   },
@@ -1295,7 +1294,6 @@
    "url": "https://www.novysf.com/",
    "sourceNote": "",
    "source": "novysf.com",
-   "confidence": "High",
    "lastChecked": "2026-08-23 13:30 PT",
    "checkedAt": "2026-08-23T13:30:00-07:00"
   },
@@ -1320,7 +1318,6 @@
    "url": "https://www.dublinerbarsf.com/events",
    "sourceNote": "",
    "source": "dublinerbarsf.com",
-   "confidence": "Medium",
    "lastChecked": "2026-08-23 13:30 PT",
    "checkedAt": "2026-08-23T13:30:00-07:00"
   },
@@ -1337,7 +1334,6 @@
    "url": "https://www.yelp.com/biz/the-valley-tavern-san-francisco",
    "sourceNote": "",
    "source": "yelp.com",
-   "confidence": "Low",
    "lastChecked": "2026-08-23 13:30 PT",
    "checkedAt": "2026-08-23T13:30:00-07:00"
   }
