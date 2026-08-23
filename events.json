@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-23T08:46-07:00",
+ "generatedAt": "2026-08-23T08:47-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -172,7 +172,7 @@
    "month": "Aug",
    "dayNum": 23,
    "start": "",
-   "time": "",
+   "time": "All day",
    "title": "A VERY LAUFEY DAY",
    "location": "Noe Valley Books",
    "address": "3957 24th St",
@@ -201,7 +201,7 @@
    "month": "Aug",
    "dayNum": 23,
    "start": "",
-   "time": "",
+   "time": "All day",
    "title": "Omnivore Books annual sale - 20-50% off the whole shop",
    "location": "Omnivore Books on Food",
    "address": "3885a Cesar Chavez St",
