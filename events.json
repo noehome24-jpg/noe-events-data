@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-23T08:47-07:00",
+ "generatedAt": "2026-08-23T09:24-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -303,6 +303,34 @@
    "status": "Confirmed"
   },
   {
+   "id": "w5",
+   "date": "2026-08-25",
+   "day": "Tuesday",
+   "month": "Aug",
+   "dayNum": 25,
+   "start": "16:30",
+   "time": "4:30pm \u2013 8:30pm",
+   "title": "Noe Valley Night Market",
+   "location": "Noe Valley Town Square + 24th St",
+   "address": "3861 24th St",
+   "desc": "Live music, local food, artists and shopping in and around the Town Square; Lambert Moss MCs. Free admission.",
+   "endRaw": "20:30",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "food"
+   ],
+   "url": "https://noemerchants.com/nightmarket/",
+   "source": "noemerchants.com",
+   "submittedBy": "",
+   "lastChecked": "2026-08-23 09:24 PT",
+   "checkedAt": "2026-08-23T09:24:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
    "id": "w6",
    "date": "2026-08-27",
    "day": "Thursday",
@@ -560,6 +588,34 @@
    "url": "https://sfpl.org/events/2026/09/26/celebration-open-house",
    "source": "sfpl.org",
    "lastChecked": "",
+   "status": "Confirmed"
+  },
+  {
+   "id": "w15",
+   "date": "2026-09-29",
+   "day": "Tuesday",
+   "month": "Sep",
+   "dayNum": 29,
+   "start": "16:30",
+   "time": "4:30pm \u2013 8:30pm",
+   "title": "Noe Valley Night Market",
+   "location": "Noe Valley Town Square + 24th St",
+   "address": "3861 24th St",
+   "desc": "Live music, local food, artists and shopping in and around the Town Square. Free admission. NVMPA runs the Night Market on the last Tuesday of the month.",
+   "endRaw": "20:30",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "food"
+   ],
+   "url": "https://noevalleytownsquare.com/events/",
+   "source": "noevalleytownsquare.com",
+   "submittedBy": "",
+   "lastChecked": "2026-08-23 09:24 PT",
+   "checkedAt": "2026-08-23T09:24:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
    "status": "Confirmed"
   },
   {
