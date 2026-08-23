@@ -949,6 +949,23 @@
    "free": false
   },
   {
+   "id": "r0f89aaea",
+   "title": "Noe Valley Night Market (NVMPA)",
+   "day": "Tuesday",
+   "cadence": "monthly",
+   "when": "Last Tuesday of the month",
+   "time": "4:30pm \u2013 8:30pm",
+   "desc": "Monthly night market with food, drink specials, local retail, artists and live music",
+   "details": "Free entry. Noe Valley Town Square. Next: Tue Aug 25 and Tue Sep 29, 2026",
+   "location": "Noe Valley Town Square",
+   "url": "https://noemerchants.com/nightmarket/",
+   "tags": [
+    "food",
+    "arts"
+   ],
+   "free": true
+  },
+  {
    "id": "rd087e39c",
    "title": "Noe Valley Wine Walk (NVMPA)",
    "day": "Seasonal (summer + holiday editions)",
