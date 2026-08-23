@@ -1200,31 +1200,5 @@
    "free": false
   }
  ],
- "withheld": [
-  {
-   "tab": "This Week",
-   "row": "Noe Valley Night Market",
-   "flag": "VERIFY - time disputed: Town Square says 4:30-8:30pm, Funcheap says 5-8pm"
-  },
-  {
-   "tab": "Library",
-   "row": "Storytime: For Babies",
-   "flag": "seasonal gap - not on current calendar"
-  },
-  {
-   "tab": "Recurring",
-   "row": "Noe Valley Night Market (NVMPA)",
-   "flag": "VERIFY - time disputed: Town Square says 4:30-8:30pm, Funcheap says 5-8pm"
-  },
-  {
-   "tab": "Recurring",
-   "row": "SFPL Noe Valley/Sally Brunn Branch - Storytime for Toddlers",
-   "flag": "MERGED 8/23 - duplicate of Library tab row \"Storytime: For Toddlers\" (same Monday 11:15-11:45am). Library row is canonical; do not publish this one."
-  },
-  {
-   "tab": "Recurring",
-   "row": "Mr. Digby's Cocktail Hour",
-   "flag": "DO NOT PUBLISH - closed; Grand Lake Kitchen took 1199 Church in March 2026"
-  }
- ]
+ "note": "Published calendar for noeplacelikehome.io. Verified rows only - anything flagged for verification in the master sheet is not in this file."
 }
