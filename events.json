@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-08-23T13:30-07:00",
+ "generatedAt": "2026-08-23T13:35-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
-   "id": "l21",
+   "id": "e2a88be4e",
    "date": "2026-08-22",
    "day": "Saturday",
    "month": "Aug",
@@ -25,7 +25,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "w0",
+   "id": "efc0bd678",
    "date": "2026-08-23",
    "day": "Sunday",
    "month": "Aug",
@@ -53,7 +53,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "w9",
+   "id": "e36bb99ad",
    "date": "2026-08-23",
    "day": "Sunday",
    "month": "Aug",
@@ -81,7 +81,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "w1",
+   "id": "e7e74f1ac",
    "date": "2026-08-23",
    "day": "Sunday",
    "month": "Aug",
@@ -109,7 +109,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "w2",
+   "id": "ee488e538",
    "date": "2026-08-23",
    "day": "Sunday",
    "month": "Aug",
@@ -137,7 +137,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "w3",
+   "id": "ef3f0e0ba",
    "date": "2026-08-23",
    "day": "Sunday",
    "month": "Aug",
@@ -166,7 +166,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "w13",
+   "id": "e0eba0507",
    "date": "2026-08-23",
    "day": "Sunday",
    "month": "Aug",
@@ -195,7 +195,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "w14",
+   "id": "ef223e753",
    "date": "2026-08-23",
    "day": "Sunday",
    "month": "Aug",
@@ -224,7 +224,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "l20",
+   "id": "ecca8ff0b",
    "date": "2026-08-23",
    "day": "Sunday",
    "month": "Aug",
@@ -247,7 +247,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "w11",
+   "id": "e725a8f96",
    "date": "2026-08-24",
    "day": "Monday",
    "month": "Aug",
@@ -275,7 +275,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "w4",
+   "id": "e1c5ed398",
    "date": "2026-08-25",
    "day": "Tuesday",
    "month": "Aug",
@@ -303,7 +303,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "w5",
+   "id": "e3e93cb2e",
    "date": "2026-08-25",
    "day": "Tuesday",
    "month": "Aug",
@@ -331,7 +331,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "w6",
+   "id": "eb6135fc3",
    "date": "2026-08-27",
    "day": "Thursday",
    "month": "Aug",
@@ -359,7 +359,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "w7",
+   "id": "e1fa5d1b9",
    "date": "2026-08-28",
    "day": "Friday",
    "month": "Aug",
@@ -387,7 +387,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "l22",
+   "id": "e1db74b93",
    "date": "2026-08-28",
    "day": "Friday",
    "month": "Aug",
@@ -410,7 +410,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "w8",
+   "id": "e6b95b22d",
    "date": "2026-08-29",
    "day": "Saturday",
    "month": "Aug",
@@ -438,7 +438,7 @@
    "status": "Confirmed (standing weekly)"
   },
   {
-   "id": "w10",
+   "id": "eab544326",
    "date": "2026-08-30",
    "day": "Sunday",
    "month": "Aug",
@@ -467,7 +467,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "w12",
+   "id": "ec74fc1c1",
    "date": "2026-09-09",
    "day": "Wednesday",
    "month": "Sep",
@@ -496,7 +496,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "l13",
+   "id": "eacff5f3d",
    "date": "2026-09-12",
    "day": "Saturday",
    "month": "Sep",
@@ -519,13 +519,13 @@
    "status": "Confirmed"
   },
   {
-   "id": "l12",
+   "id": "e098db345",
    "date": "2026-09-19",
    "day": "Saturday",
    "month": "Sep",
    "dayNum": 19,
    "start": "",
-   "time": "11:15pm \u2013 12:00pm",
+   "time": "11:15am \u2013 12:00pm",
    "title": "Bilingual Birdies",
    "location": "Noe Valley / Sally Brunn Library",
    "address": "451 Jersey St",
@@ -543,7 +543,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "l19",
+   "id": "ef8e13c5d",
    "date": "2026-09-20",
    "day": "Sunday",
    "month": "Sep",
@@ -566,7 +566,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "l11",
+   "id": "e070fd9d8",
    "date": "2026-09-26",
    "day": "Saturday",
    "month": "Sep",
@@ -591,7 +591,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "w15",
+   "id": "eda7340ca",
    "date": "2026-09-29",
    "day": "Tuesday",
    "month": "Sep",
@@ -619,7 +619,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "l14",
+   "id": "ea7f38a13",
    "date": "2026-10-10",
    "day": "Saturday",
    "month": "Oct",
@@ -641,7 +641,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "l17",
+   "id": "e8755e2ca",
    "date": "2026-10-13",
    "day": "Tuesday",
    "month": "Oct",
@@ -664,7 +664,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "l15",
+   "id": "e42387435",
    "date": "2026-10-17",
    "day": "Saturday",
    "month": "Oct",
@@ -686,7 +686,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "l16",
+   "id": "e9f156704",
    "date": "2026-10-23",
    "day": "Friday",
    "month": "Oct",
@@ -709,7 +709,7 @@
    "status": "Confirmed"
   },
   {
-   "id": "l18",
+   "id": "e3fd2105b",
    "date": "2026-10-25",
    "day": "Sunday",
    "month": "Oct",
@@ -733,7 +733,7 @@
  ],
  "recurring": [
   {
-   "id": "lr0",
+   "id": "r0e1d58c1",
    "title": "Storytime: For Toddlers",
    "day": "Monday",
    "cadence": "weekly",
@@ -750,7 +750,7 @@
    "free": true
   },
   {
-   "id": "lr1",
+   "id": "r44764d50",
    "title": "Storytime: For Families",
    "day": "Thursday",
    "cadence": "weekly",
@@ -766,7 +766,7 @@
    "free": true
   },
   {
-   "id": "lr2",
+   "id": "r3715994b",
    "title": "Storytime: Pajama Storytime",
    "day": "Tuesday",
    "cadence": "monthly",
@@ -782,7 +782,7 @@
    "free": true
   },
   {
-   "id": "lr3",
+   "id": "r50e15db5",
    "title": "Math Tutoring (Engage Tutoring partnership)",
    "day": "Tuesday",
    "cadence": "weekly",
@@ -799,7 +799,7 @@
    "free": true
   },
   {
-   "id": "lr4",
+   "id": "r5c5a9a0d",
    "title": "Homework Hangout",
    "day": "Tuesday",
    "cadence": "other",
@@ -815,7 +815,7 @@
    "free": true
   },
   {
-   "id": "lr5",
+   "id": "rc0427684",
    "title": "Book Club: Alone Together Book Club",
    "day": "Monday",
    "cadence": "weekly",
@@ -833,7 +833,7 @@
    "free": true
   },
   {
-   "id": "lr6",
+   "id": "r82529401",
    "title": "Book Club: Short Stack Book Club",
    "day": "Friday",
    "cadence": "monthly",
@@ -850,7 +850,7 @@
    "free": true
   },
   {
-   "id": "lr7",
+   "id": "r03b1b49c",
    "title": "Activity: Noe Valley Knitting Circle",
    "day": "Saturday",
    "cadence": "monthly",
@@ -866,7 +866,7 @@
    "free": true
   },
   {
-   "id": "lr8",
+   "id": "r14d21b31",
    "title": "Social: Noe Valley - Village Within a City",
    "day": "Sunday",
    "cadence": "monthly",
@@ -884,7 +884,7 @@
    "free": true
   },
   {
-   "id": "lr9",
+   "id": "r266d62d4",
    "title": "Adult Film Series",
    "day": "Friday",
    "cadence": "monthly",
@@ -900,7 +900,7 @@
    "free": true
   },
   {
-   "id": "lr10",
+   "id": "r5d3ba416",
    "title": "Tutorial: Drop-in Tech Help",
    "day": "Monday",
    "cadence": "other",
@@ -916,7 +916,7 @@
    "free": true
   },
   {
-   "id": "lr24",
+   "id": "r0eaddffc",
    "title": "Adult Crafts / eReader Help / Noe Valley Book Groups (branch-page ongoing programs)",
    "day": "Monthly (cadence per branch page)",
    "cadence": "monthly",
@@ -932,7 +932,7 @@
    "free": true
   },
   {
-   "id": "r0",
+   "id": "rf0d8ba87",
    "title": "Noe Valley Farmers Market",
    "day": "Saturday",
    "cadence": "weekly",
@@ -949,7 +949,7 @@
    "free": false
   },
   {
-   "id": "r2",
+   "id": "rd087e39c",
    "title": "Noe Valley Wine Walk (NVMPA)",
    "day": "Seasonal (summer + holiday editions)",
    "cadence": "other",
@@ -966,7 +966,7 @@
    "free": false
   },
   {
-   "id": "r3",
+   "id": "r58181563",
    "title": "Noe Valley Books Book Club",
    "day": "Thursday",
    "cadence": "monthly",
@@ -983,7 +983,7 @@
    "free": false
   },
   {
-   "id": "r4",
+   "id": "r10eac54f",
    "title": "Noe Valley Books Kids Storytime",
    "day": "Saturday",
    "cadence": "monthly",
@@ -1000,7 +1000,7 @@
    "free": true
   },
   {
-   "id": "r6",
+   "id": "reb0ec3e1",
    "title": "SFPL Noe Valley Book Club (library-run)",
    "day": "Monthly, weekday evening",
    "cadence": "monthly",
@@ -1018,7 +1018,7 @@
    "free": false
   },
   {
-   "id": "r7",
+   "id": "r3a8e2be3",
    "title": "The Dubliner Tuesday Trivia Night",
    "day": "Tuesday",
    "cadence": "weekly",
@@ -1034,7 +1034,7 @@
    "free": false
   },
   {
-   "id": "r8",
+   "id": "rf97bad7c",
    "title": "The Dubliner Bar Bingo",
    "day": "Wednesday",
    "cadence": "weekly",
@@ -1050,7 +1050,7 @@
    "free": true
   },
   {
-   "id": "r9",
+   "id": "r79700905",
    "title": "The Dubliner NFL Ticket",
    "day": "Sunday",
    "cadence": "weekly",
@@ -1067,7 +1067,7 @@
    "free": false
   },
   {
-   "id": "r10",
+   "id": "r19dc54f6",
    "title": "Valley Tavern Trivia Night",
    "day": "Tuesday",
    "cadence": "weekly",
@@ -1083,7 +1083,7 @@
    "free": false
   },
   {
-   "id": "r11",
+   "id": "r395ea155",
    "title": "Heritage Happy Hour at the Dubliner (SF Heritage)",
    "day": "Monthly",
    "cadence": "monthly",
@@ -1100,7 +1100,7 @@
    "free": true
   },
   {
-   "id": "r12",
+   "id": "r0c0adff0",
    "title": "Noe Valley Run Club",
    "day": "Friday",
    "cadence": "weekly",
@@ -1118,7 +1118,7 @@
    "free": false
   },
   {
-   "id": "r13",
+   "id": "r733db047",
    "title": "Noe Walks",
    "day": "Saturday",
    "cadence": "weekly",
@@ -1134,7 +1134,7 @@
    "free": true
   },
   {
-   "id": "r14",
+   "id": "r602297bf",
    "title": "Free Sunday Morning Yoga (Yoga Flow SF x Noe Valley Town Square)",
    "day": "Sunday",
    "cadence": "weekly",
@@ -1151,7 +1151,7 @@
    "free": true
   },
   {
-   "id": "r15",
+   "id": "re543c4bb",
    "title": "Sunday Music in the Square",
    "day": "Sunday",
    "cadence": "weekly",
@@ -1167,7 +1167,7 @@
    "free": true
   },
   {
-   "id": "r16",
+   "id": "r3f845483",
    "title": "Rhythm & Motion dance workout + happy hour",
    "day": "Saturday",
    "cadence": "monthly",
@@ -1184,7 +1184,7 @@
    "free": true
   },
   {
-   "id": "r17",
+   "id": "r1466af98",
    "title": "Noe Valley Open Mic (with Community Music Hangout)",
    "day": "Sunday",
    "cadence": "monthly",
@@ -1201,7 +1201,7 @@
    "free": true
   },
   {
-   "id": "r18",
+   "id": "rf326ac7f",
    "title": "Beach Glass Hot Yoga & Pilates",
    "day": "Daily",
    "cadence": "other",
@@ -1217,7 +1217,7 @@
    "free": false
   },
   {
-   "id": "r19",
+   "id": "raad7988c",
    "title": "Yoga Flow SF - Noe Valley studio",
    "day": "Daily",
    "cadence": "other",
@@ -1234,7 +1234,7 @@
    "free": true
   },
   {
-   "id": "r20",
+   "id": "r72c82baf",
    "title": "Noe Music mainstage concerts",
    "day": "Monthly-ish during season",
    "cadence": "monthly",
@@ -1252,7 +1252,7 @@
  ],
  "happyHours": [
   {
-   "id": "h0",
+   "id": "hh1860a8d4",
    "venue": "Mamahuhu",
    "deal": "Weekday happy hour",
    "when": "Monday-Friday",
@@ -1275,7 +1275,7 @@
    "checkedAt": "2026-08-23T13:30:00-07:00"
   },
   {
-   "id": "h1",
+   "id": "hh348384f6",
    "venue": "NOVY",
    "deal": "Daily happy hour",
    "when": "Every day",
@@ -1300,7 +1300,7 @@
    "checkedAt": "2026-08-23T13:30:00-07:00"
   },
   {
-   "id": "h3",
+   "id": "hh11844ecd",
    "venue": "The Dubliner",
    "deal": "Daily drink specials",
    "when": "Daily",
@@ -1325,7 +1325,7 @@
    "checkedAt": "2026-08-23T13:30:00-07:00"
   },
   {
-   "id": "h2",
+   "id": "hhe0baf18e",
    "venue": "The Valley Tavern",
    "deal": "Happy hour",
    "when": "Not posted",
