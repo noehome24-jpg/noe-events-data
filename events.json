@@ -1067,7 +1067,7 @@
    "free": false
   },
   {
-   "id": "r11",
+   "id": "r10",
    "title": "Valley Tavern Trivia Night",
    "day": "Tuesday",
    "cadence": "weekly",
@@ -1083,7 +1083,7 @@
    "free": false
   },
   {
-   "id": "r16",
+   "id": "r11",
    "title": "Heritage Happy Hour at the Dubliner (SF Heritage)",
    "day": "Monthly",
    "cadence": "monthly",
@@ -1100,7 +1100,7 @@
    "free": true
   },
   {
-   "id": "r17",
+   "id": "r12",
    "title": "Noe Valley Run Club",
    "day": "Friday",
    "cadence": "weekly",
@@ -1118,7 +1118,7 @@
    "free": false
   },
   {
-   "id": "r18",
+   "id": "r13",
    "title": "Noe Walks",
    "day": "Saturday",
    "cadence": "weekly",
@@ -1134,7 +1134,7 @@
    "free": true
   },
   {
-   "id": "r19",
+   "id": "r14",
    "title": "Free Sunday Morning Yoga (Yoga Flow SF x Noe Valley Town Square)",
    "day": "Sunday",
    "cadence": "weekly",
@@ -1151,7 +1151,7 @@
    "free": true
   },
   {
-   "id": "r20",
+   "id": "r15",
    "title": "Sunday Music in the Square",
    "day": "Sunday",
    "cadence": "weekly",
@@ -1167,7 +1167,7 @@
    "free": true
   },
   {
-   "id": "r21",
+   "id": "r16",
    "title": "Rhythm & Motion dance workout + happy hour",
    "day": "Saturday",
    "cadence": "monthly",
@@ -1184,7 +1184,7 @@
    "free": true
   },
   {
-   "id": "r22",
+   "id": "r17",
    "title": "Noe Valley Open Mic (with Community Music Hangout)",
    "day": "Sunday",
    "cadence": "monthly",
@@ -1201,7 +1201,7 @@
    "free": true
   },
   {
-   "id": "r23",
+   "id": "r18",
    "title": "Beach Glass Hot Yoga & Pilates",
    "day": "Daily",
    "cadence": "other",
@@ -1217,7 +1217,7 @@
    "free": false
   },
   {
-   "id": "r24",
+   "id": "r19",
    "title": "Yoga Flow SF - Noe Valley studio",
    "day": "Daily",
    "cadence": "other",
@@ -1234,7 +1234,7 @@
    "free": true
   },
   {
-   "id": "r25",
+   "id": "r20",
    "title": "Noe Music mainstage concerts",
    "day": "Monthly-ish during season",
    "cadence": "monthly",
