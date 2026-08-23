@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-23T13:40-07:00",
+ "generatedAt": "2026-08-23T13:47-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -448,7 +448,7 @@
    "title": "Noe Valley Wellness Festival",
    "location": "Noe Valley Town Square",
    "address": "3861 24th St",
-   "desc": "Merchant village plus a demo stage: Yoga Flow, EHS Pilates, Noe Music, Olive This Olive That, Rowena Mittal Yoga, Feldenkrais. Announced on the Noe Valley merchants Instagram (@noevalleymerchants); confirmed 8/23 on the NVMPA site at noemerchants.com/wellness-festival",
+   "desc": "Merchant village plus a demo stage: Yoga Flow, EHS Pilates, Noe Music, Olive This Olive That, Rowena Mittal Yoga, Feldenkrais",
    "endRaw": "15:00",
    "price": "Free",
    "free": true,
@@ -740,7 +740,7 @@
    "when": "Weekly Monday",
    "time": "11:15am \u2013 11:45am",
    "desc": "Books, songs, movement for toddlers 16 months - age 2 and caregivers",
-   "details": "Noe Valley Meeting Room. Space limited; free tickets at the door from 11:00am. Upcoming: 8/24, 8/31, 9/14, 9/21, 9/28, 10/5, 10/19, 10/26. Skips Mon 9/7 (Labor Day) and Mon 10/12 (Indigenous Peoples Day) - library closed. Merged 8/23 with the duplicate Recurring-tab row \"SFPL Noe Valley/Sally Brunn Branch - Storytime for Toddlers\": weekday can shift (one Sep 2026 date landed on a Tuesday), so check sfpl.org/events.",
+   "details": "Noe Valley Meeting Room. Space limited; free tickets at the door from 11:00am. Upcoming: 8/24, 8/31, 9/14, 9/21, 9/28, 10/5, 10/19, 10/26. Skips Mon 9/7 (Labor Day) and Mon 10/12 (Indigenous Peoples Day) - library closed. Merged 8/23 with the duplicate Recurring-tab row \"SFPL Noe Valley/Sally Brunn Branch - Storytime for Toddlers\": weekday can shift (one Sep 2026 date landed on a Tuesday), so check sfpl.org/events",
    "location": "Noe Valley Library, 451 Jersey St",
    "url": "https://sfpl.org/events/2026/08/24/storytime-toddlers-1",
    "tags": [
@@ -757,7 +757,7 @@
    "when": "Weekly Thursday",
    "time": "10:15am \u2013 10:45am and 11:00am \u2013 11:30am",
    "desc": "Family storytime for babies/toddlers/preschoolers, two back-to-back sessions every Thursday morning",
-   "details": "Two identical sessions each Thu; families pick one. Every Thu through at least 10/29 (10/15 and 10/22 2nd session listed as storytime-families-2). Drop-in.",
+   "details": "Two identical sessions each Thu; families pick one. Every Thu through at least 10/29 (10/15 and 10/22 2nd session listed as storytime-families-2). Drop-in",
    "location": "Noe Valley Library, 451 Jersey St",
    "url": "https://sfpl.org/events/2026/08/27/storytime-families-1",
    "tags": [
@@ -773,7 +773,7 @@
    "when": "Monthly Tuesday (last Tue)",
    "time": "6:30pm \u2013 7:00pm",
    "desc": "Evening family storytime, kids welcome in pajamas",
-   "details": "Upcoming: 8/25, 9/29, 10/27.",
+   "details": "Upcoming: 8/25, 9/29, 10/27",
    "location": "Noe Valley Library, 451 Jersey St",
    "url": "https://sfpl.org/events/2026/08/25/storytime-pajama-storytime",
    "tags": [
@@ -789,7 +789,7 @@
    "when": "Weekly Tuesday",
    "time": "4:00pm \u2013 5:00pm",
    "desc": "Free drop-in math tutoring for elementary and middle school students by high school volunteers from Engage at Urban School of SF",
-   "details": "Runs every Tue 9/8 through 10/27+. SEASONAL SHIFT: August sessions are branded 'Math Summer Camp' (8/25); relabels to 'Math Tutoring' once school starts. Summer vs school-year branding only - same slot and partner.",
+   "details": "Runs every Tue 9/8 through 10/27+",
    "location": "Noe Valley Library, 451 Jersey St",
    "url": "https://sfpl.org/events/2026/09/08/services-math-tutoring",
    "tags": [
@@ -806,7 +806,7 @@
    "when": "Tuesdays (school year; 9/1 and 10/6 in window)",
    "time": "3:30pm \u2013 5:00pm",
    "desc": "Drop-in homework space for ages 10-18; librarians refer to online tutoring; math tutoring by Engage/Urban School volunteers; snacks on request",
-   "details": "Only two instances listed in window, immediately before that day's 4pm Math Tutoring - likely paired. School-year program; recheck monthly.",
+   "details": "School-year program, so it pauses over school breaks",
    "location": "Noe Valley Library, 451 Jersey St",
    "url": "https://sfpl.org/events/2026/09/01/activity-homework-hangout",
    "tags": [
@@ -822,7 +822,7 @@
    "when": "Mondays (~biweekly)",
    "time": "4:00pm \u2013 5:00pm",
    "desc": "Teen/middle-school book club",
-   "details": "Upcoming: 9/21, 10/19.",
+   "details": "Upcoming: 9/21, 10/19. Individual sessions are sometimes cancelled, so check the branch listing the week of",
    "location": "Noe Valley Library, 451 Jersey St",
    "url": "https://sfpl.org/events/2026/09/21/book-club-alone-together-book-club",
    "tags": [
@@ -840,7 +840,7 @@
    "when": "Fridays (~monthly)",
    "time": "3:00pm \u2013 4:00pm",
    "desc": "Adult book club",
-   "details": "Upcoming: 9/18, 10/16. Shares the Friday 3pm slot with other one-off book-club titles (see His Dark Materials, 8/28).",
+   "details": "Upcoming: 9/18, 10/16. Shares the Friday 3pm slot with other one-off book-club titles (see His Dark Materials, 8/28)",
    "location": "Noe Valley Library, 451 Jersey St",
    "url": "https://sfpl.org/events/2026/09/18/book-club-short-stack-book-club",
    "tags": [
@@ -857,7 +857,7 @@
    "when": "First Saturday, monthly",
    "time": "10:00am \u2013 12:00pm",
    "desc": "Drop-in knitting circle (branch also lists it as a standing monthly program)",
-   "details": "Upcoming: 9/5, 10/3 (ran 8/1 too). Adults and teens.",
+   "details": "Upcoming: 9/5, 10/3 (ran 8/1 too). Adults and teens",
    "location": "Noe Valley Library, 451 Jersey St",
    "url": "https://sfpl.org/events/2026/09/05/activity-noe-valley-knitting-circle",
    "tags": [
@@ -873,7 +873,7 @@
    "when": "~Monthly Sunday",
    "time": "2:00pm \u2013 4:00pm",
    "desc": "SF City Guides walking tour/talk on Noe Valley history, starting from the branch back courtyard",
-   "details": "Upcoming: 8/23, 9/13, 10/25. REGISTRATION REQUIRED - managed by San Francisco City Guides, space limited.",
+   "details": "Upcoming: 8/23, 9/13, 10/25. REGISTRATION REQUIRED - managed by San Francisco City Guides, space limited",
    "location": "Noe Valley Library, 451 Jersey St",
    "url": "https://sfpl.org/events/2026/09/13/social-noe-valley-village-within-city",
    "tags": [
@@ -891,7 +891,7 @@
    "when": "Friday (~monthly)",
    "time": "2:00pm \u2013 4:00pm",
    "desc": "Monthly-ish afternoon movie, alternating classics and new releases",
-   "details": "Upcoming: 9/11 The Shape of Water (\u00a1VIVA! tie-in), 10/9 True Grit. Title changes monthly - publish per-month, not as standing title.",
+   "details": "Upcoming: 9/11 The Shape of Water (\u00a1VIVA! tie-in), 10/9 True Grit. Title changes monthly - publish per-month, not as standing title",
    "location": "Noe Valley Library, 451 Jersey St",
    "url": "https://sfpl.org/events/2026/09/11/film-shape-water",
    "tags": [
@@ -907,7 +907,7 @@
    "when": "Monday (9/14 seen in window)",
    "time": "2:00pm \u2013 3:00pm",
    "desc": "One-on-one help with devices/eresources (branch page also lists ongoing 'eReader and Online Resources' help)",
-   "details": "Only one instance in the Aug-Oct window; branch page advertises it as ongoing, so cadence is unclear - confirm with branch at 415-355-5707.",
+   "details": "Drop-in tech help at the branch",
    "location": "Noe Valley Library, 451 Jersey St",
    "url": "https://sfpl.org/events/2026/09/14/tutorial-drop-tech-help",
    "tags": [
@@ -1025,7 +1025,7 @@
    "when": "Tuesdays",
    "time": "8:00pm Round 1, ~9:00pm Round 2",
    "desc": "Weekly pub trivia, teams, prizes nightly, occasional drink specials/giveaways",
-   "details": "3838 24th St. Running 10+ years. Third-party listing verified Jul 30",
+   "details": "3838 24th St. Running 10+ years",
    "location": "3838 24th St.",
    "url": "https://www.dublinerbarsf.com/events",
    "tags": [
@@ -1041,7 +1041,7 @@
    "when": "Wednesdays",
    "time": "Time not published (TBA on listings)",
    "desc": "Weekly bar bingo, modern take, free to play",
-   "details": "Free to play; drinks expected. Third-party listing verified Jul 30",
+   "details": "Free to play; drinks expected",
    "location": "",
    "url": "https://www.dublinerbarsf.com/events",
    "tags": [
@@ -1063,22 +1063,6 @@
    "tags": [
     "active",
     "social"
-   ],
-   "free": false
-  },
-  {
-   "id": "r19dc54f6",
-   "title": "Valley Tavern Trivia Night",
-   "day": "Tuesday",
-   "cadence": "weekly",
-   "when": "Tuesdays",
-   "time": "8:00pm",
-   "desc": "Weekly pub trivia",
-   "details": "4054 24th St. Listed on trivia aggregators; not confirmed on venue site (valleytavern.com is Shopify cart only)",
-   "location": "4054 24th St.",
-   "url": "https://pubtrivianight.com/places/ca/san-francisco/the-valley-tavern-2/",
-   "tags": [
-    "food"
    ],
    "free": false
   },
@@ -1174,7 +1158,7 @@
    "when": "Monthly, Saturday",
    "time": "4:00pm \u2013 5:00pm",
    "desc": "Monthly one-hour dance workout class then neighborly mixer with treats and raffle prizes",
-   "details": "Free. Noe Valley Town Square (seen Jul 18, 2026)",
+   "details": "Free. Noe Valley Town Square",
    "location": "Noe Valley Town Square",
    "url": "https://noevalleytownsquare.com/events",
    "tags": [
@@ -1191,7 +1175,7 @@
    "when": "Monthly-ish, Sunday",
    "time": "1:00pm \u2013 3:00pm",
    "desc": "Open mic - solo or pick-up band; keyboard, mics, cables, drums and songbooks on site",
-   "details": "Free, all levels. Noe Valley Town Square (seen Jul 12, 2026)",
+   "details": "Free, all levels. Noe Valley Town Square",
    "location": "Noe Valley Town Square",
    "url": "https://noevalleytownsquare.com/events",
    "tags": [
