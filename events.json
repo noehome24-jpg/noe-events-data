@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-23T09:24-07:00",
+ "generatedAt": "2026-08-23T13:30-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -35,7 +35,7 @@
    "title": "Free Sunday Morning Yoga (Yoga Flow SF)",
    "location": "Noe Valley Town Square",
    "address": "3861 24th St",
-   "desc": "Bring mat and water. Weather permitting per venue note.",
+   "desc": "Bring mat and water. Weather permitting per venue note",
    "endRaw": "12:00",
    "price": "Free",
    "free": true,
@@ -63,7 +63,7 @@
    "title": "Streetside Chai popup",
    "location": "Streetside Chai home garage",
    "address": "25th & Sanchez",
-   "desc": "Run by Areeb & Sharmeen.",
+   "desc": "Run by Areeb & Sharmeen",
    "endRaw": "14:00",
    "price": "Free entry; proceeds to the SF Women's Building",
    "free": true,
@@ -91,7 +91,7 @@
    "title": "Sunday Music in the Square: Cabernet Quartet",
    "location": "Noe Valley Town Square",
    "address": "3861 24th St",
-   "desc": "String quartet.",
+   "desc": "String quartet",
    "endRaw": "14:00",
    "price": "Free",
    "free": true,
@@ -119,7 +119,7 @@
    "title": "Sunday Music in the Square: Barb Murphy",
    "location": "Noe Valley Town Square",
    "address": "3861 24th St",
-   "desc": "Folk/rock/country set.",
+   "desc": "Folk/rock/country set",
    "endRaw": "15:00",
    "price": "Free",
    "free": true,
@@ -147,7 +147,7 @@
    "title": "SF City Guides walking tour - Noe Valley: Village Within a City",
    "location": "Noe Valley/Sally Brunn Library back courtyard",
    "address": "451 Jersey St",
-   "desc": "Space limited; reservations handled by SF City Guides not the library.",
+   "desc": "Space limited; reservations handled by SF City Guides not the library",
    "endRaw": "16:00",
    "price": "Free",
    "free": true,
@@ -176,7 +176,7 @@
    "title": "A VERY LAUFEY DAY",
    "location": "Noe Valley Books",
    "address": "3957 24th St",
-   "desc": "Official indie bookstore stop for A Very Laufey Day - browse the shelves, meet other fans, limited edition items. All day; start and end times not posted.",
+   "desc": "Official indie bookstore stop for A Very Laufey Day - browse the shelves, meet other fans, limited edition items. All day; start and end times not posted",
    "endRaw": "",
    "price": "Free",
    "free": true,
@@ -205,7 +205,7 @@
    "title": "Omnivore Books annual sale - 20-50% off the whole shop",
    "location": "Omnivore Books on Food",
    "address": "3885a Cesar Chavez St",
-   "desc": "Last day of the annual sale: 20-50% off everything in the shop, in-person only. Table books 75% off from 3:00-5:00pm. Store opening time not posted.",
+   "desc": "Last day of the annual sale: 20-50% off everything in the shop, in-person only. Table books 75% off from 3:00-5:00pm. Store opening time not posted",
    "endRaw": "",
    "price": "Free",
    "free": true,
@@ -285,7 +285,7 @@
    "title": "McKee Masterclass I: Elizabeth Dorman (SF International Piano Festival)",
    "location": "Noe Valley Ministry",
    "address": "1021 Sanchez St",
-   "desc": "Event page states \"All are welcome to this free event\".",
+   "desc": "Event page states \"All are welcome to this free event\"",
    "endRaw": "17:00",
    "price": "Free",
    "free": true,
@@ -313,7 +313,7 @@
    "title": "Noe Valley Night Market",
    "location": "Noe Valley Town Square + 24th St",
    "address": "3861 24th St",
-   "desc": "Live music, local food, artists and shopping in and around the Town Square; Lambert Moss MCs. Free admission.",
+   "desc": "Live music, local food, artists and shopping in and around the Town Square; Lambert Moss MCs. Free admission",
    "endRaw": "20:30",
    "price": "Free",
    "free": true,
@@ -341,7 +341,7 @@
    "title": "McKee Masterclass II: Stephen Prutsman",
    "location": "Noe Valley Ministry",
    "address": "1021 Sanchez St",
-   "desc": "Same series as 8/25; free per series page.",
+   "desc": "Same series as 8/25; free per series page",
    "endRaw": "17:00",
    "price": "Free",
    "free": true,
@@ -369,7 +369,7 @@
    "title": "McKee Masterclass III: Eric Zivian",
    "location": "Noe Valley Ministry",
    "address": "1021 Sanchez St",
-   "desc": "Final class in the series.",
+   "desc": "Final class in the series",
    "endRaw": "17:00",
    "price": "Free",
    "free": true,
@@ -420,7 +420,7 @@
    "title": "Noe Valley Farmers Market",
    "location": "Noe Valley Town Square",
    "address": "3861 24th St",
-   "desc": "21 vendors at capacity as of June 2026 per Noe Valley Voice.",
+   "desc": "21 vendors at capacity as of June 2026 per Noe Valley Voice",
    "endRaw": "13:00",
    "price": "Free",
    "free": true,
@@ -448,7 +448,7 @@
    "title": "Noe Valley Wellness Festival",
    "location": "Noe Valley Town Square",
    "address": "3861 24th St",
-   "desc": "Merchant village plus a demo stage: Yoga Flow, EHS Pilates, Noe Music, Olive This Olive That, Rowena Mittal Yoga, Feldenkrais. Announced on the Noe Valley merchants Instagram (@noevalleymerchants); confirmed 8/23 on the NVMPA site at noemerchants.com/wellness-festival.",
+   "desc": "Merchant village plus a demo stage: Yoga Flow, EHS Pilates, Noe Music, Olive This Olive That, Rowena Mittal Yoga, Feldenkrais. Announced on the Noe Valley merchants Instagram (@noevalleymerchants); confirmed 8/23 on the NVMPA site at noemerchants.com/wellness-festival",
    "endRaw": "15:00",
    "price": "Free",
    "free": true,
@@ -477,7 +477,7 @@
    "title": "HeartSpace free community meeting (Heart Bridge Care)",
    "location": "Noe Valley Branch Library",
    "address": "451 Jersey St",
-   "desc": "Monthly on the second Wednesday. Support circle on aging, illness and end-of-life; stories, grief, practical guidance.",
+   "desc": "Monthly on the second Wednesday. Support circle on aging, illness and end-of-life; stories, grief, practical guidance",
    "endRaw": "16:00",
    "price": "Free",
    "free": true,
@@ -601,7 +601,7 @@
    "title": "Noe Valley Night Market",
    "location": "Noe Valley Town Square + 24th St",
    "address": "3861 24th St",
-   "desc": "Live music, local food, artists and shopping in and around the Town Square. Free admission. NVMPA runs the Night Market on the last Tuesday of the month.",
+   "desc": "Live music, local food, artists and shopping in and around the Town Square. Free admission. NVMPA runs the Night Market on the last Tuesday of the month",
    "endRaw": "20:30",
    "price": "Free",
    "free": true,
@@ -1067,22 +1067,6 @@
    "free": false
   },
   {
-   "id": "r10",
-   "title": "The Dubliner daily drink specials",
-   "day": "Daily",
-   "cadence": "other",
-   "when": "Daily",
-   "time": "All day",
-   "desc": "Beer & shot combo deals; more specials on boards in the bar",
-   "details": "No published price list",
-   "location": "",
-   "url": "https://www.dublinerbarsf.com/events",
-   "tags": [
-    "food"
-   ],
-   "free": false
-  },
-  {
    "id": "r11",
    "title": "Valley Tavern Trivia Night",
    "day": "Tuesday",
@@ -1097,54 +1081,6 @@
     "food"
    ],
    "free": false
-  },
-  {
-   "id": "r12",
-   "title": "Valley Tavern happy hour",
-   "day": "Times not posted",
-   "cadence": "other",
-   "when": "Times not posted",
-   "time": "",
-   "desc": "Happy hour specials exist per Yelp, details not published online",
-   "details": "Sports bar open 11am-2am daily; big 49ers crowd on Sundays. Details likely on in-bar board",
-   "location": "",
-   "url": "https://www.yelp.com/biz/the-valley-tavern-san-francisco",
-   "tags": [
-    "food"
-   ],
-   "free": true
-  },
-  {
-   "id": "r13",
-   "title": "Mamahuhu Happy Hour",
-   "day": "Monday",
-   "cadence": "weekly",
-   "when": "Monday-Friday",
-   "time": "Until 6:00pm",
-   "desc": "Weekday happy hour",
-   "details": "Complimentary crispy noodle chips, cheap egg rolls, $8 wine. 3991 24th St.",
-   "location": "3991 24th St.",
-   "url": "",
-   "tags": [
-    "food"
-   ],
-   "free": true
-  },
-  {
-   "id": "r15",
-   "title": "NOVY Happy Hour",
-   "day": "Every day",
-   "cadence": "other",
-   "when": "Every day",
-   "time": "3:00pm \u2013 5:00pm",
-   "desc": "Daily happy hour",
-   "details": "Discounts on house beer, wine, sparkling and food favorites (per owners on OpenTable + own site). 4000 24th St",
-   "location": "4000 24th St",
-   "url": "https://www.novysf.com/",
-   "tags": [
-    "food"
-   ],
-   "free": true
   },
   {
    "id": "r16",
@@ -1312,6 +1248,98 @@
     "arts"
    ],
    "free": false
+  }
+ ],
+ "happyHours": [
+  {
+   "id": "h0",
+   "venue": "Mamahuhu",
+   "deal": "Weekday happy hour",
+   "when": "Monday-Friday",
+   "dayList": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+   ],
+   "time": "Until 6:00pm",
+   "timePosted": true,
+   "details": "Complimentary crispy noodle chips, cheap egg rolls, $8 wine",
+   "address": "3991 24th St",
+   "url": "",
+   "sourceNote": "[in-venue sign]",
+   "source": "",
+   "confidence": "Medium - detail read is partial",
+   "lastChecked": "2026-08-23 13:30 PT",
+   "checkedAt": "2026-08-23T13:30:00-07:00"
+  },
+  {
+   "id": "h1",
+   "venue": "NOVY",
+   "deal": "Daily happy hour",
+   "when": "Every day",
+   "dayList": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+   ],
+   "time": "3:00pm \u2013 5:00pm",
+   "timePosted": true,
+   "details": "House red, white and prosecco $10, draft beer $8, plus food specials",
+   "address": "4000 24th St",
+   "url": "https://www.novysf.com/",
+   "sourceNote": "",
+   "source": "novysf.com",
+   "confidence": "High",
+   "lastChecked": "2026-08-23 13:30 PT",
+   "checkedAt": "2026-08-23T13:30:00-07:00"
+  },
+  {
+   "id": "h3",
+   "venue": "The Dubliner",
+   "deal": "Daily drink specials",
+   "when": "Daily",
+   "dayList": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+   ],
+   "time": "All day",
+   "timePosted": true,
+   "details": "Beer & shot combo deals; more specials on the boards in the bar",
+   "address": "3838 24th St",
+   "url": "https://www.dublinerbarsf.com/events",
+   "sourceNote": "",
+   "source": "dublinerbarsf.com",
+   "confidence": "Medium",
+   "lastChecked": "2026-08-23 13:30 PT",
+   "checkedAt": "2026-08-23T13:30:00-07:00"
+  },
+  {
+   "id": "h2",
+   "venue": "The Valley Tavern",
+   "deal": "Happy hour",
+   "when": "Not posted",
+   "dayList": [],
+   "time": "Times not posted",
+   "timePosted": false,
+   "details": "Specials exist but the times aren't published anywhere - ask at the bar",
+   "address": "",
+   "url": "https://www.yelp.com/biz/the-valley-tavern-san-francisco",
+   "sourceNote": "",
+   "source": "yelp.com",
+   "confidence": "Low",
+   "lastChecked": "2026-08-23 13:30 PT",
+   "checkedAt": "2026-08-23T13:30:00-07:00"
   }
  ],
  "note": "Published calendar for noeplacelikehome.io. Verified rows only - anything flagged for verification in the master sheet is not in this file."
