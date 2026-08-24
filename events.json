@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-23T13:47-07:00",
+ "generatedAt": "2026-08-23T20:28-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -461,6 +461,35 @@
    "submittedBy": "",
    "lastChecked": "2026-08-23 06:27 PT",
    "checkedAt": "2026-08-23T06:27:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
+   "id": "ed7c1ddf1",
+   "date": "2026-09-03",
+   "day": "Thursday",
+   "month": "Sep",
+   "dayNum": 3,
+   "start": "19:00",
+   "time": "7:00pm \u2013 8:00pm",
+   "title": "Noe Valley Books Book Club: The Yahoo Boys",
+   "location": "Noe Valley Books",
+   "address": "3957 24th St",
+   "desc": "Book club discussion of \"The Yahoo Boys: Love, Deception, and the Real Lives of Nigeria's Romance Scammers\" by Carlos Barragan. Sign up in advance and get the book 10% off at the store",
+   "endRaw": "20:00",
+   "price": "Free (book 10% off)",
+   "free": true,
+   "tags": [
+    "arts",
+    "social"
+   ],
+   "url": "https://noevalleybooks.com/events",
+   "source": "noevalleybooks.com",
+   "submittedBy": "",
+   "lastChecked": "2026-08-23 20:28 PT",
+   "checkedAt": "2026-08-23T20:28:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -990,7 +1019,7 @@
    "when": "Monthly, Thursday",
    "time": "7:00pm \u2013 8:00pm",
    "desc": "Monthly community book club, conversation led by Isaiah",
-   "details": "Monthly pick 10% off; sign up online. Sept 3: The Yahoo Boys by Carlos Barragan",
+   "details": "Monthly pick 10% off; sign up online. Conversation led by Isaiah",
    "location": "",
    "url": "https://noevalleybooks.com/events",
    "tags": [
