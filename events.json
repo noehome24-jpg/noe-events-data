@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24T03:35-07:00",
+ "generatedAt": "2026-08-24T03:41-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -1310,6 +1310,50 @@
  ],
  "happyHours": [
   {
+   "id": "hh5671645d",
+   "venue": "Fiorella Noe Valley",
+   "deal": "Happy hour",
+   "when": "Monday, Tuesday & Thursday",
+   "dayList": [
+    "Monday",
+    "Tuesday",
+    "Thursday"
+   ],
+   "time": "5:00pm \u2013 6:00pm",
+   "timePosted": true,
+   "details": "Dine-in only. Valley Spritz $10, Negroni $10, Pink Coyote (NA) $8, house white or red $8, orange wine $10, all beer half off, all bottles of wine half off. Food: marinated olives $8, seasonal crostino $10, pizzeria salad $10, Margherita $16, Salsiccia $18, cacio e pepe $18, rigatoncini bolognese $20",
+   "address": "4042 24th St",
+   "url": "http://www.fiorella-sf.com/menus",
+   "sourceNote": "",
+   "source": "fiorella-sf.com",
+   "lastChecked": "2026-08-24 03:41 PT",
+   "checkedAt": "2026-08-24T03:41:00-07:00"
+  },
+  {
+   "id": "hh4499f139",
+   "venue": "Grand Lake Kitchen",
+   "deal": "Happy hour",
+   "when": "Every day",
+   "dayList": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+   ],
+   "time": "3:00pm \u2013 5:00pm",
+   "timePosted": true,
+   "details": "Deal details not posted for the Noe Valley location - the published happy hour price list is for their Lake Merritt location in Oakland",
+   "address": "1199 Church St",
+   "url": "https://www.grandlakekitchen.com/location/noe-valley/",
+   "sourceNote": "",
+   "source": "grandlakekitchen.com",
+   "lastChecked": "2026-08-24 03:41 PT",
+   "checkedAt": "2026-08-24T03:41:00-07:00"
+  },
+  {
    "id": "hh1860a8d4",
    "venue": "Mamahuhu",
    "deal": "Weekday happy hour",
@@ -1378,6 +1422,43 @@
    "source": "dublinerbarsf.com",
    "lastChecked": "2026-08-23 13:30 PT",
    "checkedAt": "2026-08-23T13:30:00-07:00"
+  },
+  {
+   "id": "hh47132e29",
+   "venue": "Billingsgate",
+   "deal": "Oysters & Cava Happy Hour",
+   "when": "Tuesday-Friday",
+   "dayList": [
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+   ],
+   "time": "3:00pm \u2013 5:00pm",
+   "timePosted": true,
+   "details": "Oysters and Cava. No reservations, just stop by",
+   "address": "3859 24th St",
+   "url": "https://www.billingsgatesf.com/",
+   "sourceNote": "",
+   "source": "billingsgatesf.com",
+   "lastChecked": "2026-08-24 03:39 PT",
+   "checkedAt": "2026-08-24T03:39:00-07:00"
+  },
+  {
+   "id": "hhb2c9ada3",
+   "venue": "Fresca",
+   "deal": "Happy hour",
+   "when": "Not posted",
+   "dayList": [],
+   "time": "Times not posted",
+   "timePosted": false,
+   "details": "Their menu has a happy hour section but the days and times are not published anywhere on the site - ask when you go",
+   "address": "3945 24th St",
+   "url": "https://www.frescasf.com/menu",
+   "sourceNote": "",
+   "source": "frescasf.com",
+   "lastChecked": "2026-08-24 03:41 PT",
+   "checkedAt": "2026-08-24T03:41:00-07:00"
   },
   {
    "id": "hhe0baf18e",
