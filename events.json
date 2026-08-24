@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24T03:28-07:00",
+ "generatedAt": "2026-08-24T03:35-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -545,6 +545,34 @@
    "url": "https://sfpl.org/events/2026/09/12/author-joaninha-recipes-good-life",
    "source": "sfpl.org",
    "lastChecked": "",
+   "status": "Confirmed"
+  },
+  {
+   "id": "e7b61ba5b",
+   "date": "2026-09-19",
+   "day": "Saturday",
+   "month": "Sep",
+   "dayNum": 19,
+   "start": "13:30",
+   "time": "1:30pm \u2013 2:45pm",
+   "title": "Fall Equinox Yoga Nidra + Sound Healing (pop-up class with Cindy Meiri of Harmony Bodywork, 3882 24th St)",
+   "location": "The Castro Room - not in Noe Valley",
+   "address": "97 Collingwood St, San Francisco, CA 94114",
+   "desc": "Pre-registration recommended; bring an eye covering and a blanket. Held at The Castro Room on Collingwood, a 15 minute walk from 24th Street",
+   "endRaw": "14:45",
+   "price": "Use a Castro Room class pack or membership - no drop-in price posted",
+   "free": false,
+   "tags": [
+    "active"
+   ],
+   "url": "https://www.castroroom.com/events/pop-up-fall-equinox-yoga-nidra-sound-healing-jj4a2",
+   "source": "castroroom.com",
+   "submittedBy": "",
+   "lastChecked": "2026-08-24 03:34 PT",
+   "checkedAt": "2026-08-24T03:34:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
    "status": "Confirmed"
   },
   {
