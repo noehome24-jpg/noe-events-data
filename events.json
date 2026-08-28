@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-27T17:13-07:00",
+ "generatedAt": "2026-08-27T21:33-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -912,7 +912,7 @@
    "desc": "Books, songs and movement for toddlers 16 months to age 2, with caregivers",
    "details": "Noe Valley Meeting Room. Space limited; free tickets at the door from 11:00am. Upcoming: 8/24, 8/31, 9/14, 9/21, 9/28, 10/5, 10/19, 10/26. Skips Mon 9/7 (Labor Day) and Mon 10/12 (Indigenous Peoples Day) when the library is closed",
    "location": "Noe Valley Library, 451 Jersey St",
-   "url": "https://sfpl.org/events/2026/08/24/storytime-toddlers-1",
+   "url": "https://sfpl.org/events?field_event_location_target_id=33",
    "tags": [
     "family",
     "arts"
@@ -929,7 +929,7 @@
    "desc": "Family storytime for babies/toddlers/preschoolers, two back-to-back sessions every Thursday morning",
    "details": "Two identical sessions each Thu; families pick one. Every Thu through at least 10/29 (10/15 and 10/22 2nd session listed as storytime-families-2). Drop-in",
    "location": "Noe Valley Library, 451 Jersey St",
-   "url": "https://sfpl.org/events/2026/08/27/storytime-families-1 + /storytime-families-3",
+   "url": "https://sfpl.org/events?field_event_location_target_id=33",
    "tags": [
     "family"
    ],
@@ -945,7 +945,7 @@
    "desc": "Evening family storytime, kids welcome in pajamas",
    "details": "Upcoming: 8/25, 9/29, 10/27",
    "location": "Noe Valley Library, 451 Jersey St",
-   "url": "https://sfpl.org/events/2026/08/25/storytime-pajama-storytime",
+   "url": "https://sfpl.org/events?field_event_location_target_id=33",
    "tags": [
     "family"
    ],
