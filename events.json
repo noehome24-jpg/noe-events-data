@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24T03:41-07:00",
+ "generatedAt": "2026-08-27T17:13-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -63,7 +63,7 @@
    "title": "Streetside Chai popup",
    "location": "Streetside Chai home garage",
    "address": "25th & Sanchez",
-   "desc": "Run by Areeb & Sharmeen",
+   "desc": "Run by Areeb and Sharmeen out of their garage. Free entry; proceeds go to the SF Women's Building",
    "endRaw": "14:00",
    "price": "Free entry; proceeds to the SF Women's Building",
    "free": true,
@@ -137,17 +137,17 @@
    "status": "Confirmed"
   },
   {
-   "id": "ef3f0e0ba",
+   "id": "ec2b54159",
    "date": "2026-08-23",
    "day": "Sunday",
    "month": "Aug",
    "dayNum": 23,
    "start": "14:00",
    "time": "2:00pm \u2013 4:00pm",
-   "title": "SF City Guides walking tour - Noe Valley: Village Within a City",
+   "title": "SF City Guides walking tour: Noe Valley, Village Within a City",
    "location": "Noe Valley/Sally Brunn Library back courtyard",
    "address": "451 Jersey St",
-   "desc": "Space limited; reservations handled by SF City Guides not the library",
+   "desc": "Space is limited. Reserve through SF City Guides, not the library",
    "endRaw": "16:00",
    "price": "Free",
    "free": true,
@@ -176,7 +176,7 @@
    "title": "A VERY LAUFEY DAY",
    "location": "Noe Valley Books",
    "address": "3957 24th St",
-   "desc": "Official indie bookstore stop for A Very Laufey Day - browse the shelves, meet other fans, limited edition items. All day; start and end times not posted",
+   "desc": "Official indie bookstore stop for A Very Laufey Day. Browse the shelves, meet other fans, limited edition items. All day; start and end times not posted",
    "endRaw": "",
    "price": "Free",
    "free": true,
@@ -257,7 +257,7 @@
    "title": "Praying with Clay (Evensong + Embodied Practice)",
    "location": "Noe Valley Church / Noe Valley Ministry",
    "address": "1021 Sanchez St",
-   "desc": "Clay artist MaryMar Keenan and the Choral Scholars lead contemplative music, prayer, silence and hands-on making. $5, limited space, register at noechurch.org/clay (Eventbrite listing confirms Mon Aug 24, 7-8pm).",
+   "desc": "Clay artist MaryMar Keenan and the Choral Scholars lead contemplative music, prayer, silence and hands-on making. $5, limited space, register at noechurch.org/clay",
    "endRaw": "20:00",
    "price": "$5",
    "free": false,
@@ -267,8 +267,8 @@
    "url": "https://noechurch.org/clay",
    "source": "noechurch.org",
    "submittedBy": "",
-   "lastChecked": "2026-08-23 06:19 PT",
-   "checkedAt": "2026-08-23T06:19:00-07:00",
+   "lastChecked": "2026-08-24 13:01 PT",
+   "checkedAt": "2026-08-24T13:01:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -285,7 +285,7 @@
    "title": "McKee Masterclass I: Elizabeth Dorman (SF International Piano Festival)",
    "location": "Noe Valley Ministry",
    "address": "1021 Sanchez St",
-   "desc": "Event page states \"All are welcome to this free event\"",
+   "desc": "Free and open to all, per the event page",
    "endRaw": "17:00",
    "price": "Free",
    "free": true,
@@ -295,8 +295,8 @@
    "url": "https://sfpiano.org/concerts-and-events/2026/8/25/mckee-masterclass-i-elizabeth-dorman",
    "source": "sfpiano.org",
    "submittedBy": "",
-   "lastChecked": "2026-08-23 06:19 PT",
-   "checkedAt": "2026-08-23T06:19:00-07:00",
+   "lastChecked": "2026-08-25 13:04 PT",
+   "checkedAt": "2026-08-25T13:04:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -313,7 +313,7 @@
    "title": "Noe Valley Night Market",
    "location": "Noe Valley Town Square + 24th St",
    "address": "3861 24th St",
-   "desc": "Live music, local food, artists and shopping in and around the Town Square; Lambert Moss MCs. Free admission",
+   "desc": "Live music, local food, artists and shopping in and around the Town Square. Lambert Moss MCs. Free admission",
    "endRaw": "20:30",
    "price": "Free",
    "free": true,
@@ -323,8 +323,8 @@
    "url": "https://noemerchants.com/nightmarket/",
    "source": "noemerchants.com",
    "submittedBy": "",
-   "lastChecked": "2026-08-23 09:24 PT",
-   "checkedAt": "2026-08-23T09:24:00-07:00",
+   "lastChecked": "2026-08-25 13:04 PT",
+   "checkedAt": "2026-08-25T13:04:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -341,7 +341,7 @@
    "title": "McKee Masterclass II: Stephen Prutsman",
    "location": "Noe Valley Ministry",
    "address": "1021 Sanchez St",
-   "desc": "Same series as 8/25; free per series page",
+   "desc": "Second class in the free McKee masterclass series",
    "endRaw": "17:00",
    "price": "Free",
    "free": true,
@@ -351,8 +351,8 @@
    "url": "https://sfpiano.org/concerts-and-events/2026/8/27/mckee-masterclass-ii-stephen-prutsman",
    "source": "sfpiano.org",
    "submittedBy": "",
-   "lastChecked": "2026-08-23 06:19 PT",
-   "checkedAt": "2026-08-23T06:19:00-07:00",
+   "lastChecked": "2026-08-27 13:01 PT",
+   "checkedAt": "2026-08-27T13:01:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -379,8 +379,8 @@
    "url": "https://sfpiano.org/concerts-and-events/2026/8/28/mckee-masterclass-iii",
    "source": "sfpiano.org",
    "submittedBy": "",
-   "lastChecked": "2026-08-23 06:19 PT",
-   "checkedAt": "2026-08-23T06:19:00-07:00",
+   "lastChecked": "2026-08-27 13:01 PT",
+   "checkedAt": "2026-08-27T13:01:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -410,6 +410,34 @@
    "status": "Confirmed"
   },
   {
+   "id": "e8d6f33b1",
+   "date": "2026-08-29",
+   "day": "Saturday",
+   "month": "Aug",
+   "dayNum": 29,
+   "start": "16:00",
+   "time": "4:00pm \u2013 5:00pm",
+   "title": "Rhythm & Motion free dance workout",
+   "location": "Noe Valley Town Square",
+   "address": "3861 24th St",
+   "desc": "Free one-hour dance workout in the square, all ages and abilities welcome. Monthly; the next one after this is Sept 26",
+   "endRaw": "17:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "active"
+   ],
+   "url": "https://noevalleytownsquare.com/events",
+   "source": "noevalleytownsquare.com",
+   "submittedBy": "",
+   "lastChecked": "2026-08-26 06:18 PT",
+   "checkedAt": "2026-08-26T06:18:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
    "id": "e6b95b22d",
    "date": "2026-08-29",
    "day": "Saturday",
@@ -420,7 +448,7 @@
    "title": "Noe Valley Farmers Market",
    "location": "Noe Valley Town Square",
    "address": "3861 24th St",
-   "desc": "21 vendors at capacity as of June 2026 per Noe Valley Voice",
+   "desc": "About 21 vendors as of June 2026",
    "endRaw": "13:00",
    "price": "Free",
    "free": true,
@@ -525,6 +553,34 @@
    "status": "Confirmed"
   },
   {
+   "id": "e6631a0d9",
+   "date": "2026-09-11",
+   "day": "Friday",
+   "month": "Sep",
+   "dayNum": 11,
+   "start": "17:00",
+   "time": "5:00pm \u2013 6:00pm",
+   "title": "Noe Music in the Square: Mozart Divertimento",
+   "location": "Noe Valley Town Square",
+   "address": "3861 24th St",
+   "desc": "Free chamber music in the square: Mozart's Divertimento for violin, viola and cello, played by Noe Music",
+   "endRaw": "18:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "arts"
+   ],
+   "url": "https://www.noemusic.org/2026-2027/divertimento",
+   "source": "noemusic.org",
+   "submittedBy": "",
+   "lastChecked": "2026-08-26 06:18 PT",
+   "checkedAt": "2026-08-26T06:18:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
    "id": "eacff5f3d",
    "date": "2026-09-12",
    "day": "Saturday",
@@ -548,7 +604,36 @@
    "status": "Confirmed"
   },
   {
-   "id": "e7b61ba5b",
+   "id": "e9ef867c6",
+   "date": "2026-09-13",
+   "day": "Sunday",
+   "month": "Sep",
+   "dayNum": 13,
+   "start": "10:00",
+   "time": "10:00am \u2013 4:00pm",
+   "title": "5th Annual Noe Valley Art Festival",
+   "location": "Noe Valley Town Square",
+   "address": "3861 24th St",
+   "desc": "Free community art festival: local art on display and for sale, painting demos, kids activities and music",
+   "endRaw": "16:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "arts",
+    "social"
+   ],
+   "url": "https://noevalleytownsquare.com/events",
+   "source": "noevalleytownsquare.com",
+   "submittedBy": "",
+   "lastChecked": "2026-08-26 06:18 PT",
+   "checkedAt": "2026-08-26T06:18:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
+   "id": "edc37e2ef",
    "date": "2026-09-19",
    "day": "Saturday",
    "month": "Sep",
@@ -556,11 +641,11 @@
    "start": "13:30",
    "time": "1:30pm \u2013 2:45pm",
    "title": "Fall Equinox Yoga Nidra + Sound Healing (pop-up class with Cindy Meiri of Harmony Bodywork, 3882 24th St)",
-   "location": "The Castro Room - not in Noe Valley",
+   "location": "The Castro Room (Castro District)",
    "address": "97 Collingwood St, San Francisco, CA 94114",
    "desc": "Pre-registration recommended; bring an eye covering and a blanket. Held at The Castro Room on Collingwood, a 15 minute walk from 24th Street",
    "endRaw": "14:45",
-   "price": "Use a Castro Room class pack or membership - no drop-in price posted",
+   "price": "Use a Castro Room class pack or membership. No drop-in price posted.",
    "free": false,
    "tags": [
     "active"
@@ -620,6 +705,34 @@
    "url": "https://sfpl.org/events/2026/09/20/activity-decoden-keychains-and-hairclips",
    "source": "sfpl.org",
    "lastChecked": "",
+   "status": "Confirmed"
+  },
+  {
+   "id": "e579644ea",
+   "date": "2026-09-26",
+   "day": "Saturday",
+   "month": "Sep",
+   "dayNum": 26,
+   "start": "16:00",
+   "time": "4:00pm \u2013 5:00pm",
+   "title": "Rhythm & Motion free dance workout",
+   "location": "Noe Valley Town Square",
+   "address": "3861 24th St",
+   "desc": "Free one-hour dance workout in the square, all ages and abilities welcome. Monthly",
+   "endRaw": "17:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "active"
+   ],
+   "url": "https://noevalleytownsquare.com/events",
+   "source": "noevalleytownsquare.com",
+   "submittedBy": "",
+   "lastChecked": "2026-08-26 06:18 PT",
+   "checkedAt": "2026-08-26T06:18:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
    "status": "Confirmed"
   },
   {
@@ -686,7 +799,7 @@
    "title": "Victorian Restoration, Preservation and Decoration Movement",
    "location": "Noe Valley / Sally Brunn Library",
    "address": "451 Jersey St",
-   "desc": "Talk on Victorian home restoration - very on-theme for Noe Valley housing stock",
+   "desc": "Talk on restoring Victorian homes, a natural fit for Noe Valley's housing stock",
    "price": "Free",
    "free": true,
    "tags": [
@@ -796,8 +909,8 @@
    "cadence": "weekly",
    "when": "Weekly Monday",
    "time": "11:15am \u2013 11:45am",
-   "desc": "Books, songs, movement for toddlers 16 months - age 2 and caregivers",
-   "details": "Noe Valley Meeting Room. Space limited; free tickets at the door from 11:00am. Upcoming: 8/24, 8/31, 9/14, 9/21, 9/28, 10/5, 10/19, 10/26. Skips Mon 9/7 (Labor Day) and Mon 10/12 (Indigenous Peoples Day) - library closed. Merged 8/23 with the duplicate Recurring-tab row \"SFPL Noe Valley/Sally Brunn Branch - Storytime for Toddlers\": weekday can shift (one Sep 2026 date landed on a Tuesday), so check sfpl.org/events",
+   "desc": "Books, songs and movement for toddlers 16 months to age 2, with caregivers",
+   "details": "Noe Valley Meeting Room. Space limited; free tickets at the door from 11:00am. Upcoming: 8/24, 8/31, 9/14, 9/21, 9/28, 10/5, 10/19, 10/26. Skips Mon 9/7 (Labor Day) and Mon 10/12 (Indigenous Peoples Day) when the library is closed",
    "location": "Noe Valley Library, 451 Jersey St",
    "url": "https://sfpl.org/events/2026/08/24/storytime-toddlers-1",
    "tags": [
@@ -816,7 +929,7 @@
    "desc": "Family storytime for babies/toddlers/preschoolers, two back-to-back sessions every Thursday morning",
    "details": "Two identical sessions each Thu; families pick one. Every Thu through at least 10/29 (10/15 and 10/22 2nd session listed as storytime-families-2). Drop-in",
    "location": "Noe Valley Library, 451 Jersey St",
-   "url": "https://sfpl.org/events/2026/08/27/storytime-families-1",
+   "url": "https://sfpl.org/events/2026/08/27/storytime-families-1 + /storytime-families-3",
    "tags": [
     "family"
    ],
@@ -833,39 +946,6 @@
    "details": "Upcoming: 8/25, 9/29, 10/27",
    "location": "Noe Valley Library, 451 Jersey St",
    "url": "https://sfpl.org/events/2026/08/25/storytime-pajama-storytime",
-   "tags": [
-    "family"
-   ],
-   "free": true
-  },
-  {
-   "id": "r50e15db5",
-   "title": "Math Tutoring (Engage Tutoring partnership)",
-   "day": "Tuesday",
-   "cadence": "weekly",
-   "when": "Weekly Tuesday",
-   "time": "4:00pm \u2013 5:00pm",
-   "desc": "Free drop-in math tutoring for elementary and middle school students by high school volunteers from Engage at Urban School of SF",
-   "details": "Runs every Tue 9/8 through 10/27+",
-   "location": "Noe Valley Library, 451 Jersey St",
-   "url": "https://sfpl.org/events/2026/09/08/services-math-tutoring",
-   "tags": [
-    "family",
-    "arts"
-   ],
-   "free": true
-  },
-  {
-   "id": "r5c5a9a0d",
-   "title": "Homework Hangout",
-   "day": "Tuesday",
-   "cadence": "other",
-   "when": "Tuesdays (school year; 9/1 and 10/6 in window)",
-   "time": "3:30pm \u2013 5:00pm",
-   "desc": "Drop-in homework space for ages 10-18; librarians refer to online tutoring; math tutoring by Engage/Urban School volunteers; snacks on request",
-   "details": "School-year program, so it pauses over school breaks",
-   "location": "Noe Valley Library, 451 Jersey St",
-   "url": "https://sfpl.org/events/2026/09/01/activity-homework-hangout",
    "tags": [
     "family"
    ],
@@ -897,7 +977,7 @@
    "when": "Fridays (~monthly)",
    "time": "3:00pm \u2013 4:00pm",
    "desc": "Adult book club",
-   "details": "Upcoming: 9/18, 10/16. Shares the Friday 3pm slot with other one-off book-club titles (see His Dark Materials, 8/28)",
+   "details": "Upcoming: 9/18, 10/16",
    "location": "Noe Valley Library, 451 Jersey St",
    "url": "https://sfpl.org/events/2026/09/18/book-club-short-stack-book-club",
    "tags": [
@@ -923,14 +1003,14 @@
    "free": true
   },
   {
-   "id": "r14d21b31",
-   "title": "Social: Noe Valley - Village Within a City",
+   "id": "re6887fea",
+   "title": "Social: Noe Valley, Village Within a City",
    "day": "Sunday",
    "cadence": "monthly",
    "when": "~Monthly Sunday",
    "time": "2:00pm \u2013 4:00pm",
    "desc": "SF City Guides walking tour/talk on Noe Valley history, starting from the branch back courtyard",
-   "details": "Upcoming: 8/23, 9/13, 10/25. REGISTRATION REQUIRED - managed by San Francisco City Guides, space limited",
+   "details": "Upcoming: 8/23, 9/13, 10/25. REGISTRATION REQUIRED through San Francisco City Guides; space limited",
    "location": "Noe Valley Library, 451 Jersey St",
    "url": "https://sfpl.org/events/2026/09/13/social-noe-valley-village-within-city",
    "tags": [
@@ -948,7 +1028,7 @@
    "when": "Friday (~monthly)",
    "time": "2:00pm \u2013 4:00pm",
    "desc": "Monthly-ish afternoon movie, alternating classics and new releases",
-   "details": "Upcoming: 9/11 The Shape of Water (\u00a1VIVA! tie-in), 10/9 True Grit. Title changes monthly - publish per-month, not as standing title",
+   "details": "Upcoming: 9/11 The Shape of Water (\u00a1VIVA! tie-in), 10/9 True Grit",
    "location": "Noe Valley Library, 451 Jersey St",
    "url": "https://sfpl.org/events/2026/09/11/film-shape-water",
    "tags": [
@@ -980,7 +1060,7 @@
    "when": "Monthly (cadence per branch page)",
    "time": "varies",
    "desc": "Branch 'Ongoing Monthly Programs' list: Adult Crafts (fun and relaxing), Adult Films (classics & new releases), eReader & Online Resources help, Noe Valley Book Groups (wide range of selections), Knitting Circle",
-   "details": "Branch page advertises these as ongoing but only films/knitting/book clubs surface as dated events in the window.",
+   "details": "The branch also runs adult crafts, eReader help and book groups as ongoing programs; call 415-355-5707 for the current schedule",
    "location": "Noe Valley Library, 451 Jersey St",
    "url": "https://sfpl.org/locations/noe-valley",
    "tags": [
@@ -1004,23 +1084,6 @@
     "arts"
    ],
    "free": false
-  },
-  {
-   "id": "r0f89aaea",
-   "title": "Noe Valley Night Market (NVMPA)",
-   "day": "Tuesday",
-   "cadence": "monthly",
-   "when": "Last Tuesday of the month",
-   "time": "4:30pm \u2013 8:30pm",
-   "desc": "Monthly night market with food, drink specials, local retail, artists and live music",
-   "details": "Free entry. Noe Valley Town Square. Next: Tue Aug 25 and Tue Sep 29, 2026",
-   "location": "Noe Valley Town Square",
-   "url": "https://noemerchants.com/nightmarket/",
-   "tags": [
-    "food",
-    "arts"
-   ],
-   "free": true
   },
   {
    "id": "rd087e39c",
@@ -1064,7 +1127,7 @@
    "when": "Third Saturday of the month",
    "time": "9:00am \u2013 10:00am",
    "desc": "Monthly children storytime",
-   "details": "Free, doors open 9am. Next: Sept 19, Oct 17, Nov 21.",
+   "details": "Free, doors open 9am. Next: Sept 19, Oct 17, Nov 21",
    "location": "",
    "url": "https://noevalleybooks.com/upcoming-events",
    "tags": [
@@ -1158,14 +1221,14 @@
    "free": true
   },
   {
-   "id": "r0c0adff0",
+   "id": "rc1318c48",
    "title": "Noe Valley Run Club",
    "day": "Friday",
    "cadence": "weekly",
-   "when": "Fridays, plus some Tuesdays",
-   "time": "Fridays 7:30am (per Noe Valley Voice, June 2026); some Tuesday evenings",
+   "when": "Fridays + every other Tuesday starting Sept 1",
+   "time": "Fridays 6:45am (4 mi) + 7:30am (2.5 mi); Tuesdays every other week from Sept 1 (next: 9/1, 9/15, 9/29)",
    "desc": "Friendly neighborhood group run, coffee and treats after at Noe Cafe",
-   "details": "Meets at Noe Cafe, Sanchez & 26th. No registration. Note: one blog says 7:30pm - the Voice's 7:30am + coffee-after is more credible",
+   "details": "Meet at 26th & Sanchez. Two Friday starts: 6:45am for 4 mi, 7:30am for 2.5 mi. Coffee and treats after at Noe Cafe. No registration. Tuesday runs every other week starting Sept 1; the date gets posted on their Instagram",
    "location": "",
    "url": "https://noevalleyrunclub.square.site/",
    "tags": [
@@ -1183,7 +1246,7 @@
    "when": "Saturdays",
    "time": "10:00am",
    "desc": "Casual recurring neighborhood group walk",
-   "details": "Meet at corner of 24th & Sanchez near Town Square. Free, just show up. Covered by Noe Valley Voice Feb 2026",
+   "details": "Meet at the corner of 24th & Sanchez near Town Square. Free, just show up. Running for 3+ years",
    "location": "Noe Valley Town Square",
    "url": "https://noewalks.com/",
    "tags": [
@@ -1192,11 +1255,11 @@
    "free": true
   },
   {
-   "id": "r602297bf",
+   "id": "r08bf42af",
    "title": "Free Sunday Morning Yoga (Yoga Flow SF x Noe Valley Town Square)",
    "day": "Sunday",
    "cadence": "weekly",
-   "when": "Sundays (seen weekly June-Aug 2026; seasonal)",
+   "when": "Sundays (September 2026: 6, 20 and 27 only, no class on 9/13; seasonal)",
    "time": "11:00am \u2013 12:00pm",
    "desc": "Free outdoor all-levels community yoga class",
    "details": "Bring mat and water. Noe Valley Town Square",
@@ -1248,46 +1311,13 @@
    "cadence": "monthly",
    "when": "Monthly-ish, Sunday",
    "time": "1:00pm \u2013 3:00pm",
-   "desc": "Open mic - solo or pick-up band; keyboard, mics, cables, drums and songbooks on site",
+   "desc": "Open mic, solo or with a pick-up band. Keyboard, mics, cables, drums and songbooks on site",
    "details": "Free, all levels. Noe Valley Town Square",
    "location": "Noe Valley Town Square",
    "url": "https://noevalleytownsquare.com/events",
    "tags": [
     "arts",
     "social"
-   ],
-   "free": true
-  },
-  {
-   "id": "rf326ac7f",
-   "title": "Beach Glass Hot Yoga & Pilates",
-   "day": "Daily",
-   "cadence": "other",
-   "when": "Daily",
-   "time": "Varies (live schedule + Mindbody)",
-   "desc": "Daily classes: hot yoga 60/90 min, mat Pilates, yin yoga",
-   "details": "1461 Church St (Noe Valley edge). Membership-based studio",
-   "location": "1461 Church St",
-   "url": "https://www.beachglasshyp.com/schedule",
-   "tags": [
-    "active"
-   ],
-   "free": false
-  },
-  {
-   "id": "raad7988c",
-   "title": "Yoga Flow SF - Noe Valley studio",
-   "day": "Daily",
-   "cadence": "other",
-   "when": "Daily",
-   "time": "Varies (live schedule)",
-   "desc": "Daily infrared-heated vinyasa classes; prenatal/postnatal, restorative, sound healing workshops",
-   "details": "4049 24th St. Also runs the free Sunday Town Square yoga",
-   "location": "4049 24th St.",
-   "url": "https://yogaflowsf.com/yoga-in-noe-valley/",
-   "tags": [
-    "active",
-    "arts"
    ],
    "free": true
   },
@@ -1304,6 +1334,38 @@
    "url": "https://www.noemusic.org/mainstage",
    "tags": [
     "arts"
+   ],
+   "free": false
+  },
+  {
+   "id": "r37adb2a7",
+   "title": "Running Wylder Sunday Group Run (Slow Jam Sundays)",
+   "day": "Sunday",
+   "cadence": "weekly",
+   "when": "Sundays",
+   "time": "10:00am",
+   "desc": "Choose-your-own-distance group run from the store: a 3 mile flat-ish route with a coach, plus 5 and 7 mile options",
+   "details": "Meet at the store, 1354 Castro St. All paces welcome; routes go out on Instagram and by email the week before",
+   "location": "1354 Castro St.",
+   "url": "https://runningwylder.co/pages/store-events",
+   "tags": [
+    "active"
+   ],
+   "free": false
+  },
+  {
+   "id": "r25c0c904",
+   "title": "Running Wylder Thursday Evening Run / Ladies' Night",
+   "day": "Thursday",
+   "cadence": "monthly",
+   "when": "1st and 3rd Thursday of the month",
+   "time": "6:00pm",
+   "desc": "Evening group run from the store; the first Thursday is Ladies' Night, a no-drop 4 mile route to Glen Park",
+   "details": "Meet at the store, 1354 Castro St. Ladies' Night is run with the Hella Bae and That Girl clubs; all paces, shorter options available, gear storage and post-run refreshments at the store",
+   "location": "1354 Castro St.",
+   "url": "https://runningwylder.co/pages/store-events",
+   "tags": [
+    "active"
    ],
    "free": false
   }
@@ -1345,7 +1407,7 @@
    ],
    "time": "3:00pm \u2013 5:00pm",
    "timePosted": true,
-   "details": "Deal details not posted for the Noe Valley location - the published happy hour price list is for their Lake Merritt location in Oakland",
+   "details": "Deal details aren't posted for the Noe Valley location. The published happy hour price list is for their Lake Merritt spot in Oakland",
    "address": "1199 Church St",
    "url": "https://www.grandlakekitchen.com/location/noe-valley/",
    "sourceNote": "",
@@ -1452,7 +1514,7 @@
    "dayList": [],
    "time": "Times not posted",
    "timePosted": false,
-   "details": "Their menu has a happy hour section but the days and times are not published anywhere on the site - ask when you go",
+   "details": "Their menu has a happy hour section, but the days and times aren't published anywhere on the site. Ask when you go",
    "address": "3945 24th St",
    "url": "https://www.frescasf.com/menu",
    "sourceNote": "",
@@ -1468,7 +1530,7 @@
    "dayList": [],
    "time": "Times not posted",
    "timePosted": false,
-   "details": "Specials exist but the times aren't published anywhere - ask at the bar",
+   "details": "Specials exist, but the times aren't published anywhere. Ask at the bar",
    "address": "",
    "url": "https://www.yelp.com/biz/the-valley-tavern-san-francisco",
    "sourceNote": "",
