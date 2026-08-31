@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-30T22:21-07:00",
+ "generatedAt": "2026-08-31T07:02-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -544,8 +544,8 @@
    "url": "https://noevalleybooks.com/events",
    "source": "noevalleybooks.com",
    "submittedBy": "",
-   "lastChecked": "2026-08-23 20:28 PT",
-   "checkedAt": "2026-08-23T20:28:00-07:00",
+   "lastChecked": "2026-08-31 07:05 PT",
+   "checkedAt": "2026-08-31T07:05:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -575,6 +575,35 @@
    "submittedBy": "",
    "lastChecked": "2026-08-30 06:53 PT",
    "checkedAt": "2026-08-30T06:53:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
+   "id": "e7e5c26c7",
+   "date": "2026-09-11",
+   "day": "Friday",
+   "month": "Sep",
+   "dayNum": 11,
+   "start": "14:00",
+   "time": "2:00pm \u2013 4:00pm",
+   "title": "Film screening: The Shape of Water",
+   "location": "Noe Valley Library (Sally Brunn Branch)",
+   "address": "451 Jersey St",
+   "desc": "Free afternoon screening at the branch, part of the library's VIVA Latinx interest programming",
+   "endRaw": "16:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "active",
+    "arts"
+   ],
+   "url": "https://sfpl.org/events?field_event_location_target_id=33",
+   "source": "sfpl.org",
+   "submittedBy": "",
+   "lastChecked": "2026-08-31 07:10 PT",
+   "checkedAt": "2026-08-31T07:10:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -683,6 +712,64 @@
    "submittedBy": "",
    "lastChecked": "2026-08-29 12:40 PT",
    "checkedAt": "2026-08-29T12:40:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
+   "id": "ea42a0b2b",
+   "date": "2026-09-13",
+   "day": "Sunday",
+   "month": "Sep",
+   "dayNum": 13,
+   "start": "14:00",
+   "time": "2:00pm \u2013 4:00pm",
+   "title": "Noe Valley: Village Within a City",
+   "location": "Noe Valley Library (Sally Brunn Branch)",
+   "address": "451 Jersey St",
+   "desc": "A neighborhood history social at the branch about Noe Valley's village-within-a-city story",
+   "endRaw": "16:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "active",
+    "arts",
+    "social"
+   ],
+   "url": "https://sfpl.org/events?field_event_location_target_id=33",
+   "source": "sfpl.org",
+   "submittedBy": "",
+   "lastChecked": "2026-08-31 07:10 PT",
+   "checkedAt": "2026-08-31T07:10:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
+   "id": "ebd165013",
+   "date": "2026-09-15",
+   "day": "Tuesday",
+   "month": "Sep",
+   "dayNum": 15,
+   "start": "19:00",
+   "time": "7:00pm \u2013 8:00pm",
+   "title": "Poetry Night at Noe Valley Books",
+   "location": "Noe Valley Books",
+   "address": "3957 24th St",
+   "desc": "Monthly open mic. Sign up as poet or attendee; each poet gets 5 minutes, all levels welcome. Free RSVP on the store site",
+   "endRaw": "20:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "arts"
+   ],
+   "url": "https://noevalleybooks.com/upcoming-events",
+   "source": "noevalleybooks.com",
+   "submittedBy": "",
+   "lastChecked": "2026-08-31 07:05 PT",
+   "checkedAt": "2026-08-31T07:05:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -1155,7 +1242,7 @@
    "when": "Third Saturday of the month",
    "time": "9:00am \u2013 10:00am",
    "desc": "Monthly children storytime",
-   "details": "Free, doors open 9am. Next: Sept 19, Oct 17, Nov 21",
+   "details": "Free, doors open 9am. Next: Sept 19 (authors Sabrina and Eunice Moyle with live music), Oct 17, Nov 21",
    "location": "",
    "url": "https://noevalleybooks.com/upcoming-events",
    "tags": [
@@ -1396,6 +1483,23 @@
     "active"
    ],
    "free": false
+  },
+  {
+   "id": "rd813c3fb",
+   "title": "Noe Valley Books Poetry Night",
+   "day": "Tuesday",
+   "cadence": "monthly",
+   "when": "Monthly, Tuesday",
+   "time": "7:00pm \u2013 8:00pm",
+   "desc": "Monthly community poetry open mic at the bookstore",
+   "details": "Open mic, all levels welcome. Sign up as poet or attendee; each poet gets 5 minutes. Free RSVP on the store site",
+   "location": "",
+   "url": "https://noevalleybooks.com/upcoming-events",
+   "tags": [
+    "arts",
+    "social"
+   ],
+   "free": true
   }
  ],
  "happyHours": [
