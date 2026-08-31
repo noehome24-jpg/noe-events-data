@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-30T18:13-07:00",
+ "generatedAt": "2026-08-30T22:21-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -575,35 +575,6 @@
    "submittedBy": "",
    "lastChecked": "2026-08-30 06:53 PT",
    "checkedAt": "2026-08-30T06:53:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
-  {
-   "id": "ec74fc1c1",
-   "date": "2026-09-09",
-   "day": "Wednesday",
-   "month": "Sep",
-   "dayNum": 9,
-   "start": "15:00",
-   "time": "3:00pm \u2013 4:00pm",
-   "title": "HeartSpace free community meeting (Heart Bridge Care)",
-   "location": "Noe Valley Branch Library",
-   "address": "451 Jersey St",
-   "desc": "Monthly on the second Wednesday. Support circle on aging, illness and end-of-life; stories, grief, practical guidance",
-   "endRaw": "16:00",
-   "price": "Free",
-   "free": true,
-   "tags": [
-    "arts",
-    "social"
-   ],
-   "url": "https://www.heartbridgecare.org",
-   "source": "heartbridgecare.org",
-   "submittedBy": "",
-   "lastChecked": "2026-08-23 00:05 PT",
-   "checkedAt": "2026-08-23T00:05:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
