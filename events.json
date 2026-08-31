@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-31T07:54-07:00",
+ "generatedAt": "2026-08-31T11:28-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -489,6 +489,34 @@
    "submittedBy": "",
    "lastChecked": "2026-08-30 13:09 PT",
    "checkedAt": "2026-08-30T13:09:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
+   "id": "e881d6e20",
+   "date": "2026-09-02",
+   "day": "Wednesday",
+   "month": "Sep",
+   "dayNum": 2,
+   "start": "18:00",
+   "time": "6:00pm \u2013 8:00pm",
+   "title": "District 8 Supervisor Candidate Forum",
+   "location": "League of Women Voters SF at the Randall Museum",
+   "address": "199 Museum Way",
+   "desc": "Nonpartisan candidate forum for the district that includes Noe Valley, hosted by the League of Women Voters SF. All qualified candidates agreed to take part. Free, but registration is required to attend in person; doors 5:30, first come seating. Online viewing option for registrants",
+   "endRaw": "20:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "social"
+   ],
+   "url": "https://luma.com/8hnbmq9c",
+   "source": "luma.com",
+   "submittedBy": "",
+   "lastChecked": "2026-08-31 11:30 PT",
+   "checkedAt": "2026-08-31T11:30:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
