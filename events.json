@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-31T07:02-07:00",
+ "generatedAt": "2026-08-31T07:54-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -820,6 +820,34 @@
    "url": "https://sfpl.org/events/2026/09/20/activity-decoden-keychains-and-hairclips",
    "source": "sfpl.org",
    "lastChecked": "",
+   "status": "Confirmed"
+  },
+  {
+   "id": "efe27b082",
+   "date": "2026-09-22",
+   "day": "Tuesday",
+   "month": "Sep",
+   "dayNum": 22,
+   "start": "19:00",
+   "time": "7:00pm \u2013 9:00pm",
+   "title": "Collage Night at Noe Valley Books",
+   "location": "Noe Valley Books x Art Haus",
+   "address": "3957 24th St",
+   "desc": "Craft night hosted by Noe Valley Books and Art Haus. All collage supplies, drinks and snacks are provided, and spots are limited. Sliding scale tickets through the store site",
+   "endRaw": "21:00",
+   "price": "$25 sliding scale",
+   "free": false,
+   "tags": [
+    "arts"
+   ],
+   "url": "https://noevalleybooks.com/upcoming-events",
+   "source": "noevalleybooks.com",
+   "submittedBy": "",
+   "lastChecked": "2026-08-31 07:55 PT",
+   "checkedAt": "2026-08-31T07:55:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
    "status": "Confirmed"
   },
   {
