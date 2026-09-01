@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01T07:03-07:00",
+ "generatedAt": "2026-09-01T07:05-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -1372,6 +1372,24 @@
    "free": true
   },
   {
+   "id": "re6887fea",
+   "title": "Social: Noe Valley, Village Within a City",
+   "day": "Sunday",
+   "cadence": "monthly",
+   "when": "~Monthly Sunday",
+   "time": "2:00pm \u2013 4:00pm",
+   "desc": "SF City Guides walking tour/talk on Noe Valley history, starting from the branch back courtyard",
+   "details": "Next: Sunday 10/25, 2-4pm. Registration required through San Francisco City Guides; space is limited",
+   "location": "Noe Valley Library, 451 Jersey St",
+   "url": "https://sfpl.org/events/2026/10/25/social-noe-valley-village-within-city",
+   "tags": [
+    "active",
+    "arts",
+    "social"
+   ],
+   "free": true
+  },
+  {
    "id": "r266d62d4",
    "title": "Adult Film Series",
    "day": "Friday",
@@ -2011,11 +2029,6 @@
    "tab": "Library",
    "row": "Homework Hangout",
    "flag": "window-gated per internal notes"
-  },
-  {
-   "tab": "Library",
-   "row": "Social: Noe Valley, Village Within a City",
-   "flag": "REMOVED 2026-09-01 - event page 404s and gone from SFPL's own Noe Valley listing. Withdrawn by the library."
   },
   {
    "tab": "Library",
