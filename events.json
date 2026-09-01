@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-31T11:28-07:00",
+ "generatedAt": "2026-09-01T06:55-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -609,6 +609,36 @@
    "status": "Confirmed"
   },
   {
+   "id": "e9aaa1060",
+   "date": "2026-09-05",
+   "day": "Saturday",
+   "month": "Sep",
+   "dayNum": 5,
+   "start": "10:00",
+   "time": "10:00am \u2013 12:00pm",
+   "title": "Noe Valley Knitting Circle",
+   "location": "Noe Valley Library (Sally Brunn Branch)",
+   "address": "451 Jersey St",
+   "desc": "Bring your project and knit with neighbors at the branch",
+   "endRaw": "12:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "active",
+    "arts",
+    "social"
+   ],
+   "url": "https://sfpl.org/events?field_event_location_target_id=33",
+   "source": "sfpl.org",
+   "submittedBy": "",
+   "lastChecked": "2026-09-01 06:55 PT",
+   "checkedAt": "2026-09-01T06:55:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
    "id": "e7e5c26c7",
    "date": "2026-09-11",
    "day": "Friday",
@@ -666,6 +696,36 @@
    "status": "Confirmed"
   },
   {
+   "id": "e3517cdc7",
+   "date": "2026-09-12",
+   "day": "Saturday",
+   "month": "Sep",
+   "dayNum": 12,
+   "start": "14:00",
+   "time": "2:00pm \u2013 3:00pm",
+   "title": "Author talk: Joaninha, Recipes for a Good Life",
+   "location": "Noe Valley Library (Sally Brunn Branch)",
+   "address": "451 Jersey St",
+   "desc": "Local author Joaninha talks about her cookbook and what makes a good life around the table",
+   "endRaw": "15:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "active",
+    "food",
+    "arts"
+   ],
+   "url": "https://sfpl.org/events?field_event_location_target_id=33",
+   "source": "sfpl.org",
+   "submittedBy": "",
+   "lastChecked": "2026-09-01 06:55 PT",
+   "checkedAt": "2026-09-01T06:55:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
    "id": "eacff5f3d",
    "date": "2026-09-12",
    "day": "Saturday",
@@ -710,8 +770,8 @@
    "url": "https://noevalleytownsquare.com/events",
    "source": "noevalleytownsquare.com",
    "submittedBy": "",
-   "lastChecked": "2026-08-26 06:18 PT",
-   "checkedAt": "2026-08-26T06:18:00-07:00",
+   "lastChecked": "2026-09-01 06:55 PT",
+   "checkedAt": "2026-09-01T06:55:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -738,38 +798,66 @@
    "url": "https://www.slowsanchez.com/event",
    "source": "slowsanchez.com",
    "submittedBy": "",
-   "lastChecked": "2026-08-29 12:40 PT",
-   "checkedAt": "2026-08-29T12:40:00-07:00",
+   "lastChecked": "2026-09-01 06:55 PT",
+   "checkedAt": "2026-09-01T06:55:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
    "status": "Confirmed"
   },
   {
-   "id": "ea42a0b2b",
+   "id": "e5c94ed84",
    "date": "2026-09-13",
    "day": "Sunday",
    "month": "Sep",
    "dayNum": 13,
+   "start": "13:00",
+   "time": "1:00pm",
+   "title": "Bell Appeal mini concert (Bethany Church)",
+   "location": "Bethany United Methodist Church",
+   "address": "1270 Sanchez St",
+   "desc": "A short community concert on the Bethany church steps during the block party, part of their bell restoration appeal",
+   "endRaw": "",
+   "price": "Not posted",
+   "free": false,
+   "tags": [
+    "arts",
+    "social"
+   ],
+   "url": "https://www.slowsanchez.com/event",
+   "source": "slowsanchez.com",
+   "submittedBy": "",
+   "lastChecked": "2026-09-01 06:55 PT",
+   "checkedAt": "2026-09-01T06:55:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
+   "id": "e2985bebc",
+   "date": "2026-09-14",
+   "day": "Monday",
+   "month": "Sep",
+   "dayNum": 14,
    "start": "14:00",
-   "time": "2:00pm \u2013 4:00pm",
-   "title": "Noe Valley: Village Within a City",
+   "time": "2:00pm \u2013 3:00pm",
+   "title": "Drop-in Tech Help",
    "location": "Noe Valley Library (Sally Brunn Branch)",
    "address": "451 Jersey St",
-   "desc": "A neighborhood history social at the branch about Noe Valley's village-within-a-city story",
-   "endRaw": "16:00",
+   "desc": "One-on-one help with your phone, laptop, or tablet at the branch",
+   "endRaw": "15:00",
    "price": "Free",
    "free": true,
    "tags": [
     "active",
-    "arts",
     "social"
    ],
    "url": "https://sfpl.org/events?field_event_location_target_id=33",
    "source": "sfpl.org",
    "submittedBy": "",
-   "lastChecked": "2026-08-31 07:10 PT",
-   "checkedAt": "2026-08-31T07:10:00-07:00",
+   "lastChecked": "2026-09-01 06:55 PT",
+   "checkedAt": "2026-09-01T06:55:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -804,6 +892,122 @@
    "status": "Confirmed"
   },
   {
+   "id": "e9227b54e",
+   "date": "2026-09-18",
+   "day": "Friday",
+   "month": "Sep",
+   "dayNum": 18,
+   "start": "15:00",
+   "time": "3:00pm \u2013 4:00pm",
+   "title": "Short Stack Book Club",
+   "location": "Noe Valley Library (Sally Brunn Branch)",
+   "address": "451 Jersey St",
+   "desc": "The branch's short reads book club meets to talk it over",
+   "endRaw": "16:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "active",
+    "arts",
+    "social"
+   ],
+   "url": "https://sfpl.org/events?field_event_location_target_id=33",
+   "source": "sfpl.org",
+   "submittedBy": "",
+   "lastChecked": "2026-09-01 06:55 PT",
+   "checkedAt": "2026-09-01T06:55:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
+   "id": "e0d8bb524",
+   "date": "2026-09-18",
+   "day": "Friday",
+   "month": "Sep",
+   "dayNum": 18,
+   "start": "17:00",
+   "time": "5:00pm \u2013 6:00pm",
+   "title": "Noe Music in the Square: Cello Quartets from around the World",
+   "location": "Noe Valley Town Square",
+   "address": "3861 24th St",
+   "desc": "Tanya Tomkins, Robert Howard, and friends play cello quartets from around the world in the square",
+   "endRaw": "18:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "arts"
+   ],
+   "url": "https://www.noevalleytownsquare.com/events",
+   "source": "noevalleytownsquare.com",
+   "submittedBy": "",
+   "lastChecked": "2026-09-01 06:55 PT",
+   "checkedAt": "2026-09-01T06:55:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
+   "id": "e1beab6a5",
+   "date": "2026-09-19",
+   "day": "Saturday",
+   "month": "Sep",
+   "dayNum": 19,
+   "start": "10:00",
+   "time": "10:00am",
+   "title": "Morning sound bath (Bethany Church)",
+   "location": "Bethany United Methodist Church",
+   "address": "1270 Sanchez St",
+   "desc": "A Saturday morning sound bath at Bethany: kick back, relax, leave it all on the mat",
+   "endRaw": "",
+   "price": "Not posted",
+   "free": false,
+   "tags": [
+    "social"
+   ],
+   "url": "https://www.slowsanchez.com/event",
+   "source": "slowsanchez.com",
+   "submittedBy": "",
+   "lastChecked": "2026-09-01 06:55 PT",
+   "checkedAt": "2026-09-01T06:55:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
+   "id": "ebe2fd10c",
+   "date": "2026-09-19",
+   "day": "Saturday",
+   "month": "Sep",
+   "dayNum": 19,
+   "start": "11:15",
+   "time": "11:15am \u2013 12:00pm",
+   "title": "Bilingual Birdies (live music for little kids)",
+   "location": "Noe Valley Library (Sally Brunn Branch)",
+   "address": "451 Jersey St",
+   "desc": "A bilingual music performance for babies, toddlers, and preschoolers at the branch",
+   "endRaw": "12:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "family",
+    "active",
+    "arts"
+   ],
+   "url": "https://sfpl.org/events?field_event_location_target_id=33",
+   "source": "sfpl.org",
+   "submittedBy": "",
+   "lastChecked": "2026-09-01 06:55 PT",
+   "checkedAt": "2026-09-01T06:55:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
    "id": "e098db345",
    "date": "2026-09-19",
    "day": "Saturday",
@@ -825,6 +1029,92 @@
    "url": "https://sfpl.org/events/2026/09/19/performance-bilingual-birdies",
    "source": "sfpl.org",
    "lastChecked": "",
+   "status": "Confirmed"
+  },
+  {
+   "id": "e5ba524f0",
+   "date": "2026-09-20",
+   "day": "Sunday",
+   "month": "Sep",
+   "dayNum": 20,
+   "start": "13:00",
+   "time": "1:00pm \u2013 2:00pm",
+   "title": "Sunday Music in the Square: Gianfranco Baltazar Torres",
+   "location": "Noe Valley Town Square",
+   "address": "3861 24th St",
+   "desc": "Gianfranco Baltazar Torres, born in Lima and playing violin since age six, performs in the square",
+   "endRaw": "14:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "arts"
+   ],
+   "url": "https://www.noevalleytownsquare.com/events",
+   "source": "noevalleytownsquare.com",
+   "submittedBy": "",
+   "lastChecked": "2026-09-01 06:55 PT",
+   "checkedAt": "2026-09-01T06:55:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
+   "id": "e0b194c2b",
+   "date": "2026-09-20",
+   "day": "Sunday",
+   "month": "Sep",
+   "dayNum": 20,
+   "start": "14:00",
+   "time": "2:00pm \u2013 3:00pm",
+   "title": "Sunday Music in the Square: Luke Schwartz",
+   "location": "Noe Valley Town Square",
+   "address": "3861 24th St",
+   "desc": "Guitarist, bassist, pianist, and composer Luke Schwartz plays a set in the square",
+   "endRaw": "15:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "arts"
+   ],
+   "url": "https://www.noevalleytownsquare.com/events",
+   "source": "noevalleytownsquare.com",
+   "submittedBy": "",
+   "lastChecked": "2026-09-01 06:55 PT",
+   "checkedAt": "2026-09-01T06:55:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
+   "id": "e7f82a5f0",
+   "date": "2026-09-20",
+   "day": "Sunday",
+   "month": "Sep",
+   "dayNum": 20,
+   "start": "14:00",
+   "time": "2:00pm \u2013 3:00pm",
+   "title": "Decoden keychains and hairclips (teen craft)",
+   "location": "Noe Valley Library (Sally Brunn Branch)",
+   "address": "451 Jersey St",
+   "desc": "Middle schoolers and teens decorate keychains and hairclips decoden style",
+   "endRaw": "15:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "family",
+    "active",
+    "arts"
+   ],
+   "url": "https://sfpl.org/events?field_event_location_target_id=33",
+   "source": "sfpl.org",
+   "submittedBy": "",
+   "lastChecked": "2026-09-01 06:55 PT",
+   "checkedAt": "2026-09-01T06:55:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
    "status": "Confirmed"
   },
   {
@@ -851,6 +1141,37 @@
    "status": "Confirmed"
   },
   {
+   "id": "e3bc94f91",
+   "date": "2026-09-21",
+   "day": "Monday",
+   "month": "Sep",
+   "dayNum": 21,
+   "start": "16:00",
+   "time": "4:00pm \u2013 5:00pm",
+   "title": "Alone Together Book Club (teens)",
+   "location": "Noe Valley Library (Sally Brunn Branch)",
+   "address": "451 Jersey St",
+   "desc": "A book club for middle schoolers and teens at the branch",
+   "endRaw": "17:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "family",
+    "active",
+    "arts",
+    "social"
+   ],
+   "url": "https://sfpl.org/events?field_event_location_target_id=33",
+   "source": "sfpl.org",
+   "submittedBy": "",
+   "lastChecked": "2026-09-01 06:55 PT",
+   "checkedAt": "2026-09-01T06:55:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
    "id": "efe27b082",
    "date": "2026-09-22",
    "day": "Tuesday",
@@ -873,6 +1194,35 @@
    "submittedBy": "",
    "lastChecked": "2026-08-31 07:55 PT",
    "checkedAt": "2026-08-31T07:55:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
+   "id": "e4144f9dd",
+   "date": "2026-09-26",
+   "day": "Saturday",
+   "month": "Sep",
+   "dayNum": 26,
+   "start": "10:00",
+   "time": "10:00am \u2013 2:00pm",
+   "title": "Noe Valley Library Open House",
+   "location": "Noe Valley Library (Sally Brunn Branch)",
+   "address": "451 Jersey St",
+   "desc": "The branch opens its doors for an all-ages celebration with performances, part of the Bay Beats music festivities",
+   "endRaw": "14:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "active",
+    "social"
+   ],
+   "url": "https://sfpl.org/events?field_event_location_target_id=33",
+   "source": "sfpl.org",
+   "submittedBy": "",
+   "lastChecked": "2026-09-01 06:55 PT",
+   "checkedAt": "2026-09-01T06:55:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -954,6 +1304,64 @@
    "submittedBy": "",
    "lastChecked": "2026-08-23 09:24 PT",
    "checkedAt": "2026-08-23T09:24:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
+   "id": "eef2f0cc1",
+   "date": "2026-09-29",
+   "day": "Tuesday",
+   "month": "Sep",
+   "dayNum": 29,
+   "start": "18:30",
+   "time": "6:30pm \u2013 7:00pm",
+   "title": "Pajama Storytime",
+   "location": "Noe Valley Library (Sally Brunn Branch)",
+   "address": "451 Jersey St",
+   "desc": "Evening storytime at the branch. Pajamas welcome",
+   "endRaw": "19:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "family",
+    "active"
+   ],
+   "url": "https://sfpl.org/events?field_event_location_target_id=33",
+   "source": "sfpl.org",
+   "submittedBy": "",
+   "lastChecked": "2026-09-01 06:55 PT",
+   "checkedAt": "2026-09-01T06:55:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
+   "id": "e1a30b010",
+   "date": "2026-10-03",
+   "day": "Saturday",
+   "month": "Oct",
+   "dayNum": 3,
+   "start": "17:30",
+   "time": "5:30pm \u2013 7:30pm",
+   "title": "Sanchez Community Dinner",
+   "location": "Slow Sanchez (on the slow street)",
+   "address": "Sanchez St between 26th & Clipper",
+   "desc": "A casual family-friendly neighborhood potluck dinner at one long shared table outside on Sanchez Street. Bring something to share",
+   "endRaw": "19:30",
+   "price": "Free (potluck)",
+   "free": true,
+   "tags": [
+    "food",
+    "social"
+   ],
+   "url": "https://www.slowsanchez.com/event",
+   "source": "slowsanchez.com",
+   "submittedBy": "",
+   "lastChecked": "2026-09-01 06:55 PT",
+   "checkedAt": "2026-09-01T06:55:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -1069,6 +1477,64 @@
    "url": "https://sfpl.org/events/2026/10/25/social-puzzle-swap",
    "source": "sfpl.org",
    "lastChecked": "",
+   "status": "Confirmed"
+  },
+  {
+   "id": "ea1d3b57a",
+   "date": "2026-10-31",
+   "day": "Saturday",
+   "month": "Oct",
+   "dayNum": 31,
+   "start": "11:00",
+   "time": "11:00am \u2013 2:00pm",
+   "title": "Halloween Dog Parade",
+   "location": "Slow Sanchez (on the slow street)",
+   "address": "Sanchez St, Noe Valley",
+   "desc": "Costumed pups parade on Sanchez for Halloween",
+   "endRaw": "14:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "family",
+    "social"
+   ],
+   "url": "https://www.slowsanchez.com/event",
+   "source": "slowsanchez.com",
+   "submittedBy": "",
+   "lastChecked": "2026-09-01 06:55 PT",
+   "checkedAt": "2026-09-01T06:55:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
+   "id": "e6813568d",
+   "date": "2026-10-31",
+   "day": "Saturday",
+   "month": "Oct",
+   "dayNum": 31,
+   "start": "14:00",
+   "time": "2:00pm \u2013 5:00pm",
+   "title": "Halloween Stroll on Sanchez",
+   "location": "Slow Sanchez (on the slow street)",
+   "address": "Sanchez St, Noe Valley",
+   "desc": "Trick-or-treat along Sanchez with neighbors of all ages, right after the dog parade",
+   "endRaw": "17:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "family",
+    "social"
+   ],
+   "url": "https://www.slowsanchez.com/event",
+   "source": "slowsanchez.com",
+   "submittedBy": "",
+   "lastChecked": "2026-09-01 06:55 PT",
+   "checkedAt": "2026-09-01T06:55:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
    "status": "Confirmed"
   }
  ],
@@ -1556,6 +2022,22 @@
     "social"
    ],
    "free": true
+  },
+  {
+   "id": "rf4609fc1",
+   "title": "Bethany Labyrinth Walk",
+   "day": "Friday",
+   "cadence": "monthly",
+   "when": "First Friday of the month",
+   "time": "7:00pm",
+   "desc": "Monthly evening labyrinth walk at Bethany church",
+   "details": "A quiet monthly labyrinth walk, open to the neighborhood",
+   "location": "",
+   "url": "https://www.slowsanchez.com/event",
+   "tags": [
+    "active"
+   ],
+   "free": false
   }
  ],
  "happyHours": [
@@ -1576,6 +2058,7 @@
    "url": "http://www.fiorella-sf.com/menus",
    "sourceNote": "",
    "source": "fiorella-sf.com",
+   "confidence": "High",
    "lastChecked": "2026-08-24 03:41 PT",
    "checkedAt": "2026-08-24T03:41:00-07:00"
   },
@@ -1600,6 +2083,7 @@
    "url": "https://www.grandlakekitchen.com/location/noe-valley/",
    "sourceNote": "",
    "source": "grandlakekitchen.com",
+   "confidence": "High",
    "lastChecked": "2026-08-24 03:41 PT",
    "checkedAt": "2026-08-24T03:41:00-07:00"
   },
@@ -1622,6 +2106,7 @@
    "url": "",
    "sourceNote": "[in-venue sign]",
    "source": "",
+   "confidence": "Medium - detail read is partial",
    "lastChecked": "2026-08-23 13:30 PT",
    "checkedAt": "2026-08-23T13:30:00-07:00"
   },
@@ -1646,6 +2131,7 @@
    "url": "https://www.novysf.com/",
    "sourceNote": "",
    "source": "novysf.com",
+   "confidence": "High",
    "lastChecked": "2026-08-23 13:30 PT",
    "checkedAt": "2026-08-23T13:30:00-07:00"
   },
@@ -1670,6 +2156,7 @@
    "url": "https://www.dublinerbarsf.com/events",
    "sourceNote": "",
    "source": "dublinerbarsf.com",
+   "confidence": "Medium",
    "lastChecked": "2026-08-23 13:30 PT",
    "checkedAt": "2026-08-23T13:30:00-07:00"
   },
@@ -1691,6 +2178,7 @@
    "url": "https://www.billingsgatesf.com/",
    "sourceNote": "",
    "source": "billingsgatesf.com",
+   "confidence": "High",
    "lastChecked": "2026-08-24 03:39 PT",
    "checkedAt": "2026-08-24T03:39:00-07:00"
   },
@@ -1707,6 +2195,7 @@
    "url": "https://www.frescasf.com/menu",
    "sourceNote": "",
    "source": "frescasf.com",
+   "confidence": "Low",
    "lastChecked": "2026-08-24 03:41 PT",
    "checkedAt": "2026-08-24T03:41:00-07:00"
   },
@@ -1723,9 +2212,91 @@
    "url": "https://www.yelp.com/biz/the-valley-tavern-san-francisco",
    "sourceNote": "",
    "source": "yelp.com",
+   "confidence": "Low",
    "lastChecked": "2026-08-23 13:30 PT",
    "checkedAt": "2026-08-23T13:30:00-07:00"
   }
  ],
- "note": "Published calendar for noeplacelikehome.io. Verified rows only - anything flagged for verification in the master sheet is not in this file."
+ "withheld": [
+  {
+   "tab": "This Week",
+   "row": "HeartSpace free community meeting (Heart Bridge Care)",
+   "flag": "REMOVED 2026-08-30 - Sahil ruled it out 8/30 10:20pm ('Don't add'). Uncorroborated anywhere beyond his own flyer photos; should have been flagged for his review before publishing."
+  },
+  {
+   "tab": "This Week",
+   "row": "Fall Equinox Yoga Nidra + Sound Healing (pop-up class with Cindy Meiri of Harmony Bodywork, 3882 24th St)",
+   "flag": "REMOVED 2026-08-30 - paid one-off (Castro Room class pack/membership). Sahil's paid-offerings rule 8/30, applied to existing rows by parent: out unless he clears it. Same pop-up series as the removed Yoga Lounge and Full Moon rows."
+  },
+  {
+   "tab": "This Week",
+   "row": "Yoga Lounge: restorative yoga + live sound healing (Estee Fletter with Cindy Meiri of Harmony Bodywork, 3882 24th St)",
+   "flag": "REMOVED 2026-08-30 - paid offering ($65 workshop). Sahil's call 8/30: paid Castro Room classes feel sales-y; the calendar is not a marketing machine. Do not publish."
+  },
+  {
+   "tab": "This Week",
+   "row": "Full Moon Yoga Nidra + Sound Healing (pop-up class with Cindy Meiri of Harmony Bodywork, 3882 24th St)",
+   "flag": "REMOVED 2026-08-30 - paid offering (class pack/membership). Sahil's call 8/30: paid Castro Room classes feel sales-y; the calendar is not a marketing machine. Do not publish."
+  },
+  {
+   "tab": "This Week",
+   "row": "Noe Valley: Village Within a City",
+   "flag": "REMOVED 2026-09-01 - event page 404s and the event is gone from SFPL's own Noe Valley branch listing. Withdrawn by the library."
+  },
+  {
+   "tab": "Library",
+   "row": "Math Tutoring (Engage Tutoring partnership)",
+   "flag": "window-gated per internal notes"
+  },
+  {
+   "tab": "Library",
+   "row": "Homework Hangout",
+   "flag": "window-gated per internal notes"
+  },
+  {
+   "tab": "Library",
+   "row": "Storytime: For Babies",
+   "flag": "seasonal gap - not on current calendar"
+  },
+  {
+   "tab": "Happy Hours",
+   "row": "Mr. Digby's",
+   "flag": "DO NOT PUBLISH - closed; Grand Lake Kitchen took 1199 Church in March 2026"
+  },
+  {
+   "tab": "Recurring",
+   "row": "SFPL Noe Valley/Sally Brunn Branch - Storytime for Toddlers",
+   "flag": "MERGED 8/23 - duplicate of Library tab row \"Storytime: For Toddlers\" (same Monday 11:15-11:45am). Library row is canonical; do not publish this one."
+  },
+  {
+   "tab": "Recurring",
+   "row": "Valley Tavern Trivia Night",
+   "flag": "HOLD 8/23 - aggregator listings only; not posted by the venue. Restore once someone confirms the night and time at the bar."
+  },
+  {
+   "tab": "Recurring",
+   "row": "Beach Glass Hot Yoga & Pilates",
+   "flag": "REMOVED 8/24 - standing paid studio class schedule, not an event. Sahil saw this on the live site and ruled that a studio's daily paid class schedule is not an event. Kept for reference; do not publish."
+  },
+  {
+   "tab": "Recurring",
+   "row": "Yoga Flow SF - Noe Valley studio",
+   "flag": "REMOVED 8/24 - standing paid studio class schedule, not an event. Sahil saw this on the live site and ruled that a studio's daily paid class schedule is not an event. The free Sunday Town Square yoga they co-run stays listed. Kept for reference; do not publish."
+  },
+  {
+   "tab": "Recurring",
+   "row": "Spanish Conversation Club at the Valley Tavern",
+   "flag": "CANDIDATE 8/24 - one neighbor's report, nothing posted by the venue. Confirm the night and the time at the bar before this publishes"
+  },
+  {
+   "tab": "Recurring",
+   "row": "Fair Oaks Street Garage Sale",
+   "flag": "CANDIDATE 8/24 - annual, next instance is May 2027 and no organiser page exists. Needs a human to find the date each spring before it publishes"
+  },
+  {
+   "tab": "Recurring",
+   "row": "Art Haus Community Night",
+   "flag": "CANDIDATE 8/24 - reported weekly, not on the venue's own site"
+  }
+ ]
 }
