@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01T07:12-07:00",
+ "generatedAt": "2026-09-01T21:10-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -1533,7 +1533,10 @@
     "food",
     "arts"
    ],
-   "free": false
+   "free": false,
+   "instanceDates": [
+    "2026-08-29"
+   ]
   },
   {
    "id": "rd087e39c",
@@ -1571,7 +1574,10 @@
     "arts",
     "social"
    ],
-   "free": false
+   "free": false,
+   "instanceDates": [
+    "2026-09-03"
+   ]
   },
   {
    "id": "r10eac54f",
@@ -1759,7 +1765,11 @@
    "tags": [
     "arts"
    ],
-   "free": true
+   "free": true,
+   "instanceDates": [
+    "2026-08-23",
+    "2026-09-20"
+   ]
   },
   {
    "id": "r3f845483",
@@ -1815,7 +1825,11 @@
    "tags": [
     "arts"
    ],
-   "free": false
+   "free": false,
+   "instanceDates": [
+    "2026-09-11",
+    "2026-09-18"
+   ]
   },
   {
    "id": "r37adb2a7",
