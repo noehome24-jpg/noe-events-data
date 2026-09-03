@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03T11:50-07:00",
+ "generatedAt": "2026-09-03T12:05-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -1508,7 +1508,10 @@
    "tags": [
     "arts"
    ],
-   "free": true
+   "free": true,
+   "instanceDates": [
+    "2026-09-11"
+   ]
   },
   {
    "id": "r5d3ba416",
