@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03T12:05-07:00",
+ "generatedAt": "2026-09-03T13:54-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -1089,6 +1089,37 @@
    "status": "Confirmed"
   },
   {
+   "id": "e7431c240",
+   "date": "2026-09-26",
+   "day": "Saturday",
+   "month": "Sep",
+   "dayNum": 26,
+   "start": "11:00",
+   "startRaw": "11:00",
+   "time": "11:00am \u2013 1:00pm",
+   "title": "Free chai pop-up from Streetside Chai",
+   "location": "Noe Valley Books",
+   "address": "3957 24th St",
+   "desc": "Our neighbors from Streetside Chai open up at the bookstore with homemade chai and treats, always free",
+   "endRaw": "13:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "food",
+    "arts",
+    "social"
+   ],
+   "url": "https://noevalleybooks.com/upcoming-events",
+   "source": "noevalleybooks.com",
+   "submittedBy": "",
+   "lastChecked": "2026-09-03 13:52 PT",
+   "checkedAt": "2026-09-03T13:52:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
    "id": "e579644ea",
    "date": "2026-09-26",
    "day": "Saturday",
@@ -1296,6 +1327,35 @@
    "url": "https://sfpl.org/events/2026/10/25/social-puzzle-swap",
    "source": "sfpl.org",
    "lastChecked": "",
+   "status": "Confirmed"
+  },
+  {
+   "id": "e92b1010c",
+   "date": "2026-10-27",
+   "day": "Tuesday",
+   "month": "Oct",
+   "dayNum": 27,
+   "start": "19:00",
+   "startRaw": "19:00",
+   "time": "7:00pm",
+   "title": "Book talk: City on the Edge (Jonathan Weber with Brad Stone)",
+   "location": "Noe Valley Books",
+   "address": "3957 24th St",
+   "desc": "A week before Election Day, veteran journalist Jonathan Weber talks with Bloomberg's Brad Stone about his book City on the Edge",
+   "endRaw": "",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "arts"
+   ],
+   "url": "https://noevalleybooks.com/upcoming-events",
+   "source": "noevalleybooks.com",
+   "submittedBy": "",
+   "lastChecked": "2026-09-03 13:52 PT",
+   "checkedAt": "2026-09-03T13:52:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
    "status": "Confirmed"
   },
   {
@@ -2185,6 +2245,11 @@
    "tab": "This Week",
    "row": "Pajama Storytime",
    "flag": "DUPLICATE 2026-09-01 - already covered by the Library tab (which generates the card). Cleared same morning; my dedupe grep missed the Library tab."
+  },
+  {
+   "tab": "This Week",
+   "row": "Romantasy Night",
+   "flag": "HOLD 9/3 - ticketed event (sliding scale from $15), paid rule: needs Sahil's yes before publishing"
   },
   {
    "tab": "Library",
