@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04T18:28-07:00",
+ "generatedAt": "2026-09-05T07:09-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -589,6 +589,35 @@
    "status": "Confirmed"
   },
   {
+   "id": "ee7e43c21",
+   "date": "2026-09-12",
+   "day": "Saturday",
+   "month": "Sep",
+   "dayNum": 12,
+   "start": "10:00",
+   "startRaw": "10:00",
+   "time": "10:00am \u2013 12:00pm",
+   "title": "Gardening Work Day at Upper Noe Rec Center",
+   "location": "Upper Noe Recreation Center",
+   "address": "295 Day St",
+   "desc": "Neighbors spruce up the rec center garden beds; quarterly Saturday work day, 10am to noon",
+   "endRaw": "12:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "social"
+   ],
+   "url": "https://uppernoerecreationcenter.com/events/",
+   "source": "uppernoerecreationcenter.com",
+   "submittedBy": "",
+   "lastChecked": "2026-09-05 07:08 PT",
+   "checkedAt": "2026-09-05T07:08:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
    "id": "eacff5f3d",
    "date": "2026-09-12",
    "day": "Saturday",
@@ -638,6 +667,35 @@
    "submittedBy": "",
    "lastChecked": "2026-09-04 06:57 PT",
    "checkedAt": "2026-09-04T06:57:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
+   "id": "eaab66617",
+   "date": "2026-09-13",
+   "day": "Sunday",
+   "month": "Sep",
+   "dayNum": 13,
+   "start": "10:30",
+   "startRaw": "10:30",
+   "time": "10:30am \u2013 12:00pm",
+   "title": "Upper Noe Clean Up",
+   "location": "Upper Noe Neighbors, meet at Upper Noe Recreation Center",
+   "address": "295 Day St",
+   "desc": "Neighborhood cleanup with Upper Noe Neighbors; meet at the rec center, 10:30 to noon",
+   "endRaw": "12:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "social"
+   ],
+   "url": "https://uppernoeneighbors.com/",
+   "source": "uppernoeneighbors.com",
+   "submittedBy": "",
+   "lastChecked": "2026-09-05 07:08 PT",
+   "checkedAt": "2026-09-05T07:08:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -2670,7 +2728,7 @@
   {
    "tab": "Library",
    "row": "Adult Crafts / eReader Help / Noe Valley Book Groups (branch-page ongoing programs)",
-   "flag": "HOLD 2026-09-04 - time 'varies', schedule-unverified per its own internal note; surfaced to Sahil for include-or-skip. Never published before."
+   "flag": "REMOVED 2026-09-04 - Sahil ruled SKIP 9/4: keep the monthly Adult Crafts / eReader Help / Book Groups card out of the build permanently."
   },
   {
    "tab": "Happy Hours",
