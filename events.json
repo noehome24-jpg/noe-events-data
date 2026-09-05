@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04T14:54-07:00",
+ "generatedAt": "2026-09-04T18:28-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -994,6 +994,31 @@
    "status": "Confirmed"
   },
   {
+   "id": "ef8e13c5d",
+   "date": "2026-09-20",
+   "day": "Sunday",
+   "month": "Sep",
+   "dayNum": 20,
+   "start": "14:00",
+   "startRaw": "14:00",
+   "endRaw": "15:00",
+   "time": "2:00pm \u2013 3:00pm",
+   "title": "Decoden Keychains and Hairclips",
+   "location": "Noe Valley / Sally Brunn Library",
+   "address": "451 Jersey St",
+   "desc": "Decoden craft for middle school age/teens",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "family",
+    "arts"
+   ],
+   "url": "https://sfpl.org/events/2026/09/20/activity-decoden-keychains-and-hairclips",
+   "source": "sfpl.org",
+   "lastChecked": "",
+   "status": "Confirmed"
+  },
+  {
    "id": "efbcc3199",
    "date": "2026-09-22",
    "day": "Tuesday",
@@ -1223,6 +1248,35 @@
    "submittedBy": "",
    "lastChecked": "2026-09-04 13:46 PT",
    "checkedAt": "2026-09-04T13:46:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
+   "id": "e376d6107",
+   "date": "2026-09-29",
+   "day": "Tuesday",
+   "month": "Sep",
+   "dayNum": 29,
+   "start": "19:00",
+   "startRaw": "19:00",
+   "time": "7:00pm",
+   "title": "Romantasy Night",
+   "location": "Noe Valley Books",
+   "address": "3957 24th St",
+   "desc": "An evening celebrating all things romantasy and the release of Rebecca Yarros's Threshing Day: potions bar with drinks and snacks, fantasy-cover Mad Libs, hidden quests in the store, costumes encouraged",
+   "endRaw": "",
+   "price": "Ticketed, sliding scale from $15",
+   "free": false,
+   "tags": [
+    "arts"
+   ],
+   "url": "https://noevalleybooks.com/upcoming-events",
+   "source": "noevalleybooks.com",
+   "submittedBy": "",
+   "lastChecked": "2026-09-04 18:26 PT",
+   "checkedAt": "2026-09-04T18:26:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -2584,11 +2638,6 @@
    "flag": "DUPLICATE 2026-09-01 - already covered by the Library tab (which generates the card). Cleared same morning; my dedupe grep missed the Library tab."
   },
   {
-   "tab": "This Week",
-   "row": "Romantasy Night",
-   "flag": "HOLD 9/3 - ticketed event (sliding scale from $15), paid rule: needs Sahil's yes before publishing"
-  },
-  {
    "tab": "Library",
    "row": "Math Tutoring (Engage Tutoring partnership)",
    "flag": "window-gated per internal notes"
@@ -2597,6 +2646,31 @@
    "tab": "Library",
    "row": "Homework Hangout",
    "flag": "window-gated per internal notes"
+  },
+  {
+   "tab": "Library",
+   "row": "Activity: Giant Jenga",
+   "flag": "REMOVED 2026-09-04 - past one-off (8/23). Never published; cleaning stale row."
+  },
+  {
+   "tab": "Library",
+   "row": "Activity: Letters of Hope & Art for Connection",
+   "flag": "REMOVED 2026-09-04 - past one-off (8/22). Never published; cleaning stale row."
+  },
+  {
+   "tab": "Library",
+   "row": "Book Club: His Dark Materials",
+   "flag": "REMOVED 2026-09-04 - past one-off (8/28). Never published; cleaning stale row."
+  },
+  {
+   "tab": "Library",
+   "row": "Storytime: For Babies",
+   "flag": "seasonal gap - not on current calendar"
+  },
+  {
+   "tab": "Library",
+   "row": "Adult Crafts / eReader Help / Noe Valley Book Groups (branch-page ongoing programs)",
+   "flag": "HOLD 2026-09-04 - time 'varies', schedule-unverified per its own internal note; surfaced to Sahil for include-or-skip. Never published before."
   },
   {
    "tab": "Happy Hours",
