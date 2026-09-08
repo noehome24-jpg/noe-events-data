@@ -1,534 +1,7 @@
 {
- "generatedAt": "2026-09-06T07:01-07:00",
+ "generatedAt": "2026-09-08T07:35-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
-  {
-   "id": "efc0bd678",
-   "date": "2026-08-23",
-   "day": "Sunday",
-   "month": "Aug",
-   "dayNum": 23,
-   "start": "11:00",
-   "startRaw": "11:00",
-   "time": "11:00am \u2013 12:00pm",
-   "title": "Free Sunday Morning Yoga (Yoga Flow SF)",
-   "location": "Noe Valley Town Square",
-   "address": "3861 24th St",
-   "desc": "Bring mat and water. Weather permitting per venue note",
-   "endRaw": "12:00",
-   "price": "Free",
-   "free": true,
-   "tags": [
-    "active"
-   ],
-   "url": "https://noevalleytownsquare.com/events/",
-   "source": "noevalleytownsquare.com",
-   "submittedBy": "",
-   "lastChecked": "2026-09-05 13:09 PT",
-   "checkedAt": "2026-09-05T13:09:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
-  {
-   "id": "e36bb99ad",
-   "date": "2026-08-23",
-   "day": "Sunday",
-   "month": "Aug",
-   "dayNum": 23,
-   "start": "12:00",
-   "startRaw": "12:00",
-   "time": "12:00pm \u2013 2:00pm",
-   "title": "Streetside Chai popup",
-   "location": "Streetside Chai home garage",
-   "address": "25th & Sanchez",
-   "desc": "Run by Areeb and Sharmeen out of their garage. Free entry; proceeds go to the SF Women's Building",
-   "endRaw": "14:00",
-   "price": "Free entry; proceeds to the SF Women's Building",
-   "free": true,
-   "tags": [
-    "food"
-   ],
-   "url": "https://streetsidechai.substack.com",
-   "source": "streetsidechai.substack.com",
-   "submittedBy": "",
-   "lastChecked": "2026-08-23 06:19 PT",
-   "checkedAt": "2026-08-23T06:19:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
-  {
-   "id": "e7e74f1ac",
-   "date": "2026-08-23",
-   "day": "Sunday",
-   "month": "Aug",
-   "dayNum": 23,
-   "start": "13:00",
-   "startRaw": "13:00",
-   "time": "1:00pm \u2013 2:00pm",
-   "title": "Sunday Music in the Square: Cabernet Quartet",
-   "location": "Noe Valley Town Square",
-   "address": "3861 24th St",
-   "desc": "String quartet",
-   "endRaw": "14:00",
-   "price": "Free",
-   "free": true,
-   "tags": [
-    "arts"
-   ],
-   "url": "https://noevalleytownsquare.com/events/",
-   "source": "noevalleytownsquare.com",
-   "submittedBy": "",
-   "lastChecked": "2026-08-23 06:19 PT",
-   "checkedAt": "2026-08-23T06:19:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
-  {
-   "id": "ee488e538",
-   "date": "2026-08-23",
-   "day": "Sunday",
-   "month": "Aug",
-   "dayNum": 23,
-   "start": "14:00",
-   "startRaw": "14:00",
-   "time": "2:00pm \u2013 3:00pm",
-   "title": "Sunday Music in the Square: Barb Murphy",
-   "location": "Noe Valley Town Square",
-   "address": "3861 24th St",
-   "desc": "Folk/rock/country set",
-   "endRaw": "15:00",
-   "price": "Free",
-   "free": true,
-   "tags": [
-    "arts"
-   ],
-   "url": "https://noevalleytownsquare.com/events/",
-   "source": "noevalleytownsquare.com",
-   "submittedBy": "",
-   "lastChecked": "2026-08-23 06:19 PT",
-   "checkedAt": "2026-08-23T06:19:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
-  {
-   "id": "ec2b54159",
-   "date": "2026-08-23",
-   "day": "Sunday",
-   "month": "Aug",
-   "dayNum": 23,
-   "start": "14:00",
-   "startRaw": "14:00",
-   "time": "2:00pm \u2013 4:00pm",
-   "title": "SF City Guides walking tour: Noe Valley, Village Within a City",
-   "location": "Noe Valley/Sally Brunn Library back courtyard",
-   "address": "451 Jersey St",
-   "desc": "Space is limited. Reserve through SF City Guides, not the library",
-   "endRaw": "16:00",
-   "price": "Free",
-   "free": true,
-   "tags": [
-    "active",
-    "arts"
-   ],
-   "url": "https://sfpl.org/events/2026/08/23/social-noe-valley-village-within-city",
-   "source": "sfpl.org",
-   "submittedBy": "",
-   "lastChecked": "2026-08-23 06:19 PT",
-   "checkedAt": "2026-08-23T06:19:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
-  {
-   "id": "e0eba0507",
-   "date": "2026-08-23",
-   "day": "Sunday",
-   "month": "Aug",
-   "dayNum": 23,
-   "start": "",
-   "startRaw": "",
-   "time": "All day",
-   "title": "A VERY LAUFEY DAY",
-   "location": "Noe Valley Books",
-   "address": "3957 24th St",
-   "desc": "Official indie bookstore stop for A Very Laufey Day. Browse the shelves, meet other fans, limited edition items. All day; start and end times not posted",
-   "endRaw": "",
-   "price": "Free",
-   "free": true,
-   "tags": [
-    "arts",
-    "social"
-   ],
-   "url": "https://noevalleybooks.com/events",
-   "source": "noevalleybooks.com",
-   "submittedBy": "",
-   "lastChecked": "2026-08-23 08:46 PT",
-   "checkedAt": "2026-08-23T08:46:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
-  {
-   "id": "e725a8f96",
-   "date": "2026-08-24",
-   "day": "Monday",
-   "month": "Aug",
-   "dayNum": 24,
-   "start": "19:00",
-   "startRaw": "19:00",
-   "time": "7:00pm \u2013 8:00pm",
-   "title": "Praying with Clay (Evensong + Embodied Practice)",
-   "location": "Noe Valley Church / Noe Valley Ministry",
-   "address": "1021 Sanchez St",
-   "desc": "Clay artist MaryMar Keenan and the Choral Scholars lead contemplative music, prayer, silence and hands-on making. $5, limited space, register at noechurch.org/clay",
-   "endRaw": "20:00",
-   "price": "$5",
-   "free": false,
-   "tags": [
-    "arts"
-   ],
-   "url": "https://noechurch.org/clay",
-   "source": "noechurch.org",
-   "submittedBy": "",
-   "lastChecked": "2026-08-24 13:01 PT",
-   "checkedAt": "2026-08-24T13:01:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
-  {
-   "id": "e1c5ed398",
-   "date": "2026-08-25",
-   "day": "Tuesday",
-   "month": "Aug",
-   "dayNum": 25,
-   "start": "15:00",
-   "startRaw": "15:00",
-   "time": "3:00pm \u2013 5:00pm",
-   "title": "McKee Masterclass I: Elizabeth Dorman (SF International Piano Festival)",
-   "location": "Noe Valley Ministry",
-   "address": "1021 Sanchez St",
-   "desc": "Free and open to all, per the event page",
-   "endRaw": "17:00",
-   "price": "Free",
-   "free": true,
-   "tags": [
-    "arts"
-   ],
-   "url": "https://sfpiano.org/concerts-and-events/2026/8/25/mckee-masterclass-i-elizabeth-dorman",
-   "source": "sfpiano.org",
-   "submittedBy": "",
-   "lastChecked": "2026-08-25 13:04 PT",
-   "checkedAt": "2026-08-25T13:04:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
-  {
-   "id": "e3e93cb2e",
-   "date": "2026-08-25",
-   "day": "Tuesday",
-   "month": "Aug",
-   "dayNum": 25,
-   "start": "16:30",
-   "startRaw": "16:30",
-   "time": "4:30pm \u2013 8:30pm",
-   "title": "Noe Valley Night Market",
-   "location": "Noe Valley Town Square + 24th St",
-   "address": "3861 24th St",
-   "desc": "Live music, local food, artists and shopping in and around the Town Square. Lambert Moss MCs. Free admission",
-   "endRaw": "20:30",
-   "price": "Free",
-   "free": true,
-   "tags": [
-    "food"
-   ],
-   "url": "https://noemerchants.com/nightmarket/",
-   "source": "noemerchants.com",
-   "submittedBy": "",
-   "lastChecked": "2026-08-25 13:04 PT",
-   "checkedAt": "2026-08-25T13:04:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
-  {
-   "id": "eb6135fc3",
-   "date": "2026-08-27",
-   "day": "Thursday",
-   "month": "Aug",
-   "dayNum": 27,
-   "start": "15:00",
-   "startRaw": "15:00",
-   "time": "3:00pm \u2013 5:00pm",
-   "title": "McKee Masterclass II: Stephen Prutsman",
-   "location": "Noe Valley Ministry",
-   "address": "1021 Sanchez St",
-   "desc": "Second class in the free McKee masterclass series",
-   "endRaw": "17:00",
-   "price": "Free",
-   "free": true,
-   "tags": [
-    "arts"
-   ],
-   "url": "https://sfpiano.org/concerts-and-events/2026/8/27/mckee-masterclass-ii-stephen-prutsman",
-   "source": "sfpiano.org",
-   "submittedBy": "",
-   "lastChecked": "2026-08-27 13:01 PT",
-   "checkedAt": "2026-08-27T13:01:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
-  {
-   "id": "e1fa5d1b9",
-   "date": "2026-08-28",
-   "day": "Friday",
-   "month": "Aug",
-   "dayNum": 28,
-   "start": "15:00",
-   "startRaw": "15:00",
-   "time": "3:00pm \u2013 5:00pm",
-   "title": "McKee Masterclass III: Eric Zivian",
-   "location": "Noe Valley Ministry",
-   "address": "1021 Sanchez St",
-   "desc": "Final class in the series",
-   "endRaw": "17:00",
-   "price": "Free",
-   "free": true,
-   "tags": [
-    "arts"
-   ],
-   "url": "https://sfpiano.org/concerts-and-events/2026/8/28/mckee-masterclass-iii",
-   "source": "sfpiano.org",
-   "submittedBy": "",
-   "lastChecked": "2026-08-28 13:01 PT",
-   "checkedAt": "2026-08-28T13:01:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
-  {
-   "id": "e8d6f33b1",
-   "date": "2026-08-29",
-   "day": "Saturday",
-   "month": "Aug",
-   "dayNum": 29,
-   "start": "16:00",
-   "startRaw": "16:00",
-   "time": "4:00pm \u2013 5:00pm",
-   "title": "Rhythm & Motion free dance workout",
-   "location": "Noe Valley Town Square",
-   "address": "3861 24th St",
-   "desc": "Free one-hour dance workout in the square, all ages and abilities welcome. Monthly; the next one after this is Sept 26",
-   "endRaw": "17:00",
-   "price": "Free",
-   "free": true,
-   "tags": [
-    "active"
-   ],
-   "url": "https://noevalleytownsquare.com/events",
-   "source": "noevalleytownsquare.com",
-   "submittedBy": "",
-   "lastChecked": "2026-08-29 13:09 PT",
-   "checkedAt": "2026-08-29T13:09:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
-  {
-   "id": "e6b95b22d",
-   "date": "2026-08-29",
-   "day": "Saturday",
-   "month": "Aug",
-   "dayNum": 29,
-   "start": "8:00",
-   "startRaw": "8:00",
-   "time": "8:00am \u2013 1:00pm",
-   "title": "Noe Valley Farmers Market",
-   "location": "Noe Valley Town Square",
-   "address": "3861 24th St",
-   "desc": "About 21 vendors as of June 2026",
-   "endRaw": "13:00",
-   "price": "Free",
-   "free": true,
-   "tags": [
-    "food"
-   ],
-   "url": "https://www.noevalleyfarmersmarket.com/",
-   "source": "noevalleyfarmersmarket.com",
-   "submittedBy": "",
-   "lastChecked": "2026-08-29 13:09 PT",
-   "checkedAt": "2026-08-29T13:09:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed (standing weekly)"
-  },
-  {
-   "id": "eab544326",
-   "date": "2026-08-30",
-   "day": "Sunday",
-   "month": "Aug",
-   "dayNum": 30,
-   "start": "11:00",
-   "startRaw": "11:00",
-   "time": "11:00am \u2013 3:00pm",
-   "title": "Noe Valley Wellness Festival",
-   "location": "Noe Valley Town Square",
-   "address": "3861 24th St",
-   "desc": "Merchant village plus a demo stage: Yoga Flow, EHS Pilates, Noe Music, Olive This Olive That, Rowena Mittal Yoga, Feldenkrais",
-   "endRaw": "15:00",
-   "price": "Free",
-   "free": true,
-   "tags": [
-    "active",
-    "social"
-   ],
-   "url": "https://noemerchants.com/wellness-festival/",
-   "source": "noemerchants.com",
-   "submittedBy": "",
-   "lastChecked": "2026-08-30 13:09 PT",
-   "checkedAt": "2026-08-30T13:09:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
-  {
-   "id": "e881d6e20",
-   "date": "2026-09-02",
-   "day": "Wednesday",
-   "month": "Sep",
-   "dayNum": 2,
-   "start": "18:00",
-   "startRaw": "18:00",
-   "time": "6:00pm \u2013 8:00pm",
-   "title": "District 8 Supervisor Candidate Forum",
-   "location": "League of Women Voters SF at the Randall Museum",
-   "address": "199 Museum Way",
-   "desc": "Nonpartisan candidate forum for the district that includes Noe Valley, hosted by the League of Women Voters SF. All qualified candidates agreed to take part. Free, but registration is required to attend in person; doors 5:30, first come seating. Online viewing option for registrants",
-   "endRaw": "20:00",
-   "price": "Free",
-   "free": true,
-   "tags": [
-    "social"
-   ],
-   "url": "https://luma.com/8hnbmq9c",
-   "source": "luma.com",
-   "submittedBy": "",
-   "lastChecked": "2026-09-04 06:57 PT",
-   "checkedAt": "2026-09-04T06:57:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
-  {
-   "id": "ea8b9b937",
-   "date": "2026-09-03",
-   "day": "Thursday",
-   "month": "Sep",
-   "dayNum": 3,
-   "start": "18:00",
-   "startRaw": "18:00",
-   "time": "6:00pm \u2013 8:00pm",
-   "title": "Ladies Night: Lights of Hope luminaria decorating + group run (Running Wylder)",
-   "location": "Running Wylder",
-   "address": "1354 Castro St",
-   "desc": "The first-Thursday Ladies Night run gets a fundraiser edition: 6pm group run from the store, then decorate a Lights of Hope luminaria bag back at the shop. All paces welcome",
-   "endRaw": "20:00",
-   "price": "$10 minimum donation",
-   "free": false,
-   "tags": [
-    "active"
-   ],
-   "url": "https://runningwylder.co/pages/store-events",
-   "source": "runningwylder.co",
-   "submittedBy": "",
-   "lastChecked": "2026-09-03 16:06 PT",
-   "checkedAt": "2026-09-03T16:06:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
-  {
-   "id": "ed7c1ddf1",
-   "date": "2026-09-03",
-   "day": "Thursday",
-   "month": "Sep",
-   "dayNum": 3,
-   "start": "19:00",
-   "startRaw": "19:00",
-   "time": "7:00pm \u2013 8:00pm",
-   "title": "Noe Valley Books Book Club: The Yahoo Boys",
-   "location": "Noe Valley Books",
-   "address": "3957 24th St",
-   "desc": "Book club discussion of \"The Yahoo Boys: Love, Deception, and the Real Lives of Nigeria's Romance Scammers\" by Carlos Barragan. Sign up in advance and get the book 10% off at the store",
-   "endRaw": "20:00",
-   "price": "Free (book 10% off)",
-   "free": true,
-   "tags": [
-    "arts",
-    "social"
-   ],
-   "url": "https://noevalleybooks.com/events",
-   "source": "noevalleybooks.com",
-   "submittedBy": "",
-   "lastChecked": "2026-09-03 14:36 PT",
-   "checkedAt": "2026-09-03T14:36:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
-  {
-   "id": "e949e6117",
-   "date": "2026-09-05",
-   "day": "Saturday",
-   "month": "Sep",
-   "dayNum": 5,
-   "start": "10:00",
-   "startRaw": "10:00",
-   "time": "10:00am",
-   "title": "Kids yoga + parents' run (Running Wylder)",
-   "location": "Running Wylder",
-   "address": "1354 Castro St",
-   "desc": "Drop the kids at the store for yoga and crafts while the grown-ups head out on a 4 mile run",
-   "endRaw": "",
-   "price": "Not posted",
-   "free": false,
-   "tags": [
-    "family",
-    "active"
-   ],
-   "url": "https://runningwylder.co/pages/store-events",
-   "source": "runningwylder.co",
-   "submittedBy": "",
-   "lastChecked": "2026-09-05 13:09 PT",
-   "checkedAt": "2026-09-05T13:09:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
   {
    "id": "e7e5c26c7",
    "date": "2026-09-11",
@@ -581,8 +54,8 @@
    "url": "https://www.noemusic.org/2026-2027/divertimento",
    "source": "noemusic.org",
    "submittedBy": "",
-   "lastChecked": "2026-09-04 06:57 PT",
-   "checkedAt": "2026-09-04T06:57:00-07:00",
+   "lastChecked": "2026-09-07 09:25 PT",
+   "checkedAt": "2026-09-07T09:25:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -665,8 +138,8 @@
    "url": "https://noevalleytownsquare.com/events",
    "source": "noevalleytownsquare.com",
    "submittedBy": "",
-   "lastChecked": "2026-09-04 06:57 PT",
-   "checkedAt": "2026-09-04T06:57:00-07:00",
+   "lastChecked": "2026-09-07 09:25 PT",
+   "checkedAt": "2026-09-07T09:25:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -723,8 +196,8 @@
    "url": "https://www.slowsanchez.com/event",
    "source": "slowsanchez.com",
    "submittedBy": "",
-   "lastChecked": "2026-09-01 06:55 PT",
-   "checkedAt": "2026-09-01T06:55:00-07:00",
+   "lastChecked": "2026-09-07 09:25 PT",
+   "checkedAt": "2026-09-07T09:25:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -2099,10 +1572,7 @@
     "food",
     "arts"
    ],
-   "free": false,
-   "instanceDates": [
-    "2026-08-29"
-   ]
+   "free": false
   },
   {
    "id": "rd087e39c",
@@ -2140,10 +1610,7 @@
     "arts",
     "social"
    ],
-   "free": false,
-   "instanceDates": [
-    "2026-09-03"
-   ]
+   "free": false
   },
   {
    "id": "r10eac54f",
@@ -2333,7 +1800,6 @@
    ],
    "free": true,
    "instanceDates": [
-    "2026-08-23",
     "2026-09-20"
    ]
   },
@@ -2651,8 +2117,73 @@
  "withheld": [
   {
    "tab": "This Week",
+   "row": "Free Sunday Morning Yoga (Yoga Flow SF)",
+   "flag": "REMOVED 2026-09-08 - past"
+  },
+  {
+   "tab": "This Week",
+   "row": "Sunday Music in the Square: Cabernet Quartet",
+   "flag": "REMOVED 2026-09-08 - past"
+  },
+  {
+   "tab": "This Week",
+   "row": "Sunday Music in the Square: Barb Murphy",
+   "flag": "REMOVED 2026-09-08 - past"
+  },
+  {
+   "tab": "This Week",
+   "row": "SF City Guides walking tour: Noe Valley, Village Within a City",
+   "flag": "REMOVED 2026-09-08 - past"
+  },
+  {
+   "tab": "This Week",
+   "row": "McKee Masterclass I: Elizabeth Dorman (SF International Piano Festival)",
+   "flag": "REMOVED 2026-09-08 - past"
+  },
+  {
+   "tab": "This Week",
+   "row": "Noe Valley Night Market",
+   "flag": "REMOVED 2026-09-08 - past"
+  },
+  {
+   "tab": "This Week",
+   "row": "McKee Masterclass II: Stephen Prutsman",
+   "flag": "REMOVED 2026-09-08 - past"
+  },
+  {
+   "tab": "This Week",
+   "row": "McKee Masterclass III: Eric Zivian",
+   "flag": "REMOVED 2026-09-08 - past"
+  },
+  {
+   "tab": "This Week",
+   "row": "Noe Valley Farmers Market",
+   "flag": "REMOVED 2026-09-08 - past"
+  },
+  {
+   "tab": "This Week",
+   "row": "Streetside Chai popup",
+   "flag": "REMOVED 2026-09-08 - past"
+  },
+  {
+   "tab": "This Week",
+   "row": "Noe Valley Wellness Festival",
+   "flag": "REMOVED 2026-09-08 - past"
+  },
+  {
+   "tab": "This Week",
+   "row": "Praying with Clay (Evensong + Embodied Practice)",
+   "flag": "REMOVED 2026-09-08 - past"
+  },
+  {
+   "tab": "This Week",
    "row": "HeartSpace free community meeting (Heart Bridge Care)",
    "flag": "REMOVED 2026-08-30 - Sahil ruled it out 8/30 10:20pm ('Don't add'). Uncorroborated anywhere beyond his own flyer photos; should have been flagged for his review before publishing."
+  },
+  {
+   "tab": "This Week",
+   "row": "A VERY LAUFEY DAY",
+   "flag": "REMOVED 2026-09-08 - past"
   },
   {
    "tab": "This Week",
@@ -2661,8 +2192,28 @@
   },
   {
    "tab": "This Week",
+   "row": "Noe Valley Books Book Club: The Yahoo Boys",
+   "flag": "REMOVED 2026-09-08 - past"
+  },
+  {
+   "tab": "This Week",
    "row": "Fall Equinox Yoga Nidra + Sound Healing (pop-up class with Cindy Meiri of Harmony Bodywork, 3882 24th St)",
    "flag": "REMOVED 2026-08-30 - paid one-off (Castro Room class pack/membership). Sahil's paid-offerings rule 8/30, applied to existing rows by parent: out unless he clears it. Same pop-up series as the removed Yoga Lounge and Full Moon rows."
+  },
+  {
+   "tab": "This Week",
+   "row": "Rhythm & Motion free dance workout",
+   "flag": "REMOVED 2026-09-08 - past"
+  },
+  {
+   "tab": "This Week",
+   "row": "Ladies Night: Lights of Hope luminaria decorating + group run (Running Wylder)",
+   "flag": "REMOVED 2026-09-08 - past"
+  },
+  {
+   "tab": "This Week",
+   "row": "Kids yoga + parents' run (Running Wylder)",
+   "flag": "REMOVED 2026-09-08 - past"
   },
   {
    "tab": "This Week",
@@ -2678,6 +2229,11 @@
    "tab": "This Week",
    "row": "Noe Valley: Village Within a City",
    "flag": "REMOVED 2026-09-01 - event page 404s and the event is gone from SFPL's own Noe Valley branch listing. Withdrawn by the library."
+  },
+  {
+   "tab": "This Week",
+   "row": "District 8 Supervisor Candidate Forum",
+   "flag": "REMOVED 2026-09-08 - past"
   },
   {
    "tab": "This Week",
@@ -2723,6 +2279,11 @@
    "tab": "This Week",
    "row": "Pajama Storytime",
    "flag": "DUPLICATE 2026-09-01 - already covered by the Library tab (which generates the card). Cleared same morning; my dedupe grep missed the Library tab."
+  },
+  {
+   "tab": "This Week",
+   "row": "Shred Day",
+   "flag": "REMOVED"
   },
   {
    "tab": "Library",
