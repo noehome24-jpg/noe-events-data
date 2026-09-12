@@ -1,66 +1,7 @@
 {
- "generatedAt": "2026-09-11T10:09-04:00",
+ "generatedAt": "2026-09-12T12:03-04:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
-  {
-   "id": "e7e5c26c7",
-   "date": "2026-09-11",
-   "day": "Friday",
-   "month": "Sep",
-   "dayNum": 11,
-   "start": "14:00",
-   "startRaw": "14:00",
-   "time": "2:00pm \u2013 4:00pm",
-   "title": "Film screening: The Shape of Water",
-   "location": "Noe Valley Library (Sally Brunn Branch)",
-   "address": "451 Jersey St",
-   "desc": "Free afternoon screening at the branch, part of the library's VIVA Latinx interest programming",
-   "endRaw": "16:00",
-   "price": "Free",
-   "free": true,
-   "tags": [
-    "active",
-    "arts"
-   ],
-   "url": "https://sfpl.org/events?field_event_location_target_id=33",
-   "source": "sfpl.org",
-   "submittedBy": "",
-   "lastChecked": "2026-09-10 13:10 PT",
-   "checkedAt": "2026-09-10T13:10:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
-  {
-   "id": "e6631a0d9",
-   "date": "2026-09-11",
-   "day": "Friday",
-   "month": "Sep",
-   "dayNum": 11,
-   "start": "17:00",
-   "startRaw": "17:00",
-   "time": "5:00pm \u2013 6:00pm",
-   "title": "Noe Music in the Square: Mozart Divertimento",
-   "location": "Noe Valley Town Square",
-   "address": "3861 24th St",
-   "desc": "Free chamber music in the square: Mozart's Divertimento for violin, viola and cello, played by Noe Music",
-   "endRaw": "18:00",
-   "price": "Free",
-   "free": true,
-   "tags": [
-    "arts"
-   ],
-   "url": "https://www.noemusic.org/2026-2027/divertimento",
-   "source": "noemusic.org",
-   "submittedBy": "",
-   "lastChecked": "2026-09-10 13:10 PT",
-   "checkedAt": "2026-09-10T13:10:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
   {
    "id": "ee7e43c21",
    "date": "2026-09-12",
@@ -83,8 +24,8 @@
    "url": "https://uppernoerecreationcenter.com/events/",
    "source": "uppernoerecreationcenter.com",
    "submittedBy": "",
-   "lastChecked": "2026-09-05 07:08 PT",
-   "checkedAt": "2026-09-05T07:08:00-07:00",
+   "lastChecked": "2026-09-11 13:09 PT",
+   "checkedAt": "2026-09-11T13:09:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -196,8 +137,8 @@
    "url": "https://www.slowsanchez.com/event",
    "source": "slowsanchez.com",
    "submittedBy": "",
-   "lastChecked": "2026-09-07 09:25 PT",
-   "checkedAt": "2026-09-07T09:25:00-07:00",
+   "lastChecked": "2026-09-11 20:56 PT",
+   "checkedAt": "2026-09-11T20:56:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -1586,10 +1527,7 @@
    "tags": [
     "arts"
    ],
-   "free": true,
-   "instanceDates": [
-    "2026-09-11"
-   ]
+   "free": true
   },
   {
    "id": "r5d3ba416",
@@ -1913,7 +1851,6 @@
    ],
    "free": false,
    "instanceDates": [
-    "2026-09-11",
     "2026-09-18"
    ]
   },
@@ -2147,8 +2084,8 @@
    "sourceNote": "",
    "source": "frescasf.com",
    "confidence": "Low",
-   "lastChecked": "2026-08-24 03:41 PT",
-   "checkedAt": "2026-08-24T03:41:00-07:00"
+   "lastChecked": "2026-09-12 08:58 PT",
+   "checkedAt": "2026-09-12T08:58:00-07:00"
   },
   {
    "id": "hhe0baf18e",
@@ -2261,6 +2198,11 @@
   },
   {
    "tab": "This Week",
+   "row": "Noe Music in the Square: Mozart Divertimento",
+   "flag": "REMOVED 2026-09-12 - past"
+  },
+  {
+   "tab": "This Week",
    "row": "Ladies Night: Lights of Hope luminaria decorating + group run (Running Wylder)",
    "flag": "REMOVED 2026-09-08 - past"
   },
@@ -2278,6 +2220,11 @@
    "tab": "This Week",
    "row": "Full Moon Yoga Nidra + Sound Healing (pop-up class with Cindy Meiri of Harmony Bodywork, 3882 24th St)",
    "flag": "REMOVED 2026-08-30 - paid offering (class pack/membership). Sahil's call 8/30: paid Castro Room classes feel sales-y; the calendar is not a marketing machine. Do not publish."
+  },
+  {
+   "tab": "This Week",
+   "row": "Film screening: The Shape of Water",
+   "flag": "REMOVED 2026-09-12 - past"
   },
   {
    "tab": "This Week",
