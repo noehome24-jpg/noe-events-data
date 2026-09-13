@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-13T14:06-04:00",
+ "generatedAt": "2026-09-13T14:35-04:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -459,6 +459,35 @@
    "url": "https://sfpl.org/events/2026/09/20/activity-decoden-keychains-and-hairclips",
    "source": "sfpl.org",
    "lastChecked": "",
+   "status": "Confirmed"
+  },
+  {
+   "id": "ec86a85aa",
+   "date": "2026-09-20",
+   "day": "Sunday",
+   "month": "Sep",
+   "dayNum": 20,
+   "start": "16:00",
+   "startRaw": "16:00",
+   "time": "4:00pm \u2013 6:00pm",
+   "title": "Noe Music: Janice Carissa, piano",
+   "location": "Noe Valley Ministry",
+   "address": "1021 Sanchez St",
+   "desc": "San Francisco recital debut of the Indonesian-born pianist and 2022 Gilmore Young Artist: Philip Glass Etudes, Bach French Suite No. 5, a piece written for her by Eunike Tanzil, Rzewski Winnsboro Cotton Mill Blues, Prokofiev Sonata No. 8",
+   "endRaw": "18:00",
+   "price": "Ticketed - price not posted",
+   "free": false,
+   "tags": [
+    "arts"
+   ],
+   "url": "https://noemusic.ludus.com/200531217",
+   "source": "noemusic.ludus.com",
+   "submittedBy": "",
+   "lastChecked": "2026-09-13 06:55 PT",
+   "checkedAt": "2026-09-13T06:55:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
    "status": "Confirmed"
   },
   {
@@ -1841,7 +1870,8 @@
    ],
    "free": false,
    "instanceDates": [
-    "2026-09-18"
+    "2026-09-18",
+    "2026-09-20"
    ]
   },
   {
@@ -2280,11 +2310,6 @@
    "tab": "This Week",
    "row": "Shred Day",
    "flag": "REMOVED"
-  },
-  {
-   "tab": "This Week",
-   "row": "Noe Music: Janice Carissa, piano",
-   "flag": "HELD 2026-09-13 - paid/ticketed event; per Sahil's 8/30 rule, flag before posting. Ticketed via Ludus; price not posted."
   },
   {
    "tab": "Library",
