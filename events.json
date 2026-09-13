@@ -1,36 +1,7 @@
 {
- "generatedAt": "2026-09-12T12:03-04:00",
+ "generatedAt": "2026-09-13T14:02-04:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
-  {
-   "id": "ee7e43c21",
-   "date": "2026-09-12",
-   "day": "Saturday",
-   "month": "Sep",
-   "dayNum": 12,
-   "start": "10:00",
-   "startRaw": "10:00",
-   "time": "10:00am \u2013 12:00pm",
-   "title": "Gardening Work Day at Upper Noe Rec Center",
-   "location": "Upper Noe Recreation Center",
-   "address": "295 Day St",
-   "desc": "Neighbors spruce up the rec center garden beds; quarterly Saturday work day, 10am to noon",
-   "endRaw": "12:00",
-   "price": "Free",
-   "free": true,
-   "tags": [
-    "social"
-   ],
-   "url": "https://uppernoerecreationcenter.com/events/",
-   "source": "uppernoerecreationcenter.com",
-   "submittedBy": "",
-   "lastChecked": "2026-09-11 13:09 PT",
-   "checkedAt": "2026-09-11T13:09:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
   {
    "id": "eacff5f3d",
    "date": "2026-09-12",
@@ -79,8 +50,8 @@
    "url": "https://noevalleytownsquare.com/events",
    "source": "noevalleytownsquare.com",
    "submittedBy": "",
-   "lastChecked": "2026-09-07 09:25 PT",
-   "checkedAt": "2026-09-07T09:25:00-07:00",
+   "lastChecked": "2026-09-12 13:09 PT",
+   "checkedAt": "2026-09-12T13:09:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -108,8 +79,8 @@
    "url": "https://uppernoeneighbors.com/",
    "source": "uppernoeneighbors.com",
    "submittedBy": "",
-   "lastChecked": "2026-09-05 07:08 PT",
-   "checkedAt": "2026-09-05T07:08:00-07:00",
+   "lastChecked": "2026-09-12 13:09 PT",
+   "checkedAt": "2026-09-12T13:09:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -137,8 +108,8 @@
    "url": "https://www.slowsanchez.com/event",
    "source": "slowsanchez.com",
    "submittedBy": "",
-   "lastChecked": "2026-09-11 20:56 PT",
-   "checkedAt": "2026-09-11T20:56:00-07:00",
+   "lastChecked": "2026-09-12 13:09 PT",
+   "checkedAt": "2026-09-12T13:09:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -167,8 +138,8 @@
    "url": "https://www.slowsanchez.com/event",
    "source": "slowsanchez.com",
    "submittedBy": "",
-   "lastChecked": "2026-09-01 06:55 PT",
-   "checkedAt": "2026-09-01T06:55:00-07:00",
+   "lastChecked": "2026-09-12 13:09 PT",
+   "checkedAt": "2026-09-12T13:09:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -2283,8 +2254,18 @@
   },
   {
    "tab": "This Week",
+   "row": "Gardening Work Day at Upper Noe Rec Center",
+   "flag": "REMOVED 2026-09-13 - past one-off (event date 9/12 passed)."
+  },
+  {
+   "tab": "This Week",
    "row": "Shred Day",
    "flag": "REMOVED"
+  },
+  {
+   "tab": "This Week",
+   "row": "Noe Music: Janice Carissa, piano",
+   "flag": "HELD 2026-09-13 - paid/ticketed event; per Sahil's 8/30 rule, flag before posting. Ticketed via Ludus; price not posted."
   },
   {
    "tab": "Library",
