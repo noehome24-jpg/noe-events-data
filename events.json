@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-13T14:02-04:00",
+ "generatedAt": "2026-09-13T14:06-04:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -1406,6 +1406,25 @@
    "free": true
   },
   {
+   "id": "r6302db37",
+   "title": "Math Tutoring (Engage Tutoring partnership)",
+   "day": "Days and times vary",
+   "cadence": "other",
+   "when": "Days and times vary",
+   "time": "See sfpl.org for the next session",
+   "startRaw": "",
+   "endRaw": "",
+   "desc": "Free drop-in math tutoring for elementary and middle school students by high school volunteers from Engage at Urban School of SF",
+   "details": "The library lists each tutoring session individually on sfpl.org instead of on a fixed weekly schedule. Tuesday sessions on 9/15, 9/22 and 9/29 were postponed per the library",
+   "location": "Noe Valley Library, 451 Jersey St",
+   "url": "https://sfpl.org/events",
+   "tags": [
+    "family",
+    "arts"
+   ],
+   "free": true
+  },
+  {
    "id": "rc0427684",
    "title": "Book Club: Alone Together Book Club",
    "day": "Monday",
@@ -2266,11 +2285,6 @@
    "tab": "This Week",
    "row": "Noe Music: Janice Carissa, piano",
    "flag": "HELD 2026-09-13 - paid/ticketed event; per Sahil's 8/30 rule, flag before posting. Ticketed via Ludus; price not posted."
-  },
-  {
-   "tab": "Library",
-   "row": "Math Tutoring (Engage Tutoring partnership)",
-   "flag": "window-gated per internal notes"
   },
   {
    "tab": "Library",
