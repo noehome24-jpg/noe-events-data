@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15T09:54-04:00",
+ "generatedAt": "2026-09-16T09:53-04:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -28,35 +28,6 @@
    "status": "Confirmed"
   },
   {
-   "id": "ebd165013",
-   "date": "2026-09-15",
-   "day": "Tuesday",
-   "month": "Sep",
-   "dayNum": 15,
-   "start": "19:00",
-   "startRaw": "19:00",
-   "time": "7:00pm \u2013 8:00pm",
-   "title": "Poetry Night at Noe Valley Books",
-   "location": "Noe Valley Books",
-   "address": "3957 24th St",
-   "desc": "Monthly open mic. Sign up as poet or attendee; each poet gets 5 minutes, all levels welcome. Free RSVP on the store site",
-   "endRaw": "20:00",
-   "price": "Free",
-   "free": true,
-   "tags": [
-    "arts"
-   ],
-   "url": "https://noevalleybooks.com/upcoming-events",
-   "source": "noevalleybooks.com",
-   "submittedBy": "",
-   "lastChecked": "2026-09-14 13:09 PT",
-   "checkedAt": "2026-09-14T13:09:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
-  {
    "id": "ebc07b13a",
    "date": "2026-09-16",
    "day": "Wednesday",
@@ -79,8 +50,8 @@
    "url": "https://www.holyinsf.org",
    "source": "holyinsf.org",
    "submittedBy": "",
-   "lastChecked": "2026-09-04 06:57 PT",
-   "checkedAt": "2026-09-04T06:57:00-07:00",
+   "lastChecked": "2026-09-15 13:09 PT",
+   "checkedAt": "2026-09-15T13:09:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -109,8 +80,8 @@
    "url": "https://omnivorebooks.myshopify.com/collections/upcoming-events",
    "source": "omnivorebooks.myshopify.com",
    "submittedBy": "",
-   "lastChecked": "2026-09-04 13:46 PT",
-   "checkedAt": "2026-09-04T13:46:00-07:00",
+   "lastChecked": "2026-09-15 13:09 PT",
+   "checkedAt": "2026-09-15T13:09:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -2171,6 +2142,11 @@
   },
   {
    "tab": "This Week",
+   "row": "Poetry Night at Noe Valley Books",
+   "flag": "REMOVED 2026-09-16 - past one-off (event date 9/15 passed)."
+  },
+  {
+   "tab": "This Week",
    "row": "Film screening: The Shape of Water",
    "flag": "REMOVED 2026-09-12 - past"
   },
@@ -2248,6 +2224,11 @@
    "tab": "This Week",
    "row": "Shred Day",
    "flag": "REMOVED"
+  },
+  {
+   "tab": "This Week",
+   "row": "Litquake Opening Night Bash: Booksellers Ball",
+   "flag": "HELD 2026-09-16 - paid/ticketed event; requires Sahil review before posting."
   },
   {
    "tab": "Library",
