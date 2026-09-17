@@ -26,66 +26,6 @@
       "url": "https://sfpl.org/events/2026/09/12/author-joaninha-recipes-good-life"
     },
     {
-      "address": "455 Fair Oaks St",
-      "cancelReason": "",
-      "cancelled": false,
-      "checkedAt": "2026-09-16T13:09:00-07:00",
-      "date": "2026-09-16",
-      "day": "Wednesday",
-      "dayNum": 16,
-      "desc": "Neighbors gather at Holy Innocents for a potluck dinner and to make sandwiches for the Open Cathedral ministry",
-      "endRaw": "",
-      "free": false,
-      "id": "ebc07b13a",
-      "lastChecked": "2026-09-16 13:09 PT",
-      "location": "Holy Innocents Episcopal Church",
-      "month": "Sep",
-      "postponed": false,
-      "price": "Not posted",
-      "source": "holyinsf.org",
-      "start": "18:00",
-      "startRaw": "18:00",
-      "status": "Confirmed",
-      "submittedBy": "",
-      "tags": [
-        "food",
-        "social"
-      ],
-      "time": "6:00pm",
-      "title": "Open Cathedral potluck and sandwich making (Holy Innocents)",
-      "url": "https://www.holyinsf.org"
-    },
-    {
-      "address": "3885A Cesar Chavez St",
-      "cancelReason": "",
-      "cancelled": false,
-      "checkedAt": "2026-09-16T13:09:00-07:00",
-      "date": "2026-09-16",
-      "day": "Wednesday",
-      "dayNum": 16,
-      "desc": "The Heirloom Cities founder on Kolkata's kitchens, markets and streets. First come, first served seating",
-      "endRaw": "",
-      "free": true,
-      "id": "efc3e3f74",
-      "lastChecked": "2026-09-16 13:09 PT",
-      "location": "Omnivore Books on Food",
-      "month": "Sep",
-      "postponed": false,
-      "price": "Free",
-      "source": "omnivorebooks.myshopify.com",
-      "start": "18:30",
-      "startRaw": "18:30",
-      "status": "Confirmed",
-      "submittedBy": "",
-      "tags": [
-        "food",
-        "arts"
-      ],
-      "time": "6:30pm",
-      "title": "Author talk: Sri Bodanapu - Kolkata: The People, Kitchens and Streets of the City of Joy",
-      "url": "https://omnivorebooks.myshopify.com/collections/upcoming-events"
-    },
-    {
       "address": "3885A Cesar Chavez St",
       "cancelReason": "",
       "cancelled": false,
@@ -955,6 +895,35 @@
       "time": "6:30pm",
       "title": "Author talk: Nik Sharma - Fundamentals of Flavor",
       "url": "https://omnivorebooks.myshopify.com/collections/upcoming-events"
+    },
+    {
+      "address": "295 Day St",
+      "cancelReason": "",
+      "cancelled": false,
+      "checkedAt": "2026-09-17T06:53:00-07:00",
+      "date": "2026-10-10",
+      "day": "Saturday",
+      "dayNum": 10,
+      "desc": "Neighborhood cleanup with litter pickup, followed by free refreshments from Martha & Bros. No experience or tools required",
+      "endRaw": "12:00",
+      "free": true,
+      "id": "edb41a7f5",
+      "lastChecked": "2026-09-17 06:53 PT",
+      "location": "Meet on Day Street at Upper Noe Recreation Center",
+      "month": "Oct",
+      "postponed": false,
+      "price": "Free",
+      "source": "uppernoeneighbors.com",
+      "start": "10:30",
+      "startRaw": "10:30",
+      "status": "Confirmed",
+      "submittedBy": "",
+      "tags": [
+        "social"
+      ],
+      "time": "10:30am – 12:00pm",
+      "title": "Upper Noe Clean Up",
+      "url": "https://uppernoeneighbors.com/events/"
     },
     {
       "address": "4001 24th St",
@@ -1846,7 +1815,7 @@
       "url": "https://www.noemusic.org/2026-2027/steven-osborne"
     }
   ],
-  "generatedAt": "2026-09-16T22:46-04:00",
+  "generatedAt": "2026-09-17T09:54-04:00",
   "happyHours": [
     {
       "address": "4042 24th St",
