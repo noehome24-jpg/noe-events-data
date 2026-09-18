@@ -29,7 +29,7 @@
       "address": "3861 24th St",
       "cancelReason": "",
       "cancelled": false,
-      "checkedAt": "2026-09-17T13:09:00-07:00",
+      "checkedAt": "2026-09-18T13:09:00-07:00",
       "date": "2026-09-18",
       "day": "Friday",
       "dayNum": 18,
@@ -37,7 +37,7 @@
       "endRaw": "18:00",
       "free": true,
       "id": "e0d8bb524",
-      "lastChecked": "2026-09-17 13:09 PT",
+      "lastChecked": "2026-09-18 13:09 PT",
       "location": "Noe Valley Town Square",
       "month": "Sep",
       "postponed": false,
@@ -53,35 +53,6 @@
       "time": "5:00pm – 6:00pm",
       "title": "Noe Music in the Square: Cello Quartets from around the World",
       "url": "https://www.noevalleytownsquare.com/events"
-    },
-    {
-      "address": "1270 Sanchez St",
-      "cancelReason": "",
-      "cancelled": false,
-      "checkedAt": "2026-09-01T06:55:00-07:00",
-      "date": "2026-09-19",
-      "day": "Saturday",
-      "dayNum": 19,
-      "desc": "A Saturday morning sound bath at Bethany: kick back, relax, leave it all on the mat",
-      "endRaw": "",
-      "free": false,
-      "id": "e1beab6a5",
-      "lastChecked": "2026-09-01 06:55 PT",
-      "location": "Bethany United Methodist Church",
-      "month": "Sep",
-      "postponed": false,
-      "price": "Not posted",
-      "source": "slowsanchez.com",
-      "start": "10:00",
-      "startRaw": "10:00",
-      "status": "Confirmed",
-      "submittedBy": "",
-      "tags": [
-        "social"
-      ],
-      "time": "10:00am",
-      "title": "Morning sound bath (Bethany Church)",
-      "url": "https://www.slowsanchez.com/event"
     },
     {
       "address": "451 Jersey St",
@@ -1785,7 +1756,7 @@
       "url": "https://www.noemusic.org/2026-2027/steven-osborne"
     }
   ],
-  "generatedAt": "2026-09-18T09:53-04:00",
+  "generatedAt": "2026-09-18T16:10-04:00",
   "happyHours": [
     {
       "address": "4042 24th St",
