@@ -26,40 +26,10 @@
       "url": "https://sfpl.org/events/2026/09/12/author-joaninha-recipes-good-life"
     },
     {
-      "address": "3885A Cesar Chavez St",
-      "cancelReason": "",
-      "cancelled": false,
-      "checkedAt": "2026-09-16T13:09:00-07:00",
-      "date": "2026-09-17",
-      "day": "Thursday",
-      "dayNum": 17,
-      "desc": "Weeknight vegetarian recipes and party bites from the Veg Everything cookbook. First come, first served seating",
-      "endRaw": "",
-      "free": true,
-      "id": "e97960783",
-      "lastChecked": "2026-09-16 13:09 PT",
-      "location": "Omnivore Books on Food",
-      "month": "Sep",
-      "postponed": false,
-      "price": "Free",
-      "source": "omnivorebooks.myshopify.com",
-      "start": "18:30",
-      "startRaw": "18:30",
-      "status": "Confirmed",
-      "submittedBy": "",
-      "tags": [
-        "food",
-        "arts"
-      ],
-      "time": "6:30pm",
-      "title": "Author talk: Tanya Sichynsky - Veg Everything",
-      "url": "https://omnivorebooks.myshopify.com/collections/upcoming-events"
-    },
-    {
       "address": "3861 24th St",
       "cancelReason": "",
       "cancelled": false,
-      "checkedAt": "2026-09-14T07:14:00-07:00",
+      "checkedAt": "2026-09-17T13:09:00-07:00",
       "date": "2026-09-18",
       "day": "Friday",
       "dayNum": 18,
@@ -67,7 +37,7 @@
       "endRaw": "18:00",
       "free": true,
       "id": "e0d8bb524",
-      "lastChecked": "2026-09-14 07:14 PT",
+      "lastChecked": "2026-09-17 13:09 PT",
       "location": "Noe Valley Town Square",
       "month": "Sep",
       "postponed": false,
@@ -1815,7 +1785,7 @@
       "url": "https://www.noemusic.org/2026-2027/steven-osborne"
     }
   ],
-  "generatedAt": "2026-09-17T09:54-04:00",
+  "generatedAt": "2026-09-18T09:53-04:00",
   "happyHours": [
     {
       "address": "4042 24th St",
