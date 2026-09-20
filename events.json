@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-19T16:10-04:00",
+ "generatedAt": "2026-09-20T09:53-04:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -23,32 +23,6 @@
     "arts"
    ],
    "url": "https://sfpl.org/events/2026/09/12/author-joaninha-recipes-good-life",
-   "source": "sfpl.org",
-   "lastChecked": "",
-   "status": "Confirmed"
-  },
-  {
-   "id": "e098db345",
-   "date": "2026-09-19",
-   "day": "Saturday",
-   "month": "Sep",
-   "dayNum": 19,
-   "start": "11:15",
-   "startRaw": "11:15",
-   "endRaw": "12:00",
-   "time": "11:15am \u2013 12:00pm",
-   "title": "Bilingual Birdies",
-   "location": "Noe Valley / Sally Brunn Library",
-   "address": "451 Jersey St",
-   "desc": "Sing-and-dance bilingual Spanish/English puppet performance for children and caregivers; part of SFPL's \u00a1VIVA! Latinx heritage programming",
-   "price": "Free",
-   "free": true,
-   "tags": [
-    "family",
-    "active",
-    "arts"
-   ],
-   "url": "https://sfpl.org/events/2026/09/19/performance-bilingual-birdies",
    "source": "sfpl.org",
    "lastChecked": "",
    "status": "Confirmed"
