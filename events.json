@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23T00:31-04:00",
+ "generatedAt": "2026-09-23T11:08-04:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -25,65 +25,6 @@
    "url": "https://sfpl.org/events/2026/09/12/author-joaninha-recipes-good-life",
    "source": "sfpl.org",
    "lastChecked": "",
-   "status": "Confirmed"
-  },
-  {
-   "id": "efbcc3199",
-   "date": "2026-09-22",
-   "day": "Tuesday",
-   "month": "Sep",
-   "dayNum": 22,
-   "start": "18:30",
-   "startRaw": "18:30",
-   "time": "6:30pm",
-   "title": "Author talk: Rose Levy Beranbaum - Ma Vie en Rose",
-   "location": "Omnivore Books on Food",
-   "address": "3885A Cesar Chavez St",
-   "desc": "The baking writer talks about her memoir. First come, first served seating",
-   "endRaw": "",
-   "price": "Free",
-   "free": true,
-   "tags": [
-    "food",
-    "arts"
-   ],
-   "url": "https://omnivorebooks.myshopify.com/collections/upcoming-events/products/rose-levy-beranbaum-author-talk",
-   "source": "omnivorebooks.myshopify.com",
-   "submittedBy": "",
-   "lastChecked": "2026-09-22 13:10 PT",
-   "checkedAt": "2026-09-22T13:10:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
-   "status": "Confirmed"
-  },
-  {
-   "id": "efe27b082",
-   "date": "2026-09-22",
-   "day": "Tuesday",
-   "month": "Sep",
-   "dayNum": 22,
-   "start": "19:00",
-   "startRaw": "19:00",
-   "time": "7:00pm \u2013 9:00pm",
-   "title": "Collage Night at Noe Valley Books",
-   "location": "Noe Valley Books x Art Haus",
-   "address": "3957 24th St",
-   "desc": "Craft night hosted by Noe Valley Books and Art Haus. All collage supplies, drinks and snacks are provided, and spots are limited. Sliding scale tickets through the store site",
-   "endRaw": "21:00",
-   "price": "$25 sliding scale",
-   "free": false,
-   "tags": [
-    "arts"
-   ],
-   "url": "https://noevalleybooks.com/event/2026-09-22/collage-night",
-   "source": "noevalleybooks.com",
-   "submittedBy": "",
-   "lastChecked": "2026-09-22 13:10 PT",
-   "checkedAt": "2026-09-22T13:10:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
    "status": "Confirmed"
   },
   {
@@ -576,7 +517,7 @@
     "family",
     "arts"
    ],
-   "url": "https://sfpl.org/events?field_event_location_target_id=33",
+   "url": "https://sfpl.org/events/2026/10/04/workshop-college-admissions-overview-workshop-study-smart-tutors",
    "source": "sfpl.org",
    "lastChecked": "",
    "status": "Confirmed"
@@ -664,6 +605,35 @@
    "submittedBy": "",
    "lastChecked": "2026-09-20 12:09 PT",
    "checkedAt": "2026-09-20T12:09:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
+   "id": "e06a4d9fd",
+   "date": "2026-10-06",
+   "day": "Tuesday",
+   "month": "Oct",
+   "dayNum": 6,
+   "start": "18:00",
+   "startRaw": "18:00",
+   "time": "6:00pm \u2013 7:00pm",
+   "title": "Annual Fleet Week Marine Brass Band Performance",
+   "location": "Noe Valley Town Square",
+   "address": "3861 24th St",
+   "desc": "The Marine brass band plays the square for Fleet Week, an annual tradition",
+   "endRaw": "19:00",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "arts"
+   ],
+   "url": "https://noevalleytownsquare.com/events",
+   "source": "noevalleytownsquare.com",
+   "submittedBy": "",
+   "lastChecked": "2026-09-23 08:05 PT",
+   "checkedAt": "2026-09-23T08:05:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -1204,6 +1174,31 @@
     "social"
    ],
    "url": "https://sfpl.org/events/2026/10/25/social-puzzle-swap",
+   "source": "sfpl.org",
+   "lastChecked": "",
+   "status": "Confirmed"
+  },
+  {
+   "id": "e5432b560",
+   "date": "2026-10-26",
+   "day": "Monday",
+   "month": "Oct",
+   "dayNum": 26,
+   "start": "15:00",
+   "startRaw": "15:00",
+   "endRaw": "16:00",
+   "time": "3:00pm \u2013 4:00pm",
+   "title": "Decoden Keychains and Hairclips",
+   "location": "Noe Valley / Sally Brunn Library",
+   "address": "451 Jersey St",
+   "desc": "Decorate a keychain or hair clip with playful 3D charms in the Japanese decoden style",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "family",
+    "arts"
+   ],
+   "url": "https://sfpl.org/events/2026/10/26/activity-decoden-keychains-and-hairclips",
    "source": "sfpl.org",
    "lastChecked": "",
    "status": "Confirmed"
@@ -2323,28 +2318,6 @@
    "free": true,
    "instanceDates": [
     "2026-10-04"
-   ]
-  },
-  {
-   "id": "r3f845483",
-   "title": "Rhythm & Motion dance workout + happy hour",
-   "day": "Saturday",
-   "cadence": "monthly",
-   "when": "Monthly, Saturday",
-   "time": "4:00pm \u2013 5:00pm",
-   "startRaw": "16:00",
-   "endRaw": "17:00",
-   "desc": "Monthly one-hour dance workout class then neighborly mixer with treats and raffle prizes",
-   "details": "Free. Noe Valley Town Square",
-   "location": "Noe Valley Town Square",
-   "url": "https://noevalleytownsquare.com/events",
-   "tags": [
-    "active",
-    "food"
-   ],
-   "free": true,
-   "instanceDates": [
-    "2026-09-26"
    ]
   },
   {
