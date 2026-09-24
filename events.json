@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23T13:16-04:00",
+ "generatedAt": "2026-09-24T09:56-04:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -25,36 +25,6 @@
    "url": "https://sfpl.org/events/2026/09/12/author-joaninha-recipes-good-life",
    "source": "sfpl.org",
    "lastChecked": "",
-   "status": "Confirmed"
-  },
-  {
-   "id": "ebfd84926",
-   "date": "2026-09-23",
-   "day": "Wednesday",
-   "month": "Sep",
-   "dayNum": 23,
-   "start": "18:30",
-   "startRaw": "18:30",
-   "time": "6:30pm",
-   "title": "Author talk: Ken Albala - The World Atlas of Fermented Foods and Drinks",
-   "location": "Omnivore Books on Food",
-   "address": "3885A Cesar Chavez St",
-   "desc": "The food historian on fermentation traditions around the world. First come, first served seating",
-   "endRaw": "",
-   "price": "Free",
-   "free": true,
-   "tags": [
-    "food",
-    "arts"
-   ],
-   "url": "https://omnivorebooks.myshopify.com/collections/upcoming-events/products/ken-albala-author-talk-the-world-atlas-of-fermented-foods-and-drinks",
-   "source": "omnivorebooks.myshopify.com",
-   "submittedBy": "",
-   "lastChecked": "2026-09-22 13:10 PT",
-   "checkedAt": "2026-09-22T13:10:00-07:00",
-   "cancelled": false,
-   "cancelReason": "",
-   "postponed": false,
    "status": "Confirmed"
   },
   {
@@ -1345,6 +1315,36 @@
    "submittedBy": "",
    "lastChecked": "2026-09-04 06:57 PT",
    "checkedAt": "2026-09-04T06:57:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
+   "id": "eb3b6c24c",
+   "date": "2026-10-28",
+   "day": "Wednesday",
+   "month": "Oct",
+   "dayNum": 28,
+   "start": "18:30",
+   "startRaw": "18:30",
+   "time": "6:30pm",
+   "title": "Author talk: Rebekah Moyer - Simple Kitchen Magic",
+   "location": "Omnivore Books on Food",
+   "address": "3885A Cesar Chavez St",
+   "desc": "Rebekah Moyer talks about Simple Kitchen Magic, her book of whole-food recipes and home remedies. Free, at the shop",
+   "endRaw": "",
+   "price": "Free",
+   "free": true,
+   "tags": [
+    "food",
+    "arts"
+   ],
+   "url": "https://omnivorebooks.myshopify.com/products/rebekah-moyer-author-event-simple-kitchen-magic-whole-food-recipes-and-remedies-for-a-holistic-life",
+   "source": "omnivorebooks.myshopify.com",
+   "submittedBy": "",
+   "lastChecked": "2026-09-24 06:53 PT",
+   "checkedAt": "2026-09-24T06:53:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
