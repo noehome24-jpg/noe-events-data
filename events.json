@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-28T07:35-07:00",
+ "generatedAt": "2026-09-28T19:23-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -24,8 +24,8 @@
    "url": "https://noevalleytownsquare.com/events/",
    "source": "noevalleytownsquare.com",
    "submittedBy": "",
-   "lastChecked": "2026-09-28 06:56 PT",
-   "checkedAt": "2026-09-28T06:56:00-07:00",
+   "lastChecked": "2026-09-28 13:11 PT",
+   "checkedAt": "2026-09-28T13:11:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -54,8 +54,8 @@
    "url": "https://omnivorebooks.myshopify.com/collections/upcoming-events",
    "source": "omnivorebooks.myshopify.com",
    "submittedBy": "",
-   "lastChecked": "2026-09-28 06:56 PT",
-   "checkedAt": "2026-09-28T06:56:00-07:00",
+   "lastChecked": "2026-09-28 13:11 PT",
+   "checkedAt": "2026-09-28T13:11:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -83,8 +83,8 @@
    "url": "https://noevalleybooks.com/upcoming-events",
    "source": "noevalleybooks.com",
    "submittedBy": "",
-   "lastChecked": "2026-09-28 06:56 PT",
-   "checkedAt": "2026-09-28T06:56:00-07:00",
+   "lastChecked": "2026-09-28 13:11 PT",
+   "checkedAt": "2026-09-28T13:11:00-07:00",
    "cancelled": false,
    "cancelReason": "",
    "postponed": false,
@@ -1346,6 +1346,36 @@
    "status": "Confirmed"
   },
   {
+   "id": "ee65d0dc3",
+   "date": "2026-10-29",
+   "day": "Thursday",
+   "month": "Oct",
+   "dayNum": 29,
+   "start": "19:00",
+   "startRaw": "19:00",
+   "time": "7:00pm \u2013 8:00pm",
+   "title": "Noe Valley Books Book Club: Meet Me in the Garden",
+   "location": "Noe Valley Books",
+   "address": "3957 24th St",
+   "desc": "Read Meet Me in the Garden by Nina LaCour and discuss it at Noe Valley Books. Sign up through the bookstore's event page",
+   "endRaw": "20:00",
+   "price": "Not posted (signup requested; book discount is separate)",
+   "free": false,
+   "tags": [
+    "arts",
+    "social"
+   ],
+   "url": "https://noevalleybooks.com/event/2026-10-29/monthly-book-club",
+   "source": "noevalleybooks.com",
+   "submittedBy": "",
+   "lastChecked": "2026-09-28 19:22 PT",
+   "checkedAt": "2026-09-28T19:22:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
    "id": "ea1d3b57a",
    "date": "2026-10-31",
    "day": "Saturday",
@@ -2083,7 +2113,10 @@
     "arts",
     "social"
    ],
-   "free": false
+   "free": false,
+   "instanceDates": [
+    "2026-10-29"
+   ]
   },
   {
    "id": "r10eac54f",
