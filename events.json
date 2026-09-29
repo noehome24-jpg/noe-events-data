@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-28T19:23-07:00",
+ "generatedAt": "2026-09-29T08:05-07:00",
  "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
  "events": [
   {
@@ -89,6 +89,35 @@
    "cancelReason": "",
    "postponed": false,
    "status": "Confirmed"
+  },
+  {
+   "id": "e4a317a30",
+   "date": "2026-10-01",
+   "day": "Thursday",
+   "month": "Oct",
+   "dayNum": 1,
+   "start": "18:00",
+   "startRaw": "18:00",
+   "time": "6:00pm",
+   "title": "Running Wylder Ladies' Night run for La Casa de las Madres",
+   "location": "Running Wylder",
+   "address": "1354 Castro St, San Francisco",
+   "desc": "A 4-mile community run with Hella Bae supporting La Casa de las Madres, followed by a raffle and refreshments. No signup required",
+   "endRaw": "",
+   "price": "Not posted",
+   "free": false,
+   "tags": [
+    "active"
+   ],
+   "url": "https://runningwylder.co/pages/store-events",
+   "source": "runningwylder.co",
+   "submittedBy": "",
+   "lastChecked": "2026-09-29 08:04 PT",
+   "checkedAt": "2026-09-29T08:04:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed; Sahil approved publication"
   },
   {
    "id": "eb7e57bc3",
@@ -2291,7 +2320,10 @@
    "tags": [
     "active"
    ],
-   "free": false
+   "free": false,
+   "instanceDates": [
+    "2026-10-01"
+   ]
   },
   {
    "id": "rd813c3fb",
