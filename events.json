@@ -921,6 +921,35 @@
    "status": "Confirmed"
   },
   {
+   "id": "e131b0c94",
+   "date": "2026-10-18",
+   "day": "Sunday",
+   "month": "Oct",
+   "dayNum": 18,
+   "start": "10:00",
+   "startRaw": "10:00",
+   "time": "10:00am \u2013 12:00pm",
+   "title": "S.T.E.A.M. in the Square!",
+   "location": "Noe Valley Town Square",
+   "address": "3861 24th St",
+   "desc": "Hosted by SF Tikes Academy and SF S.T.E.A.M. Academy: hands-on science, technology, engineering, art and math projects for kids ages 2-6, plus music and movement",
+   "endRaw": "12:00",
+   "price": "Not posted",
+   "free": false,
+   "tags": [
+    "family"
+   ],
+   "url": "https://noevalleytownsquare.com/events",
+   "source": "noevalleytownsquare.com",
+   "submittedBy": "",
+   "lastChecked": "2026-09-29 10:54 PT",
+   "checkedAt": "2026-09-29T10:54:00-07:00",
+   "cancelled": false,
+   "cancelReason": "",
+   "postponed": false,
+   "status": "Confirmed"
+  },
+  {
    "id": "e9f630157",
    "date": "2026-10-18",
    "day": "Sunday",
