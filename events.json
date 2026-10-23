@@ -4197,6 +4197,26 @@
       "source": "yelp.com",
       "lastChecked": "2026-08-23 13:30 PT",
       "checkedAt": "2026-08-23T13:30:00-07:00"
+    },
+    {
+      "id": "hh18a95829",
+      "venue": "Bonita (Noe Valley)",
+      "deal": "Happy hour",
+      "when": "Monday, Wednesday & Thursday",
+      "dayList": [
+        "Monday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "time": "3:00pm - 5:00pm",
+      "timePosted": true,
+      "details": "Prices and menu not posted. Online orders excluded.",
+      "address": "4063 24th St",
+      "url": "https://sfbonita.com/",
+      "sourceNote": "In-window sign photographed Oct 23, 2026; happy hour not stated on venue website.",
+      "source": "sfbonita.com",
+      "lastChecked": "2026-10-23 16:52 PT",
+      "checkedAt": "2026-10-23T16:52:05.237432-07:00"
     }
   ],
   "note": "Published calendar for noeplacelikehome.io. Verified rows only - anything flagged for verification in the master sheet is not in this file.",
