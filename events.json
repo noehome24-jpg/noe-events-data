@@ -2641,6 +2641,36 @@
       "status": "Confirmed"
     },
     {
+      "id": "ee9a94817",
+      "date": "2026-11-16",
+      "day": "Monday",
+      "month": "Nov",
+      "dayNum": 16,
+      "start": "18:30",
+      "startRaw": "18:30",
+      "endRaw": "",
+      "time": "6:30pm",
+      "title": "Hilo Draw & Craft Holiday Event with Judd Winick",
+      "location": "Noe Valley Books",
+      "address": "3957 24th St",
+      "desc": "Judd Winick presents the creation of Hilo: The Holiday Special and leads a Hilo drawing tutorial, followed by a surprise holiday craft with booksellers and volunteers. Best for ages 8-12. Tickets $5. End time not posted.",
+      "price": "Tickets $5",
+      "free": false,
+      "tags": [
+        "arts",
+        "family"
+      ],
+      "url": "https://noevalleybooks.com/event/2026-11-16/hilo-draw-craft-holiday-event",
+      "source": "noevalleybooks.com",
+      "submittedBy": "",
+      "lastChecked": "2026-10-23 16:50 PT",
+      "checkedAt": "2026-10-23T16:50:41.366950-07:00",
+      "cancelled": false,
+      "cancelReason": "",
+      "postponed": false,
+      "status": "Confirmed"
+    },
+    {
       "id": "e2864d477",
       "date": "2026-11-16",
       "day": "Monday",
