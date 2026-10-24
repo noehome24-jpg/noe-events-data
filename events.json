@@ -1655,17 +1655,18 @@
       "title": "Decoden Keychains and Hairclips",
       "location": "Noe Valley / Sally Brunn Library",
       "address": "451 Jersey St",
-      "desc": "Decorate a keychain or hair clip with playful 3D charms in the Japanese decoden style",
-      "price": "Free",
-      "free": true,
+      "desc": "Decorate a keychain or hairclip with whimsical 3D charms in the Japanese decoden style. For ages 10-18, in the Noe Valley Meeting Room. Space limited; first come, first served. Drop-in, no registration required. All materials provided. Cost not separately stated on the event page.",
+      "price": "Not separately stated",
+      "free": false,
       "tags": [
         "family",
         "arts"
       ],
       "url": "https://sfpl.org/events/2026/10/26/activity-decoden-keychains-and-hairclips",
       "source": "sfpl.org",
-      "lastChecked": "",
-      "status": "Confirmed"
+      "lastChecked": "2026-10-24 09:48 PT",
+      "status": "Confirmed",
+      "checkedAt": "2026-10-24T09:48:40.675925-07:00"
     },
     {
       "id": "e50c84cb8",
