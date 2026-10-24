@@ -4217,6 +4217,24 @@
       "source": "sfbonita.com",
       "lastChecked": "2026-10-23 16:52 PT",
       "checkedAt": "2026-10-23T16:52:05.237432-07:00"
+    },
+    {
+      "id": "hhee7744c1",
+      "venue": "The Bar on Dolores",
+      "deal": "Monday 2-for-1",
+      "when": "Monday",
+      "dayList": [
+        "Monday"
+      ],
+      "time": "Offer hours not posted",
+      "timePosted": false,
+      "details": "Monday 2-for-1. Eligible drinks and offer hours are not posted. Ask at the bar for terms.",
+      "address": "1600 Dolores St at 29th St",
+      "url": "https://www.thebarondolores.com/",
+      "sourceNote": "Official weekly lineup. Venue opening hours are not the offer hours.",
+      "source": "thebarondolores.com",
+      "lastChecked": "2026-10-23 23:36 PT",
+      "checkedAt": "2026-10-23T23:36:36.162450-07:00"
     }
   ],
   "note": "Published calendar for noeplacelikehome.io. Verified rows only - anything flagged for verification in the master sheet is not in this file.",
