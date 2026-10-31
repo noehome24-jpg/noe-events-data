@@ -3512,9 +3512,9 @@
       "title": "Chef Eric Bédiat: culinary demonstration and Le Cordon Bleu book signing",
       "location": "Omnivore Books on Food",
       "address": "3885A Cesar Chavez St, San Francisco",
-      "desc": "A 60-minute cooking demo with Chef Eric Bédiat, followed by tasting, Q&A and book signing. The $450 book-with-ticket includes the seven-volume Le Cordon Bleu Culinary Arts School set.",
-      "price": "$450 book-with-ticket; seven-volume set",
-      "free": false,
+      "desc": "A 60-minute cooking demo with Chef Eric Bédiat, followed by tasting, Q&A and book signing. Free and open to the public; first-come seating. Optional $450 box-set preorder. All attendees may enter the box-set raffle.",
+      "price": "Free admission; optional $450 seven-volume book set",
+      "free": true,
       "tags": [
         "food",
         "arts"
