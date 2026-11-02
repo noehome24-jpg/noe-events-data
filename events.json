@@ -2641,6 +2641,37 @@
       "status": "Confirmed"
     },
     {
+      "id": "e5f1d6a82",
+      "date": "2026-11-15",
+      "day": "Sunday",
+      "month": "Nov",
+      "dayNum": 15,
+      "start": "13:00",
+      "startRaw": "13:00",
+      "endRaw": "15:00",
+      "time": "1:00pm - 3:00pm",
+      "title": "Annual Noe Valley Friendsgiving",
+      "location": "Noe Valley Town Square",
+      "address": "3861 24th St",
+      "desc": "Meet your neighbors over bingo, the dad joke competition and musical chairs. Add to the gratitude tree or write a thank-you letter. A dozen local nonprofits will be on site, with treats and hot apple cider. Weather permitting.",
+      "price": "Free",
+      "free": true,
+      "tags": [
+        "social",
+        "community",
+        "family"
+      ],
+      "url": "https://noevalleytownsquare.com/events/",
+      "source": "noevalleytownsquare.com",
+      "submittedBy": "",
+      "lastChecked": "2026-11-02 15:31 PT",
+      "checkedAt": "2026-11-02T15:31:57-08:00",
+      "cancelled": false,
+      "cancelReason": "",
+      "postponed": false,
+      "status": "Confirmed"
+    },
+    {
       "id": "e6d623dc6",
       "date": "2026-11-15",
       "day": "Sunday",
