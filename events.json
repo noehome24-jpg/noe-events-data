@@ -2051,6 +2051,36 @@
       "status": "Confirmed"
     },
     {
+      "id": "e2dde5a33",
+      "date": "2026-11-02",
+      "day": "Monday",
+      "month": "Nov",
+      "dayNum": 2,
+      "start": "15:30",
+      "startRaw": "15:30",
+      "endRaw": "17:00",
+      "time": "3:30pm - 5:00pm",
+      "title": "Homework Hangout",
+      "location": "Noe Valley / Sally Brunn Library",
+      "address": "451 Jersey St",
+      "desc": "Drop-in homework help for ages 10-18 in the General Floor Area. Bring school projects or friends. Volunteer math help and snacks on request. No registration posted.",
+      "price": "Free",
+      "free": true,
+      "tags": [
+        "community",
+        "family"
+      ],
+      "url": "https://sfpl.org/events/2026/11/02/activity-homework-hangout",
+      "source": "sfpl.org",
+      "submittedBy": "",
+      "lastChecked": "2026-11-02 07:40 PT",
+      "checkedAt": "2026-11-02T07:40:10-08:00",
+      "cancelled": false,
+      "cancelReason": "",
+      "postponed": false,
+      "status": "Confirmed"
+    },
+    {
       "id": "efe227f3c",
       "date": "2026-11-02",
       "day": "Monday",
