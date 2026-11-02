@@ -3700,7 +3700,7 @@
       "desc": "Evening family storytime, kids welcome in pajamas",
       "details": "Upcoming: 8/25, 9/29, 10/27",
       "location": "Noe Valley Library, 451 Jersey St",
-      "url": "https://sfpl.org/events/2026/09/29/storytime-pajama-storytime",
+      "url": "https://sfpl.org/events/2026/12/29/storytime-pajama-storytime",
       "tags": [
         "family"
       ],
@@ -3731,19 +3731,22 @@
       "title": "Book Club: Short Stack Book Club",
       "day": "Friday",
       "cadence": "monthly",
-      "when": "Fridays (~monthly)",
+      "when": "Third Friday of the month",
       "time": "3:00pm – 4:00pm",
       "startRaw": "15:00",
       "endRaw": "16:00",
-      "desc": "Adult book club",
-      "details": "Upcoming: Oct 16, 3:00-4:00pm. This month's book is The Birdcatcher by Gayl Jones",
+      "desc": "Adult book club for short novels. November 20: Vera, or Faith by Gary Shteyngart.",
+      "details": "Upcoming: 11/20, 12/18. Third Friday, 3:00-4:00pm, Noe Valley Library, 451 Jersey St. November 20: Vera, or Faith by Gary Shteyngart. December 18 has its own dated listing.",
       "location": "Noe Valley Library, 451 Jersey St",
-      "url": "https://sfpl.org/events/2026/10/16/book-club-short-stack-book-club",
+      "url": "https://sfpl.org/events/2026/11/20/book-club-short-stack-book-club",
       "tags": [
         "arts",
         "social"
       ],
-      "free": true
+      "free": true,
+      "instanceDates": [
+        "2026-12-18"
+      ]
     },
     {
       "id": "r03b1b49c",
@@ -3757,7 +3760,7 @@
       "desc": "Drop-in knitting circle (branch also lists it as a standing monthly program)",
       "details": "Upcoming: 9/5, 10/3 (ran 8/1 too). Adults and teens",
       "location": "Noe Valley Library, 451 Jersey St",
-      "url": "https://sfpl.org/events/2026/10/03/activity-noe-valley-knitting-circle",
+      "url": "https://sfpl.org/events/2026/12/05/activity-noe-valley-knitting-circle",
       "tags": [
         "arts"
       ],
@@ -3785,16 +3788,16 @@
     {
       "id": "r58181563",
       "title": "Noe Valley Books Book Club",
-      "day": "Thursday",
+      "day": "Schedule varies",
       "cadence": "monthly",
-      "when": "Monthly, Thursday",
-      "time": "7:00pm – 8:00pm",
-      "startRaw": "19:00",
-      "endRaw": "20:00",
-      "desc": "Monthly community book club, conversation led by Isaiah",
-      "details": "Monthly pick 10% off; sign up online. Conversation led by Isaiah",
-      "location": "",
-      "url": "https://noevalleybooks.com/events",
+      "when": "Every 6-8 weeks; next meeting not posted",
+      "time": "Next meeting time not posted",
+      "startRaw": "",
+      "endRaw": "",
+      "desc": "Community book club, with discussion led by Isaiah. Book selections are announced every 6-8 weeks; check the store for the next meeting.",
+      "details": "Book selections announced every 6-8 weeks. Selected title is 10% off. Next meeting date and time not posted. Noe Valley Books, 3957 24th St.",
+      "location": "Noe Valley Books, 3957 24th St",
+      "url": "https://noevalleybooks.com/book-club",
       "tags": [
         "arts",
         "social"
@@ -3813,10 +3816,10 @@
       "time": "9:00am – 10:00am",
       "startRaw": "09:00",
       "endRaw": "10:00",
-      "desc": "Monthly children storytime",
+      "desc": "Monthly children storytime at Noe Valley Books, 3957 24th St. Doors 9am; stories 9:15-9:45am; book purchases until 10am.",
       "details": "Free. Doors open 9am; storytime 9:15-9:45am; book purchases until 10am. Suggested ages 3-8, all welcome. Next: Oct 17, Nov 21, Dec 19",
-      "location": "",
-      "url": "https://noevalleybooks.com/event/2026-10-17/kids-storytime",
+      "location": "Noe Valley Books, 3957 24th St",
+      "url": "https://noevalleybooks.com/event/2026-11-21/kids-storytime",
       "tags": [
         "family",
         "arts"
@@ -3854,8 +3857,8 @@
       "startRaw": "",
       "endRaw": "",
       "desc": "Weekly bar bingo, modern take, free to play",
-      "details": "Free to play; drinks expected",
-      "location": "",
+      "details": "Free to play; drinks expected. The Dubliner, 3838 24th St.",
+      "location": "The Dubliner, 3838 24th St",
       "url": "https://www.dublinerbarsf.com/events",
       "tags": [
         "food"
@@ -3946,13 +3949,13 @@
       "day": "Monthly-ish during season",
       "cadence": "monthly",
       "when": "Monthly-ish during season",
-      "time": "Evenings (varies)",
+      "time": "Times vary by concert; see dated listings",
       "startRaw": "",
       "endRaw": "",
       "desc": "Season-spanning concert series (classical, jazz, world, new music) by local nonprofit",
-      "details": "Tickets per concert. 2025-26 season announced",
+      "details": "Upcoming: 11/29. 2026-2027 season. Tickets per concert; use the individual dated listings for times and venues. November 29: Jeremy Denk, piano, has its own dated listing.",
       "location": "",
-      "url": "https://www.noemusic.org/mainstage",
+      "url": "https://www.noemusic.org/home#26-27-season",
       "tags": [
         "arts"
       ],
@@ -3962,6 +3965,7 @@
         "2026-10-03",
         "2026-10-23",
         "2026-11-14",
+        "2026-11-29",
         "2027-01-09",
         "2027-02-06",
         "2027-03-06"
@@ -3990,12 +3994,12 @@
       "title": "Running Wylder Thursday Evening Run / Ladies' Night",
       "day": "Thursday",
       "cadence": "monthly",
-      "when": "1st and 3rd Thursday of the month",
+      "when": "First and third Thursday of the month",
       "time": "6:00pm",
       "startRaw": "18:00",
       "endRaw": "",
       "desc": "Evening group run from the store; the first Thursday is Ladies' Night, a no-drop 4 mile route to Glen Park",
-      "details": "Meet at the store, 1354 Castro St. Ladies' Night is run with the Hella Bae and That Girl clubs; all paces, shorter options available, gear storage and post-run refreshments at the store",
+      "details": "Upcoming: 11/5, 11/19, 12/3, 12/17. Meet at the store, 1354 Castro St. Ladies' Night is run with the Hella Bae and That Girl clubs; all paces, shorter options available, gear storage and post-run refreshments at the store",
       "location": "1354 Castro St.",
       "url": "https://runningwylder.co/pages/store-events",
       "tags": [
@@ -4016,14 +4020,17 @@
       "startRaw": "19:00",
       "endRaw": "20:00",
       "desc": "Monthly community poetry open mic at the bookstore",
-      "details": "Open mic, all levels welcome. Sign up as poet or attendee; each poet gets 5 minutes. Free RSVP on the store site",
-      "location": "",
-      "url": "https://noevalleybooks.com/upcoming-events",
+      "details": "Upcoming: 11/10. Open mic, all levels welcome. Each poet gets 5 minutes. Noe Valley Books, 3957 24th St. November 10 has its own dated listing.",
+      "location": "Noe Valley Books, 3957 24th St",
+      "url": "https://noevalleybooks.com/event/2026-11-10/poetry-night",
       "tags": [
         "arts",
         "social"
       ],
-      "free": true
+      "free": true,
+      "instanceDates": [
+        "2026-11-10"
+      ]
     },
     {
       "id": "r774fe914",
@@ -4035,8 +4042,8 @@
       "startRaw": "19:00",
       "endRaw": "20:00",
       "desc": "An evening of movement and music inspired by the world’s spiritual traditions",
-      "details": "Sit and listen, sing along, walk or dance the labyrinth. Free; donations welcome. Upcoming: Oct 2, Nov 6, Dec 4, 2026",
-      "location": "",
+      "details": "Sit and listen, sing along, walk or dance the labyrinth. Free; donations welcome. Upcoming: Oct 2, Nov 6, Dec 4, 2026. Bethany United Methodist Church, 1270 Sanchez St.",
+      "location": "Bethany United Methodist Church, 1270 Sanchez St",
       "url": "https://bethanysf.org/",
       "tags": [
         "active",
@@ -4079,18 +4086,18 @@
       "startRaw": "18:00",
       "endRaw": "21:00",
       "desc": "Chinese and American-style mahjong for learners and experienced players. Free to play; food and drinks available for purchase. Some tables are in the parklet, so bring layers.",
-      "details": "Upcoming: 10/19. Free to play, owner-confirmed. Future dates are checked weekly before listing.",
+      "details": "Upcoming: 11/2, 11/9, 11/16, 11/23. Free to play, owner-confirmed. Food and drinks extra. Current Monday 6-9pm dates checked against Bay Area Mahjong Meetup.",
       "location": "Mamahuhu Noe Valley, 3991 24th St",
       "address": "3991 24th St, San Francisco",
-      "url": "https://www.meetup.com/bamahjong/events/mpwbktyjcnbzb/",
+      "url": "https://www.meetup.com/bamahjong/events/316944249/",
       "source": "meetup.com",
       "tags": [
         "social"
       ],
       "free": true,
       "price": "Free to play; food and drinks extra",
-      "lastChecked": "2026-10-13 09:12 PT",
-      "checkedAt": "2026-10-13T09:12:32.426777-07:00",
+      "lastChecked": "2026-11-01 23:28 PST",
+      "checkedAt": "2026-11-01T23:28:00-08:00",
       "status": "Confirmed"
     }
   ],
