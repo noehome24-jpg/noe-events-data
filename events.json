@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T21:20:43-08:00",
+  "generatedAt": "2026-11-06T14:24:26-08:00",
   "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
   "events": [
     {
@@ -3739,6 +3739,122 @@
       "cancelReason": "",
       "postponed": false,
       "status": "Confirmed"
+    },
+    {
+      "id": "e8194fcbd",
+      "date": "2026-12-13",
+      "day": "Sunday",
+      "month": "Dec",
+      "dayNum": 13,
+      "start": "16:00",
+      "startRaw": "16:00",
+      "time": "4:00pm",
+      "title": "Old Chestnuts, Re-Roasted (SF Choral Artists)",
+      "location": "Noe Valley Ministry",
+      "address": "1021 Sanchez St, San Francisco",
+      "desc": "Holiday choral music with San Francisco Choral Artists. Advance online: pay what you will (suggested $35), until noon on concert day. At the door: general $35; senior $30; under 30 $15. Advance purchase is not required.",
+      "endRaw": "",
+      "price": "Advance online: pay what you will (suggested $35), until noon on concert day. At the door: general $35; senior $30; under 30 $15. Advance purchase is not required.",
+      "free": false,
+      "tags": [
+        "arts"
+      ],
+      "url": "https://ticketstripe.com/sfca-dec-13-26",
+      "source": "ticketstripe.com",
+      "submittedBy": "",
+      "lastChecked": "2026-11-06 14:02 PT",
+      "checkedAt": "2026-11-06T14:02:00-08:00",
+      "cancelled": false,
+      "cancelReason": "",
+      "postponed": false,
+      "status": "Confirmed"
+    },
+    {
+      "id": "e88c5004e",
+      "date": "2027-03-14",
+      "day": "Sunday",
+      "month": "Mar",
+      "dayNum": 14,
+      "start": "16:00",
+      "startRaw": "16:00",
+      "time": "4:00pm",
+      "title": "Oceans, Rivers, and Tears (SF Choral Artists)",
+      "location": "Noe Valley Ministry",
+      "address": "1021 Sanchez St, San Francisco",
+      "desc": "San Francisco Choral Artists performs music about water, rivers and tears. Advance online: pay what you will (suggested $35), until noon on concert day. At the door: general $35; senior $30; under 30 $15. Advance purchase is not required.",
+      "endRaw": "",
+      "price": "Advance online: pay what you will (suggested $35), until noon on concert day. At the door: general $35; senior $30; under 30 $15. Advance purchase is not required.",
+      "free": false,
+      "tags": [
+        "arts"
+      ],
+      "url": "https://ticketstripe.com/sfca-mar-14-27",
+      "source": "ticketstripe.com",
+      "submittedBy": "",
+      "lastChecked": "2026-11-06 14:02 PT",
+      "checkedAt": "2026-11-06T14:02:00-08:00",
+      "cancelled": false,
+      "cancelReason": "",
+      "postponed": false,
+      "status": "Confirmed"
+    },
+    {
+      "id": "ed36e26c0",
+      "date": "2027-06-06",
+      "day": "Sunday",
+      "month": "Jun",
+      "dayNum": 6,
+      "start": "16:00",
+      "startRaw": "16:00",
+      "time": "4:00pm",
+      "title": "Musicians Wrestle Everywhere! Music About Music (SF Choral Artists)",
+      "location": "Noe Valley Ministry",
+      "address": "1021 Sanchez St, San Francisco",
+      "desc": "San Francisco Choral Artists performs music about music. Advance online: pay what you will (suggested $35), until noon on concert day. At the door: general $35; senior $30; under 30 $15. Advance purchase is not required.",
+      "endRaw": "",
+      "price": "Advance online: pay what you will (suggested $35), until noon on concert day. At the door: general $35; senior $30; under 30 $15. Advance purchase is not required.",
+      "free": false,
+      "tags": [
+        "arts"
+      ],
+      "url": "https://ticketstripe.com/sfca-jun-6-27",
+      "source": "ticketstripe.com",
+      "submittedBy": "",
+      "lastChecked": "2026-11-06 14:02 PT",
+      "checkedAt": "2026-11-06T14:02:00-08:00",
+      "cancelled": false,
+      "cancelReason": "",
+      "postponed": false,
+      "status": "Confirmed"
+    },
+    {
+      "id": "eee58ebc6",
+      "date": "2027-04-25",
+      "day": "Sunday",
+      "month": "Apr",
+      "dayNum": 25,
+      "start": "16:00",
+      "startRaw": "16:00",
+      "time": "4:00pm",
+      "title": "Ives Collective Spring Concert",
+      "location": "Noe Valley Ministry",
+      "address": "1021 Sanchez St, San Francisco",
+      "desc": "Ives Collective performs its spring concert at Noe Valley Ministry. Admission by donation of any amount at the door. Advance purchase is not required; an optional season ticket is available.",
+      "endRaw": "",
+      "price": "Admission by donation of any amount at the door. Advance purchase is not required; an optional season ticket is available.",
+      "free": false,
+      "tags": [
+        "arts"
+      ],
+      "url": "https://ivescollective.org/",
+      "source": "ivescollective.org",
+      "submittedBy": "",
+      "lastChecked": "2026-11-06 14:02 PT",
+      "checkedAt": "2026-11-06T14:02:00-08:00",
+      "cancelled": false,
+      "cancelReason": "",
+      "postponed": false,
+      "status": "Confirmed"
     }
   ],
   "recurring": [
@@ -3967,7 +4083,7 @@
       "endRaw": "",
       "desc": "Friendly neighborhood group run, coffee and treats after at Noe Cafe",
       "details": "Meet at 26th & Sanchez. Two Friday starts: 6:45am for 4 mi, 7:30am for 2.5 mi. Coffee and treats after at Noe Cafe. No registration.",
-      "location": "",
+      "location": "26th & Sanchez",
       "url": "https://www.instagram.com/noevalleyrunclub/",
       "tags": [
         "active",
@@ -4212,28 +4328,6 @@
       "source": "fiorella-sf.com",
       "lastChecked": "2026-10-23 19:59 PT",
       "checkedAt": "2026-10-23T19:59:23.317638-07:00"
-    },
-    {
-      "id": "hhb2c9ada3",
-      "venue": "Fresca",
-      "deal": "Happy hour",
-      "when": "Monday-Friday",
-      "dayList": [
-        "Monday",
-        "Tuesday",
-        "Wednesday",
-        "Thursday",
-        "Friday"
-      ],
-      "time": "3:00pm – 5:30pm",
-      "timePosted": true,
-      "details": "Happy hour menu available. Item prices are not shown on the public page",
-      "address": "3945 24th St",
-      "url": "https://www.frescasf.com/menu",
-      "sourceNote": "",
-      "source": "frescasf.com",
-      "lastChecked": "2026-09-14 07:36 PT",
-      "checkedAt": "2026-09-14T07:36:00-07:00"
     },
     {
       "id": "hh4499f139",
