@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T14:34:13-08:00",
+  "generatedAt": "2026-11-07T07:01:45-08:00",
   "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
   "events": [
     {
@@ -4288,6 +4288,36 @@
       "submittedBy": "",
       "lastChecked": "2026-11-06 14:31 PT",
       "checkedAt": "2026-11-06T14:31:00-08:00",
+      "cancelled": false,
+      "cancelReason": "",
+      "postponed": false,
+      "status": "Confirmed"
+    },
+    {
+      "id": "e0ea55e27",
+      "date": "2026-11-22",
+      "day": "Sunday",
+      "month": "Nov",
+      "dayNum": 22,
+      "start": "13:00",
+      "startRaw": "13:00",
+      "endRaw": "14:00",
+      "time": "1:00pm - 2:00pm",
+      "title": "Sunday Music in the Square: JimBo Trout",
+      "location": "Noe Valley Town Square",
+      "address": "3861 24th St, San Francisco",
+      "desc": "JimBo Trout performs an all-ages solo set at Noe Valley Town Square. Free admission; no registration requirement is posted.",
+      "price": "Free admission; no registration requirement is posted.",
+      "free": true,
+      "tags": [
+        "arts",
+        "family"
+      ],
+      "url": "https://www.jimbotrout.com/event/jimbo-solo-at-noe-valley-town-square-in-s-f/",
+      "source": "jimbotrout.com",
+      "submittedBy": "",
+      "lastChecked": "2026-11-07 06:56 PT",
+      "checkedAt": "2026-11-07T06:56:58-08:00",
       "cancelled": false,
       "cancelReason": "",
       "postponed": false,
