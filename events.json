@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T07:01:45-08:00",
+  "generatedAt": "2026-11-08T09:18:50-08:00",
   "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
   "events": [
     {
@@ -4398,7 +4398,10 @@
         "arts",
         "social"
       ],
-      "free": true
+      "free": true,
+      "instanceDates": [
+        "2026-11-16"
+      ]
     },
     {
       "id": "r82529401",
@@ -4760,10 +4763,10 @@
       "startRaw": "18:00",
       "endRaw": "21:00",
       "desc": "Chinese and American-style mahjong for learners and experienced players. Free to play; food and drinks available for purchase. Some tables are in the parklet, so bring layers.",
-      "details": "Upcoming: 11/2, 11/9, 11/16, 11/23. Free to play, owner-confirmed. Food and drinks extra. Current Monday 6-9pm dates checked against Bay Area Mahjong Meetup.",
+      "details": "Upcoming: 11/9, 11/16, 11/23, 11/30. Free to play, owner-confirmed. Food and drinks extra. Current Monday 6-9pm dates checked against Bay Area Mahjong Meetup.",
       "location": "Mamahuhu Noe Valley, 3991 24th St",
       "address": "3991 24th St, San Francisco",
-      "url": "https://www.meetup.com/bamahjong/events/316944249/",
+      "url": "https://www.meetup.com/bamahjong/events/317067844/",
       "source": "meetup.com",
       "tags": [
         "social"
