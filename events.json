@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T09:18:50-08:00",
+  "generatedAt": "2026-11-09T20:52:20-08:00",
   "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
   "events": [
     {
@@ -4322,6 +4322,36 @@
       "cancelReason": "",
       "postponed": false,
       "status": "Confirmed"
+    },
+    {
+      "id": "e15f62796",
+      "date": "2026-11-21",
+      "day": "Saturday",
+      "month": "Nov",
+      "dayNum": 21,
+      "start": "10:00",
+      "startRaw": "10:00",
+      "endRaw": "10:50",
+      "time": "10:00am - 10:50am",
+      "title": "Puppet Show Adventure: Saving the Sacred Grove",
+      "location": "The Rabbit Hole Theater",
+      "address": "800 Diamond St, San Francisco",
+      "desc": "Puppet show for ages 2-8; an adult must stay. Care lists $35 per child. Adult charges, added fees, advance-purchase requirement and door purchase are unconfirmed. This listing is for the November 21 show only.",
+      "price": "$35 per child (Care listing). Adult charges, added fees and door purchase unconfirmed.",
+      "free": false,
+      "tags": [
+        "family",
+        "arts"
+      ],
+      "url": "https://www.care.com/explore/activities/8056380-puppet-show-adventure-saving-the-sacred-grove",
+      "source": "care.com",
+      "submittedBy": "",
+      "lastChecked": "2026-11-09 20:51 PT",
+      "checkedAt": "2026-11-09T20:51:00-08:00",
+      "cancelled": false,
+      "cancelReason": "",
+      "postponed": false,
+      "status": "Listed with admission caveats"
     }
   ],
   "recurring": [
@@ -4967,6 +4997,30 @@
       "source": "thebarondolores.com",
       "lastChecked": "2026-10-23 23:36 PT",
       "checkedAt": "2026-10-23T23:36:36.162450-07:00"
+    },
+    {
+      "id": "hh3171a176",
+      "venue": "Noe Cafe",
+      "deal": "Wine and local craft beer happy hour",
+      "when": "Every day",
+      "dayList": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "time": "2:00pm - 4:00pm",
+      "timePosted": true,
+      "details": "Wine and local craft beer. Prices and offer details not posted.",
+      "address": "1299 Sanchez St at 26th St",
+      "url": "https://noecafe.com/menu#wine-and-beer",
+      "sourceNote": "Hours confirmed on the cafe's own homepage and menu; prices and offer details not posted.",
+      "source": "noecafe.com",
+      "lastChecked": "2026-11-09 20:50 PT",
+      "checkedAt": "2026-11-09T20:50:00-08:00"
     }
   ],
   "note": "Published calendar for noeplacelikehome.io. Verified rows only - anything flagged for verification in the master sheet is not in this file.",
