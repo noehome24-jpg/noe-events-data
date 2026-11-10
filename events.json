@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T20:52:20-08:00",
+  "generatedAt": "2026-11-09T20:59:29-08:00",
   "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
   "events": [
     {
@@ -4351,7 +4351,7 @@
       "cancelled": false,
       "cancelReason": "",
       "postponed": false,
-      "status": "Listed with admission caveats"
+      "status": ""
     }
   ],
   "recurring": [
