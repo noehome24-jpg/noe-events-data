@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T09:23:07-08:00",
+  "generatedAt": "2026-11-13T09:53:14-08:00",
   "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
   "events": [
     {
@@ -2533,9 +2533,9 @@
       "title": "Noe Music Kids: The Dolphins Quartet",
       "location": "Noe Valley Ministry",
       "address": "1021 Sanchez St",
-      "desc": "",
+      "desc": "Online tickets available. Advance-purchase requirement, door availability, and admission terms for children under 3 are not confirmed.",
       "endRaw": "11:15",
-      "price": "Ticketed/registration - price not posted",
+      "price": "$16.70 ages 3+ including fees.",
       "free": false,
       "tags": [
         "family",
@@ -2563,9 +2563,9 @@
       "title": "Noe Music Kids: The Dolphins Quartet - AZURE performance",
       "location": "Noe Valley Ministry",
       "address": "1021 Sanchez St",
-      "desc": "AZURE performance for autistic and neurodivergent audiences.",
+      "desc": "AZURE performance for autistic and neurodivergent audiences. Online registration available with choose-what-you-pay admission, including $0. Advance-registration requirement and door availability are not confirmed.",
       "endRaw": "12:45",
-      "price": "Ticketed/registration - price not posted",
+      "price": "Choose what you pay, including $0.",
       "free": false,
       "tags": [
         "family",
@@ -2696,8 +2696,8 @@
       "submittedBy": "",
       "lastChecked": "2026-11-02 15:31 PT",
       "checkedAt": "2026-11-02T15:31:57-08:00",
-      "cancelled": false,
-      "cancelReason": "",
+      "cancelled": true,
+      "cancelReason": "Due to weather",
       "postponed": false,
       "status": "Confirmed"
     },
@@ -4113,8 +4113,8 @@
       "submittedBy": "",
       "lastChecked": "2026-11-06 14:27 PT",
       "checkedAt": "2026-11-06T14:27:00-08:00",
-      "cancelled": false,
-      "cancelReason": "",
+      "cancelled": true,
+      "cancelReason": "Due to weather",
       "postponed": false,
       "status": "Confirmed"
     },
@@ -4874,6 +4874,88 @@
       "cancelReason": "",
       "postponed": false,
       "status": ""
+    },
+    {
+      "id": "e6b44ea46",
+      "date": "2026-12-03",
+      "day": "Thursday",
+      "month": "Dec",
+      "dayNum": 3,
+      "start": "16:30",
+      "startRaw": "16:30",
+      "endRaw": "19:30",
+      "time": "4:30pm - 7:30pm",
+      "title": "Noe Valley Winter Wine Walk",
+      "location": "Noe Valley Town Square and participating neighborhood businesses",
+      "address": "Noe Valley, San Francisco",
+      "desc": "Winter Wine Walk. Organizer ticket page lists 4:30-7:30pm; the venue webpage lists a conflicting 4:40pm start. Advance-purchase requirement and door availability are not confirmed.",
+      "price": "$44.52 including fees.",
+      "free": false,
+      "tags": [
+        "food",
+        "social"
+      ],
+      "url": "https://www.eventbrite.com/e/noe-valley-winter-wine-walk-tickets-2004136183274",
+      "source": "www.eventbrite.com",
+      "submittedBy": "",
+      "cancelled": false,
+      "cancelReason": "",
+      "postponed": false,
+      "status": "Confirmed"
+    },
+    {
+      "id": "ed2e4208e",
+      "date": "2027-03-25",
+      "day": "Thursday",
+      "month": "Mar",
+      "dayNum": 25,
+      "start": "18:30",
+      "startRaw": "18:30",
+      "endRaw": "",
+      "time": "6:30pm",
+      "title": "Darra Goldstein author event: Cultured",
+      "location": "Omnivore Books on Food",
+      "address": "3885A Cesar Chavez St",
+      "desc": "Darra Goldstein discusses Cultured. Free admission; first-come seating, with overflow outside. Book purchase optional.",
+      "price": "Free; optional book purchase.",
+      "free": true,
+      "tags": [
+        "arts"
+      ],
+      "url": "https://omnivorebooks.myshopify.com/collections/upcoming-events/products/darra-goldstein-author-event-cultured-a-global-guide-to-fermenting-and-preserving-fruit-vegetables-dairy-and-grains-with-over-150-recipes",
+      "source": "omnivorebooks.myshopify.com",
+      "submittedBy": "",
+      "cancelled": false,
+      "cancelReason": "",
+      "postponed": false,
+      "status": "Confirmed"
+    },
+    {
+      "id": "e34e0c794",
+      "date": "2027-01-21",
+      "day": "Thursday",
+      "month": "Jan",
+      "dayNum": 21,
+      "start": "19:00",
+      "startRaw": "19:00",
+      "endRaw": "20:30",
+      "time": "7pm - 8:30pm",
+      "title": "The Isle of Monsters Book Launch: Julie Leong with Charlie Jane Anders",
+      "location": "Noe Valley Ministry",
+      "address": "1021 Sanchez St, San Francisco",
+      "desc": "Free. Julie Leong in conversation with Charlie Jane Anders, followed by audience Q&A and book signing. RSVP appreciated for headcount; no mandatory book purchase is stated.",
+      "price": "Free; RSVP appreciated.",
+      "free": true,
+      "tags": [
+        "arts"
+      ],
+      "url": "https://noevalleybooks.com/event/2027-01-21/isle-monsters-book-launch",
+      "source": "noevalleybooks.com",
+      "submittedBy": "",
+      "cancelled": false,
+      "cancelReason": "",
+      "postponed": false,
+      "status": "Confirmed"
     }
   ],
   "recurring": [
@@ -4908,7 +4990,7 @@
       "desc": "Family storytime for babies/toddlers/preschoolers, two back-to-back sessions every Thursday morning",
       "details": "Two identical sessions each Thu; families pick one. Every Thu through at least 10/29. Space limited: first session door tickets at 10:00am, second-session tickets at the reference desk at 10:30am",
       "location": "Noe Valley Library, 451 Jersey St",
-      "url": "https://sfpl.org/events/2026/11/05/storytime-families-1",
+      "url": "https://sfpl.org/events/2026/11/19/storytime-families-1",
       "tags": [
         "family"
       ],
@@ -5005,7 +5087,7 @@
       "startRaw": "08:00",
       "endRaw": "13:00",
       "desc": "Year-round certified farmers market with live music",
-      "details": "Local produce, prepared food, live music. Noe Valley Town Square, 3861 24th St",
+      "details": "Local produce, prepared food, live music. Noe Valley Town Square, 3861 24th St Skips 11/28.",
       "location": "3861 24th St",
       "url": "https://www.noevalleyfarmersmarket.com/",
       "tags": [
@@ -5209,8 +5291,8 @@
       "time": "10:00am",
       "startRaw": "10:00",
       "endRaw": "",
-      "desc": "Choose-your-own-distance group run from the store: a 3 mile flat-ish route with a coach, plus 5 and 7 mile options",
-      "details": "Meet at the store, 1354 Castro St. All paces welcome; routes go out on Instagram and by email the week before",
+      "desc": "Choose-your-own-distance group run from the store: a 3 mile flat-ish route with a coach, plus 5 and 7 mile options Newsletter-only update for Sunday November 15, not independently confirmed: a stroller group is planned on Sanchez, with non-stroller runners on the usual Glen Canyon route.",
+      "details": "Meet at the store, 1354 Castro St. All paces welcome; routes go out on Instagram and by email the week before Newsletter-only update for Sunday November 15, not independently confirmed: a stroller group is planned on Sanchez, with non-stroller runners on the usual Glen Canyon route.",
       "location": "1354 Castro St.",
       "url": "https://runningwylder.co/pages/store-events",
       "tags": [
@@ -5237,28 +5319,6 @@
       "free": false,
       "instanceDates": [
         "2026-10-01"
-      ]
-    },
-    {
-      "id": "rd813c3fb",
-      "title": "Noe Valley Books Poetry Night",
-      "day": "Tuesday",
-      "cadence": "monthly",
-      "when": "Monthly, Tuesday",
-      "time": "7:00pm – 8:00pm",
-      "startRaw": "19:00",
-      "endRaw": "20:00",
-      "desc": "Monthly community poetry open mic at the bookstore",
-      "details": "Upcoming: 11/10. Open mic, all levels welcome. Each poet gets 5 minutes. Noe Valley Books, 3957 24th St. November 10 has its own dated listing.",
-      "location": "Noe Valley Books, 3957 24th St",
-      "url": "https://noevalleybooks.com/event/2026-11-10/poetry-night",
-      "tags": [
-        "arts",
-        "social"
-      ],
-      "free": true,
-      "instanceDates": [
-        "2026-11-10"
       ]
     },
     {
@@ -5315,10 +5375,10 @@
       "startRaw": "18:00",
       "endRaw": "21:00",
       "desc": "Chinese and American-style mahjong for learners and experienced players. Free to play; food and drinks available for purchase. Some tables are in the parklet, so bring layers.",
-      "details": "Upcoming: 11/9, 11/16, 11/23, 11/30. Free to play, owner-confirmed. Food and drinks extra. Current Monday 6-9pm dates checked against Bay Area Mahjong Meetup.",
+      "details": "Upcoming: 11/16, 11/23, 11/30, 12/7. Free to play, owner-confirmed. Food and drinks extra. Current Monday 6-9pm dates checked against Bay Area Mahjong Meetup.",
       "location": "Mamahuhu Noe Valley, 3991 24th St",
       "address": "3991 24th St, San Francisco",
-      "url": "https://www.meetup.com/bamahjong/events/317067844/",
+      "url": "https://www.meetup.com/bamahjong/events/317170174/?eventOrigin=group_events_list",
       "source": "meetup.com",
       "tags": [
         "social"
