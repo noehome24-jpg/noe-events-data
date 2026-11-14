@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T13:05:23-08:00",
+  "generatedAt": "2026-11-13T16:06:17-08:00",
   "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
   "events": [
     {
@@ -2605,7 +2605,7 @@
       "submittedBy": "",
       "lastChecked": "2026-09-29 21:50 PT",
       "checkedAt": "2026-09-29T21:50:00-07:00",
-      "cancelled": false,
+      "cancelled": true,
       "cancelReason": "",
       "postponed": false,
       "status": "Confirmed"
