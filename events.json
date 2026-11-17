@@ -4984,6 +4984,33 @@
       "cancelReason": "",
       "postponed": false,
       "status": "Confirmed"
+    },
+    {
+      "id": "e1e3798e3",
+      "date": "2026-11-21",
+      "day": "Saturday",
+      "month": "Nov",
+      "dayNum": 21,
+      "start": "11:00",
+      "startRaw": "11:00",
+      "endRaw": "15:00",
+      "time": "11am - 3pm",
+      "title": "Pet Photos with Santa",
+      "location": "Noe Valley Pet Company",
+      "address": "1451 Church St",
+      "desc": "Bring your pet for photos with Santa, rain or shine. Free, according to the November Noe Valley Voice; the organizer has not posted a price or registration details.",
+      "price": "Free per November Noe Valley Voice; organizer price not posted.",
+      "free": false,
+      "tags": [
+        "community"
+      ],
+      "url": "https://www.instagram.com/noevalleypet/p/DfiGblDD-d4/",
+      "source": "instagram.com",
+      "submittedBy": "",
+      "cancelled": false,
+      "cancelReason": "",
+      "postponed": false,
+      "status": "Confirmed"
     }
   ],
   "recurring": [
