@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T10:26:36-08:00",
+  "generatedAt": "2026-11-19T10:00:17-08:00",
   "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
   "events": [
     {
@@ -2911,6 +2911,35 @@
       "status": "Confirmed"
     },
     {
+      "id": "e7d020dc3",
+      "date": "2026-11-26",
+      "day": "Thursday",
+      "month": "Nov",
+      "dayNum": 26,
+      "start": "10:15",
+      "startRaw": "10:15",
+      "endRaw": "11:30",
+      "time": "10:15am - 10:45am and 11:00am - 11:30am",
+      "title": "Storytime: For Families",
+      "location": "Noe Valley Library, 451 Jersey St",
+      "address": "451 Jersey St",
+      "desc": "Family storytime for babies/toddlers/preschoolers, two back-to-back sessions every Thursday morning",
+      "price": "Free",
+      "free": true,
+      "tags": [
+        "family"
+      ],
+      "url": "https://sfpl.org/locations/noe-valley",
+      "source": "sfpl.org",
+      "submittedBy": "",
+      "lastChecked": "2026-11-19 10:00 PT",
+      "checkedAt": "2026-11-19T10:00:00-08:00",
+      "cancelled": true,
+      "cancelReason": "Library closed for Thanksgiving",
+      "postponed": false,
+      "status": "Confirmed"
+    },
+    {
       "id": "e8cd8fb7e",
       "date": "2026-11-29",
       "day": "Sunday",
@@ -5049,7 +5078,10 @@
       "tags": [
         "family"
       ],
-      "free": true
+      "free": true,
+      "instanceDates": [
+        "2026-11-26"
+      ]
     },
     {
       "id": "r3715994b",
