@@ -4510,9 +4510,9 @@
       "title": "Noe Valley Tree Lighting & Holiday Celebration",
       "location": "Noe Valley Town Square",
       "address": "3861 24th St, San Francisco",
-      "desc": "Tree lighting and holiday celebration. Admission price is not stated by the organizer.",
-      "price": "Admission price not confirmed.",
-      "free": false,
+      "desc": "Tree lighting and holiday celebration. Free admission, owner-confirmed.",
+      "price": "Free",
+      "free": true,
       "tags": [
         "community"
       ],
