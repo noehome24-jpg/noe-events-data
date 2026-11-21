@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T10:00:17-08:00",
+  "generatedAt": "2026-11-21T11:06:22-08:00",
   "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
   "events": [
     {
@@ -5040,6 +5040,35 @@
       "cancelReason": "",
       "postponed": false,
       "status": "Confirmed"
+    },
+    {
+      "id": "ea9217ecc",
+      "date": "2026-11-26",
+      "day": "Thursday",
+      "month": "Nov",
+      "dayNum": 26,
+      "start": "08:30",
+      "startRaw": "08:30",
+      "time": "8:30am",
+      "title": "Noe Valley Run Club 4th Annual Turkey Trot",
+      "location": "Noe Valley Town Square",
+      "address": "",
+      "desc": "A 5K at your own pace with Noe Valley Run Club, followed by a pie and treats potluck. Bring a treat; coffee is on the organizers. Admission, registration, end time and rain plan are not confirmed.",
+      "price": "Admission not confirmed.",
+      "free": false,
+      "tags": [
+        "active",
+        "community"
+      ],
+      "url": "https://www.instagram.com/noevalleyrunclub/p/Df7sWhIvHx0/",
+      "source": "instagram.com",
+      "submittedBy": "",
+      "lastChecked": "2026-11-21 10:09 PT",
+      "checkedAt": "2026-11-21T10:09:00-08:00",
+      "cancelled": false,
+      "cancelReason": "",
+      "postponed": false,
+      "status": ""
     }
   ],
   "recurring": [
