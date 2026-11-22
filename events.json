@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T11:06:22-08:00",
+  "generatedAt": "2026-11-22T13:42:32-08:00",
   "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
   "events": [
     {
@@ -2905,7 +2905,7 @@
       "submittedBy": "",
       "lastChecked": "2026-09-30 07:04 PT",
       "checkedAt": "2026-09-30T07:04:00-07:00",
-      "cancelled": false,
+      "cancelled": true,
       "cancelReason": "",
       "postponed": false,
       "status": "Confirmed"
@@ -4375,8 +4375,8 @@
       "submittedBy": "",
       "lastChecked": "2026-11-07 06:56 PT",
       "checkedAt": "2026-11-07T06:56:58-08:00",
-      "cancelled": false,
-      "cancelReason": "",
+      "cancelled": true,
+      "cancelReason": "Due to weather",
       "postponed": false,
       "status": "Confirmed"
     },
@@ -4521,8 +4521,8 @@
       "submittedBy": "",
       "lastChecked": "2026-11-10 09:18 PT",
       "checkedAt": "2026-11-10T09:18:00-08:00",
-      "cancelled": false,
-      "cancelReason": "",
+      "cancelled": true,
+      "cancelReason": "Due to weather",
       "postponed": false,
       "status": ""
     },
