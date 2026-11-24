@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T07:15:26-08:00",
+  "generatedAt": "2026-11-24T15:32:12-08:00",
   "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
   "events": [
     {
@@ -3040,9 +3040,9 @@
       "title": "Melissa Clark Author Talk • The Big Book of Dinner: Recipes and Rules (and How to Break Them)",
       "location": "Farming Hope",
       "address": "690 Van Ness Ave, San Francisco",
-      "desc": "Melissa Clark discusses The Big Book of Dinner. Venue changed to Farming Hope, 690 Van Ness Ave, San Francisco. RSVP required through Omnivore Books. Price unclear, check RSVP page.",
-      "price": "Free",
-      "free": true,
+      "desc": "Melissa Clark discusses The Big Book of Dinner. Venue changed to Farming Hope, 690 Van Ness Ave, San Francisco. $5 RSVP required through Omnivore Books.",
+      "price": "$5",
+      "free": false,
       "tags": [
         "food",
         "arts"
@@ -3317,6 +3317,65 @@
       "submittedBy": "",
       "lastChecked": "2026-09-25 06:58 PT",
       "checkedAt": "2026-09-25T06:58:00-07:00",
+      "cancelled": false,
+      "cancelReason": "",
+      "postponed": false,
+      "status": "Confirmed"
+    },
+    {
+      "id": "edea2335f",
+      "date": "2027-01-10",
+      "day": "Sunday",
+      "month": "Jan",
+      "dayNum": 10,
+      "start": "15:30",
+      "startRaw": "15:30",
+      "endRaw": "18:30",
+      "time": "3:30pm – 6:30pm",
+      "title": "Technique Intensive: Performer Anxiety & Mindset",
+      "location": "Living Room Stage, DAMATO Studio",
+      "address": "1270 Sanchez St",
+      "desc": "DAMATO Performance School's monthly three-hour technique intensive: lecture-style learning and applied vocal exercises, this month on performer anxiety and mindset, with take-home resources. Advance registration online.",
+      "price": "$57.13 total ($55.25 + $1.88 fee)",
+      "free": false,
+      "tags": [
+        "arts"
+      ],
+      "url": "https://damatoperformanceschool.com/damato-calendar",
+      "source": "damatoperformanceschool.com",
+      "submittedBy": "",
+      "lastChecked": "2026-11-24 07:15 PT",
+      "checkedAt": "2026-11-24T07:15:00-08:00",
+      "cancelled": false,
+      "cancelReason": "",
+      "postponed": false,
+      "status": "Confirmed"
+    },
+    {
+      "id": "e2e176bbb",
+      "date": "2027-01-23",
+      "day": "Saturday",
+      "month": "Jan",
+      "dayNum": 23,
+      "start": "18:30",
+      "startRaw": "18:30",
+      "endRaw": "20:30",
+      "time": "6:30pm – 8:30pm",
+      "title": "Miss Cheesemonger Sings",
+      "location": "Noe Valley Ministry",
+      "address": "1021 Sanchez St",
+      "desc": "Mezzo-soprano Veronique Kherian with pianist Dwight Okamura: songs by women composers paired with eight cheese tastings, wine included. About 95 minutes within a two-hour window. Door tickets only if the presale doesn't sell out, announced later; advance tickets recommended.",
+      "price": "$119.22 ($110 + $9.22 fee)",
+      "free": false,
+      "tags": [
+        "arts",
+        "food"
+      ],
+      "url": "https://www.eventbrite.com/e/miss-cheesemonger-sings-tickets-2004470477156",
+      "source": "eventbrite.com",
+      "submittedBy": "",
+      "lastChecked": "2026-11-24 07:07 PT",
+      "checkedAt": "2026-11-24T07:07:00-08:00",
       "cancelled": false,
       "cancelReason": "",
       "postponed": false,
@@ -5246,7 +5305,7 @@
       "desc": "Monthly children storytime at Noe Valley Books, 3957 24th St. Doors 9am; stories 9:15-9:45am; book purchases until 10am.",
       "details": "Free. Doors open 9am; storytime 9:15-9:45am; book purchases until 10am. Suggested ages 3-8, all welcome. Next: Oct 17, Nov 21, Dec 19",
       "location": "Noe Valley Books, 3957 24th St",
-      "url": "https://noevalleybooks.com/event/2026-11-21/kids-storytime",
+      "url": "https://noevalleybooks.com/event/2026-12-19/kids-storytime",
       "tags": [
         "family",
         "arts"
@@ -5662,15 +5721,14 @@
       "id": "hh18a95829",
       "venue": "Bonita (Noe Valley)",
       "deal": "Happy hour",
-      "when": "Monday, Wednesday & Thursday",
+      "when": "Monday & Wednesday",
       "dayList": [
         "Monday",
-        "Wednesday",
-        "Thursday"
+        "Wednesday"
       ],
       "time": "3:00pm - 5:00pm",
       "timePosted": true,
-      "details": "Prices and menu not posted. Online orders excluded.",
+      "details": "Prices and menu not posted. Online orders excluded. Venue posted closed Thanksgiving Day (Thu Nov 26).",
       "address": "4063 24th St",
       "url": "https://sfbonita.com/",
       "sourceNote": "In-window sign photographed Oct 23, 2026; happy hour not stated on venue website.",
