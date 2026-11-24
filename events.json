@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:32:12-08:00",
+  "generatedAt": "2026-11-24T15:43:41-08:00",
   "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
   "events": [
     {
@@ -3040,7 +3040,7 @@
       "title": "Melissa Clark Author Talk • The Big Book of Dinner: Recipes and Rules (and How to Break Them)",
       "location": "Farming Hope",
       "address": "690 Van Ness Ave, San Francisco",
-      "desc": "Melissa Clark discusses The Big Book of Dinner. Venue changed to Farming Hope, 690 Van Ness Ave, San Francisco. $5 RSVP required through Omnivore Books.",
+      "desc": "Melissa Clark discusses The Big Book of Dinner. Venue changed to Farming Hope, 690 Van Ness Ave, San Francisco. $5 RSVP required through Omnivore Books. Online tickets are sold out; call Omnivore Books at 415-282-4712 (11am-6pm) to join the waitlist.",
       "price": "$5",
       "free": false,
       "tags": [
@@ -3050,12 +3050,12 @@
       "url": "https://omnivorebooks.myshopify.com/collections/upcoming-events/products/melissa-clark-author-talk-the-big-book-of-dinner-recipes-and-rules-and-how-to-break-them",
       "source": "omnivorebooks.myshopify.com",
       "submittedBy": "",
-      "lastChecked": "2026-09-30 07:04 PT",
-      "checkedAt": "2026-09-30T07:04:00-07:00",
+      "lastChecked": "2026-11-24 15:42 PT",
+      "checkedAt": "2026-11-24T15:42:00-08:00",
       "cancelled": false,
       "cancelReason": "",
       "postponed": false,
-      "status": "Confirmed"
+      "status": "Sold out online - call Omnivore for waitlist"
     },
     {
       "id": "ea396a523",
