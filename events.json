@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:43:41-08:00",
+  "generatedAt": "2026-11-24T16:25:35-08:00",
   "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
   "events": [
     {
@@ -5636,19 +5636,18 @@
       "id": "hh348384f6",
       "venue": "NOVY",
       "deal": "Daily happy hour",
-      "when": "Every day",
+      "when": "Every day except Thursday",
       "dayList": [
         "Monday",
         "Tuesday",
         "Wednesday",
-        "Thursday",
         "Friday",
         "Saturday",
         "Sunday"
       ],
       "time": "3:00pm – 5:00pm",
       "timePosted": true,
-      "details": "House red, white and prosecco $10, draft beer $8, plus food specials",
+      "details": "House red, white and prosecco $10, draft beer $8, plus food specials. Venue posted closed Thanksgiving Day (Thu Nov 26) on Instagram (Nov 24).",
       "address": "4000 24th St",
       "url": "https://www.novysf.com/",
       "sourceNote": "",
