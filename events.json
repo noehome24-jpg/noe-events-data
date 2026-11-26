@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T07:12:43-08:00",
+  "generatedAt": "2026-11-26T07:14:53-08:00",
   "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
   "events": [
     {
@@ -3130,7 +3130,7 @@
       "location": "DAMATO Studio - Living Room Stage",
       "address": "1270 Sanchez St, San Francisco",
       "desc": "Holiday show at DAMATO's Living Room Stage. 75-minute block; arrive 15 minutes early.",
-      "price": "$15",
+      "price": "$15.68 total ($15 + $0.68 fee)",
       "free": false,
       "tags": [
         "music",
@@ -3139,8 +3139,8 @@
       "url": "https://damatoperformanceschool.com/damato-calendar",
       "source": "damatoperformanceschool.com",
       "submittedBy": "",
-      "lastChecked": "2026-10-19 12:55 PT",
-      "checkedAt": "2026-10-19T12:55:00-07:00",
+      "lastChecked": "2026-11-26 07:14 PT",
+      "checkedAt": "2026-11-26T07:14:00-08:00",
       "cancelled": false,
       "cancelReason": "",
       "postponed": false,
@@ -3160,7 +3160,7 @@
       "location": "DAMATO Studio - Loft",
       "address": "1270 Sanchez St, San Francisco",
       "desc": "Full holiday show plus post-show holiday party and fundraiser with refreshments and karaoke; festive dress. Arrive 10 minutes early.",
-      "price": "$25",
+      "price": "$25.98 total ($25 + $0.98 fee)",
       "free": false,
       "tags": [
         "music",
@@ -3169,8 +3169,8 @@
       "url": "https://damatoperformanceschool.com/damato-calendar",
       "source": "damatoperformanceschool.com",
       "submittedBy": "",
-      "lastChecked": "2026-10-19 12:55 PT",
-      "checkedAt": "2026-10-19T12:55:00-07:00",
+      "lastChecked": "2026-11-26 07:14 PT",
+      "checkedAt": "2026-11-26T07:14:00-08:00",
       "cancelled": false,
       "cancelReason": "",
       "postponed": false,
@@ -4604,11 +4604,11 @@
       "tags": [
         "community"
       ],
-      "url": "https://sfrecpark.org/800/Dolores-Park",
+      "url": "https://sfrecpark.org/892/Mission-Dolores-Park/",
       "source": "sfrecpark.org",
       "submittedBy": "",
-      "lastChecked": "2026-11-26 06:54 PT",
-      "checkedAt": "2026-11-26T06:54:00-08:00",
+      "lastChecked": "2026-11-26 07:14 PT",
+      "checkedAt": "2026-11-26T07:14:00-08:00",
       "cancelled": false,
       "cancelReason": "",
       "postponed": false,
