@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T06:55:18-08:00",
+  "generatedAt": "2026-11-26T07:12:43-08:00",
   "sourceSheet": "https://docs.google.com/spreadsheets/d/1MUaqFYckyHhrbwvh9DszqYijJiX6WyWwrZPNVhPBt24/edit",
   "events": [
     {
@@ -2990,12 +2990,12 @@
       "url": "https://www.noemusic.org/2026-2027/jeremy-denk",
       "source": "noemusic.org",
       "submittedBy": "",
-      "lastChecked": "2026-09-25 06:58 PT",
-      "checkedAt": "2026-09-25T06:58:00-07:00",
+      "lastChecked": "2026-11-26 07:11 PT",
+      "checkedAt": "2026-11-26T07:11:00-08:00",
       "cancelled": false,
       "cancelReason": "",
       "postponed": false,
-      "status": "Confirmed"
+      "status": "Sold out online - waitlist per Noe Music's ticket page"
     },
     {
       "id": "e57a82f36",
@@ -3071,7 +3071,7 @@
       "address": "1021 Sanchez St",
       "desc": "",
       "endRaw": "21:00",
-      "price": "Ticketed - price not posted",
+      "price": "$30 adult, $15 student (plus fees)",
       "free": false,
       "tags": [
         "arts"
@@ -3079,8 +3079,8 @@
       "url": "https://www.noemusic.org/2026-2027/ejr-wellbeing",
       "source": "noemusic.org",
       "submittedBy": "",
-      "lastChecked": "2026-09-25 06:58 PT",
-      "checkedAt": "2026-09-25T06:58:00-07:00",
+      "lastChecked": "2026-11-26 07:12 PT",
+      "checkedAt": "2026-11-26T07:12:00-08:00",
       "cancelled": false,
       "cancelReason": "",
       "postponed": false,
